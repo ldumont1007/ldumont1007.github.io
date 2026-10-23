@@ -1,0 +1,9 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>TikTok sign-in</title><link rel="stylesheet" href="/style.css"><meta name="robots" content="noindex"></head><body><main>
+<h1>TikTok sign-in</h1><div id="out"><p>Loading…</p></div>
+<script>
+const q=new URLSearchParams(location.search),o=document.getElementById('out');
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+if(q.get('code')){o.innerHTML='<p>Sign-in worked. Copy this code and send it to Claude now (it expires in a few minutes):</p><span class="code">'+esc(q.get('code'))+'</span>';}
+else if(q.get('error')){o.innerHTML='<p>TikTok returned an error:</p><span class="code">'+esc(q.get('error'))+' '+esc(q.get('error_description')||'')+'</span>';}
+else{o.innerHTML='<p>This page receives the TikTok sign-in result for Louis Post Studio.</p>';}
+</script></main></body></html>
