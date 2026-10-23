@@ -1,0 +1,21 @@
+{
+ "format": "quiz",
+ "cover": {
+  "tag": "QUIZ FOOT",
+  "title": "Devine le joueur en 3 indices",
+  "sub": "Trouvé à l'indice 1 = vrai connaisseur.",
+  "note": "Pas de triche : la réponse est à la fin."
+ },
+ "clues": [
+  "Formé à Clairefontaine, il débute en pro à Monaco sous Arsène Wenger.",
+  "Il passe quelques mois à la Juventus avant de rejoindre Londres en 1999.",
+  "Champion d'Angleterre sans perdre un seul match en 2003-04."
+ ],
+ "answer": {
+  "first": "Thierry",
+  "last": "Henry",
+  "note": "Meilleur buteur de l'histoire d'Arsenal."
+ },
+ "follow": "un nouveau quiz foot chaque jour",
+ "caption": "Trouvé à quel indice ? Pas de triche 👀\n#quizfoot #devinelejoueur #football #foot #footballtiktok #pourtoi"
+}

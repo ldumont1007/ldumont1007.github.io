@@ -7,7 +7,7 @@ The refresh token is kept encrypted in state/tiktok_token.enc (AES-256, key = TO
 Commands:
   python tools/tiktok.py exchange CODE   # one-time: turn the sign-in code into a stored token
   python tools/tiktok.py whoami          # check the stored token works
-  python tools/tiktok.py send            # send every folder in outbox/ to the TikTok inbox
+  python tools/tiktok.py send [N]        # send the N oldest folders in outbox/ (default 1) to the TikTok inbox
 """
 import json, os, subprocess, sys, time, urllib.error, urllib.parse, urllib.request
 from pathlib import Path
@@ -108,7 +108,7 @@ def api_post(tok, path, payload):
     return d.get("data") or {}
 
 
-def wait_status(tok, publish_id, limit=300):
+def wait_status(tok, publish_id, limit=90):
     t0 = time.time(); last = None
     while time.time() - t0 < limit:
         d = api_post(tok, "/post/publish/status/fetch/", {"publish_id": publish_id})
@@ -160,8 +160,10 @@ def send_photos(tok, folder, photos, caption):
     return d["publish_id"]
 
 
-def cmd_send():
+def cmd_send(limit):
     items = sorted(p for p in OUTBOX.iterdir() if p.is_dir()) if OUTBOX.exists() else []
+    print(f"{len(items)} post(s) waiting in the outbox; sending {min(limit, len(items))}.")
+    items = items[:limit]
     if not items: print("Outbox is empty, nothing to send."); return
     tok = access_token(); done, failed = [], []
     for folder in items:
@@ -196,5 +198,5 @@ if __name__ == "__main__":
     c = sys.argv[1] if len(sys.argv) > 1 else ""
     if c == "exchange": cmd_exchange(sys.argv[2] if len(sys.argv) > 2 else env("TIKTOK_CODE"))
     elif c == "whoami": whoami()
-    elif c == "send": cmd_send()
+    elif c == "send": cmd_send(int(os.environ.get("SEND_LIMIT") or (sys.argv[2] if len(sys.argv) > 2 else 1)))
     else: sys.exit(__doc__)

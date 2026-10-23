@@ -1,9 +1,16 @@
 name: Send to TikTok inbox
-# Every folder pushed into outbox/ (a .mp4 video, or .jpg photos + caption.txt) is sent to the TikTok inbox as a draft.
+# Three times a day, the oldest folder in outbox/ (a .mp4 video, or .jpg photos + caption.txt)
+# is sent to the TikTok inbox as a draft. Run it by hand from the Actions tab to send more now.
 on:
-  push:
-    paths: ["outbox/**"]
+  schedule:
+    - cron: "7 10 * * *"   # ~12:07 Paris (summer time) / 11:07 (winter)
+    - cron: "7 16 * * *"   # ~18:07 / 17:07
+    - cron: "7 19 * * *"   # ~21:07 / 20:07
   workflow_dispatch:
+    inputs:
+      count:
+        description: "How many posts to send now"
+        default: "1"
 permissions:
   contents: write
 concurrency: tiktok
@@ -17,6 +24,7 @@ jobs:
           TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
           TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
           TOKEN_PASSPHRASE: ${{ secrets.TOKEN_PASSPHRASE }}
+          SEND_LIMIT: ${{ github.event.inputs.count || '1' }}
         run: python3 tools/tiktok.py send
       - name: Clear sent items and save the token
         if: always()

@@ -1,0 +1,42 @@
+{
+ "format": "story",
+ "cover": {
+  "tag": "HISTOIRE DU FOOT",
+  "big": "6-1",
+  "big_color": "red",
+  "title": "La nuit où le PSG a tout perdu",
+  "swipe": "L'histoire"
+ },
+ "slides": [
+  {
+   "tag": "14 FÉVRIER 2017",
+   "big": "PSG 4-0 Barça",
+   "body": "Huitième de finale aller de Ligue des champions. Le Parc des Princes croit la qualification acquise."
+  },
+  {
+   "tag": "8 MARS 2017",
+   "big": "Au Camp Nou, c'est 3-1 à la 88e.",
+   "body": "Cavani a marqué. Le Barça doit encore marquer 3 buts en quelques minutes.",
+   "color": "red",
+   "size": 90
+  },
+  {
+   "tag": "LES 7 DERNIÈRES MINUTES",
+   "big": "3 buts.",
+   "points": [
+    "88e : coup franc de Neymar.",
+    "90e+1 : penalty de Neymar.",
+    "90e+5 : Sergi Roberto, sur un centre de Neymar."
+   ]
+  },
+  {
+   "tag": "LE RÉSULTAT",
+   "big": "6-1. Le Barça se qualifie.",
+   "body": "Première équipe à remonter un 4-0 en Ligue des champions."
+  }
+ ],
+ "end_title": "Le pire souvenir du PSG ?",
+ "end_sub": "Ou pire encore ? Dis-le en commentaire.",
+ "follow": "une histoire de foot folle chaque jour",
+ "caption": "Le 8 mars 2017. Tu regardais ? 😶\n#remontada #psg #barcelone #neymar #liguedeschampions #histoiredufoot #football #foot #footballtiktok #pourtoi"
+}

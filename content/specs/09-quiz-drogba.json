@@ -1,0 +1,21 @@
+{
+ "format": "quiz",
+ "cover": {
+  "tag": "QUIZ FOOT",
+  "title": "Devine le joueur en 3 indices",
+  "sub": "Trouvé à l'indice 1 = vrai connaisseur.",
+  "note": "Pas de triche : la réponse est à la fin."
+ },
+ "clues": [
+  "Il débute en Ligue 2, au Mans, puis passe par Guingamp.",
+  "Une seule saison à l'OM, jusqu'en finale de Coupe UEFA en 2004.",
+  "Il égalise à la 88e d'une finale de C1, puis marque le tir au but de la victoire."
+ ],
+ "answer": {
+  "first": "Didier",
+  "last": "Drogba",
+  "note": "Munich, 19 mai 2012. Chelsea remporte sa première Ligue des champions."
+ },
+ "follow": "un nouveau quiz foot chaque jour",
+ "caption": "Trouvé à quel indice ? Pas de triche 👀\n#quizfoot #devinelejoueur #ligue1 #football #foot #footballtiktok #pourtoi"
+}

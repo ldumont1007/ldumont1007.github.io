@@ -1,0 +1,44 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Compose ton milieu",
+ "tiers": [
+  {
+   "price": 6,
+   "names": [
+    "Zidane",
+    "Iniesta"
+   ]
+  },
+  {
+   "price": 4,
+   "names": [
+    "Xavi",
+    "Pirlo",
+    "Modrić"
+   ]
+  },
+  {
+   "price": 2,
+   "names": [
+    "Kanté",
+    "Makélélé",
+    "Busquets"
+   ]
+  }
+ ],
+ "trap": [
+  "Zidane",
+  "Iniesta"
+ ],
+ "pick": [
+  "Iniesta",
+  "Busquets",
+  "Xavi"
+ ],
+ "pick_title": "Le milieu du Barça",
+ "example": "Zidane · Pirlo · Kanté",
+ "end_sub": "Écris ton milieu en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "caption": "12M pour ton milieu. Tu prends qui ? 🧠👇\n#defifoot #zidane #iniesta #xavi #pirlo #modric #football #foot #footballtiktok #pourtoi"
+}

@@ -1,0 +1,21 @@
+{
+ "format": "quiz",
+ "cover": {
+  "tag": "QUIZ FOOT",
+  "title": "Devine le joueur en 3 indices",
+  "sub": "Celui-là est plus dur.",
+  "note": "Écris ta réponse avant de voir la suivante."
+ },
+ "clues": [
+  "À 18 ans, il est prêté au Zrinjski Mostar, en Bosnie.",
+  "Il passe par Tottenham avant de signer au Real Madrid en 2012.",
+  "Ballon d'Or 2018 : il interrompt dix ans de règne Messi-Ronaldo."
+ ],
+ "answer": {
+  "first": "Luka",
+  "last": "Modrić",
+  "note": "Finaliste de la Coupe du monde 2018 avec la Croatie."
+ },
+ "follow": "un nouveau quiz foot chaque jour",
+ "caption": "Celui-là est plus dur. Trouvé à quel indice ? 👀\n#quizfoot #devinelejoueur #realmadrid #football #foot #footballtiktok #pourtoi"
+}

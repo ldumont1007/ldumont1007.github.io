@@ -1,0 +1,35 @@
+{
+ "format": "story",
+ "cover": {
+  "tag": "HISTOIRE DU FOOT",
+  "big": "0-3",
+  "big_color": "red",
+  "title": "à la mi-temps d'une finale de C1",
+  "swipe": "L'histoire"
+ },
+ "slides": [
+  {
+   "tag": "25 MAI 2005 · ISTANBUL",
+   "big": "Milan AC 3-0 Liverpool",
+   "body": "À la pause de la finale, Milan a fait le plus dur. Maldini a marqué à la 1re minute."
+  },
+  {
+   "tag": "SECONDE PÉRIODE",
+   "big": "6 minutes de folie.",
+   "points": [
+    "54e : Gerrard, de la tête.",
+    "56e : Šmicer, de loin.",
+    "60e : Xabi Alonso, sur le rebond de son penalty."
+   ]
+  },
+  {
+   "tag": "LA FIN",
+   "big": "3-3, puis les tirs au but.",
+   "body": "Dudek fait le show sur sa ligne. Liverpool remporte sa 5e Coupe d'Europe."
+  }
+ ],
+ "end_title": "Plus fou que la remontada ?",
+ "end_sub": "Istanbul 2005 ou Barça-PSG 2017 ? Vote en commentaire.",
+ "follow": "une histoire de foot folle chaque jour",
+ "caption": "0-3 à la mi-temps. Et pourtant… 🔴\n#liverpool #istanbul2005 #gerrard #liguedeschampions #histoiredufoot #football #foot #footballtiktok #pourtoi"
+}

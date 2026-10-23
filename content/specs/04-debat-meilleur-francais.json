@@ -1,0 +1,44 @@
+{
+ "format": "vote",
+ "cover": {
+  "tag": "DÉBAT",
+  "title": "Le plus grand joueur français de l'histoire ?",
+  "sub": "3 candidats. Un seul gagnant. C'est toi qui votes."
+ },
+ "candidates": [
+  {
+   "name": "Platini",
+   "short": "Platini",
+   "color": "blue",
+   "sub": "Juventus · Années 80",
+   "facts": [
+    "3 Ballons d'Or de suite (1983, 1984, 1985).",
+    "Champion d'Europe 1984 avec 9 buts dans le tournoi."
+   ]
+  },
+  {
+   "name": "Zidane",
+   "short": "Zidane",
+   "color": "gold",
+   "sub": "Real Madrid · 1998-2006",
+   "facts": [
+    "Champion du monde 1998 : doublé en finale.",
+    "Champion d'Europe 2000, Ballon d'Or 1998."
+   ]
+  },
+  {
+   "name": "Mbappé",
+   "short": "Mbappé",
+   "color": "red",
+   "sub": "Depuis 2017",
+   "facts": [
+    "Champion du monde 2018 à 19 ans.",
+    "Triplé en finale de Coupe du monde 2022."
+   ]
+  }
+ ],
+ "end_sub": "Platini, Zidane ou Mbappé ? Un nom en commentaire.",
+ "end_note": "Henry, Kopa, Benzema ? Défends ton candidat.",
+ "follow": "un nouveau débat foot chaque jour",
+ "caption": "Platini, Zidane ou Mbappé ? Un seul nom 👇\n#equipedefrance #zidane #platini #mbappe #debatfoot #football #foot #footballtiktok #pourtoi"
+}

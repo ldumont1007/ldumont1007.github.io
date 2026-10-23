@@ -1,0 +1,44 @@
+{
+ "format": "story",
+ "cover": {
+  "tag": "HISTOIRE DU FOOT",
+  "big": "5000",
+  "big2": "contre 1",
+  "title": "Le plus grand exploit de l'histoire du foot ?",
+  "swipe": "L'histoire"
+ },
+ "slides": [
+  {
+   "tag": "SAISON 2014-15",
+   "big": "Leicester lutte pour sa survie.",
+   "body": "Dernier pendant une bonne partie de l'hiver. Ils se sauvent in extremis.",
+   "color": "red",
+   "size": 90
+  },
+  {
+   "tag": "ÉTÉ 2015",
+   "big": "Ranieri arrive.",
+   "body": "Pour les bookmakers, Leicester champion, c'est 1 chance sur 5000.",
+   "size": 110
+  },
+  {
+   "tag": "LE PLAN",
+   "big": "4-4-2, bloc bas, contre-attaque éclair.",
+   "size": 70,
+   "points": [
+    "Kanté récupère : le joueur qui gagne le plus de ballons du championnat.",
+    "Mahrez crée : élu meilleur joueur de la saison par ses pairs.",
+    "Vardy finit : 11 matchs de suite en marquant, record de Premier League."
+   ]
+  },
+  {
+   "tag": "2 MAI 2016",
+   "big": "Leicester est champion d'Angleterre.",
+   "body": "81 points, 10 d'avance. Titre acté le soir où Tottenham ne gagne pas à Chelsea."
+  }
+ ],
+ "end_title": "Ça pourrait encore arriver ?",
+ "end_sub": "Quel club serait le prochain Leicester ? Dis-le en commentaire.",
+ "follow": "une histoire de foot folle chaque jour",
+ "caption": "5000 contre 1. Le plus grand exploit du foot ? 🦊\n#leicester #premierleague #ranieri #vardy #histoiredufoot #football #foot #footballtiktok #pourtoi"
+}

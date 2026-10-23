@@ -1,0 +1,53 @@
+{
+ "format": "vote",
+ "cover": {
+  "tag": "DÉBAT",
+  "title": "Le meilleur trio offensif de l'histoire récente ?",
+  "sub": "3 candidats. Un seul gagnant. C'est toi qui votes."
+ },
+ "candidates": [
+  {
+   "name": "MSN",
+   "color": "gold",
+   "sub": "FC Barcelone · 2014-2017",
+   "players": [
+    "Messi",
+    "Suárez",
+    "Neymar"
+   ],
+   "facts": [
+    "Le triplé en 2015 : Liga, Coupe du Roi, Ligue des champions."
+   ]
+  },
+  {
+   "name": "BBC",
+   "color": "violet",
+   "sub": "Real Madrid · 2013-2018",
+   "players": [
+    "Bale",
+    "Benzema",
+    "Cristiano"
+   ],
+   "facts": [
+    "4 Ligues des champions en 5 saisons."
+   ]
+  },
+  {
+   "name": "SMF",
+   "color": "red",
+   "sub": "Liverpool · 2017-2022",
+   "players": [
+    "Salah",
+    "Mané",
+    "Firmino"
+   ],
+   "facts": [
+    "La Ligue des champions 2019, la Premier League 2020."
+   ]
+  }
+ ],
+ "end_sub": "Commente juste MSN, BBC ou SMF",
+ "end_note": "Et si ton trio n'est pas là, balance-le.",
+ "follow": "un nouveau débat foot chaque jour",
+ "caption": "MSN, BBC ou SMF ? Un seul mot en commentaire 👇\n#messi #cristianoronaldo #salah #barcelona #realmadrid #liverpool #football #foot #footballtiktok #pourtoi"
+}
