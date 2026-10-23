@@ -3,7 +3,8 @@
 <script>
 const q=new URLSearchParams(location.search),o=document.getElementById('out');
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-if(q.get('code')){o.innerHTML='<p>Sign-in worked. Copy this code and send it to Claude now (it expires in a few minutes):</p><span class="code">'+esc(q.get('code'))+'</span>';}
+if(q.get('code')){o.innerHTML='<p>Sign-in worked. Copy this code now, it expires in a few minutes:</p><span class="code">'+esc(q.get('code'))+'</span><p><button id="cp">Copy code</button></p><p>Then open <a href="https://github.com/ldumont1007/ldumont1007.github.io/actions/workflows/tiktok-signin.yml" target="_blank">TikTok sign-in on GitHub</a>, click <b>Run workflow</b>, paste the code and click the green <b>Run workflow</b> button. Or send the code to Claude.</p>';}
 else if(q.get('error')){o.innerHTML='<p>TikTok returned an error:</p><span class="code">'+esc(q.get('error'))+' '+esc(q.get('error_description')||'')+'</span>';}
 else{o.innerHTML='<p>This page receives the TikTok sign-in result for Louis Post Studio.</p>';}
+const b=document.getElementById('cp');if(b)b.onclick=()=>{navigator.clipboard.writeText(q.get('code')).then(()=>{b.textContent='Copied';},()=>{b.textContent='Select and copy it manually';});};
 </script></main></body></html>

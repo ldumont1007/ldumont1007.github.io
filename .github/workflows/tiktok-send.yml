@@ -1,0 +1,28 @@
+name: Send to TikTok inbox
+# Every folder pushed into outbox/ (a .mp4 video, or .jpg photos + caption.txt) is sent to the TikTok inbox as a draft.
+on:
+  push:
+    paths: ["outbox/**"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: tiktok
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Send drafts
+        env:
+          TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
+          TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
+          TOKEN_PASSPHRASE: ${{ secrets.TOKEN_PASSPHRASE }}
+        run: python3 tools/tiktok.py send
+      - name: Clear sent items and save the token
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A state outbox
+          git commit -qm "Sent to TikTok inbox [skip ci]" || exit 0
+          git pull -q --rebase && git push -q
