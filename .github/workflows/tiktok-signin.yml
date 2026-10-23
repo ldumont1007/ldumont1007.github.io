@@ -32,6 +32,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A state auth 2>/dev/null || true
-          git commit -qm "Store TikTok sign-in [skip ci]" || exit 0
+          git add -A state
+          git add -A auth 2>/dev/null || true
+          git status --short
+          git commit -qm "Store TikTok sign-in [skip ci]" || { echo "::error::Nothing to save: the token was not stored"; exit 1; }
           git pull -q --rebase && git push -q
