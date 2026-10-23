@@ -10,7 +10,7 @@ Language: French. Audience: French-speaking football fans.
    `outbox/` (oldest name first) to the TikTok inbox as a draft, three times a day. Louis adds a trending sound and publishes.
 4. Sent items are removed from `outbox/` and logged in `state/sent.log`. Used specs move to `content/used/`.
 
-Queue rules: keep `outbox/` between **6 and 12** posts. Never dump more than that: TikTok limits unfinished drafts.
+Queue rules: keep `outbox/` at **9 posts or fewer** (the daily run adds min(3, 9 - count)). Never dump more than that: TikTok limits unfinished drafts.
 Folder names start with the date and a number so they send in order: `2026-10-24-01-quiz-zidane`.
 Alternate formats; never two of the same format in a row.
 
@@ -24,8 +24,12 @@ Alternate formats; never two of the same format in a row.
 - No politics, no insults, nothing about players' private lives. Debates stay about football.
 - Caption: one punchy line + 5-8 hashtags, always including `#football #foot #footballtiktok #pourtoi`.
 
+## Ideas and feedback
+- `content/ideas.md`: Louis's ideas, one per line. Use them first and delete each line you use.
+- `stats.md` (optional, written by Louis or from TikTok analytics): which posts performed best. Favour those formats and topics.
+
 ## Formats (spec["format"])
-Common keys: `caption` (required), `follow`.
+Common keys: `caption` (required), `follow`, `sources` (list of URLs used to check the facts; not rendered).
 
 **quiz**: guess the player/club in 3 clues, hardest first.
 `cover {tag,title,sub,note}`, `clues [3 strings, <= ~110 chars]`, `answer {first,last,note}`, optional `question`.
