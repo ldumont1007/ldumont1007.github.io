@@ -1,0 +1,35 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Compose ta défense",
+ "tiers": [
+  {"price": 6, "names": ["Maldini", "Cannavaro"]},
+  {"price": 4, "names": ["Ramos", "Varane", "Marcelo"]},
+  {"price": 2, "names": ["Thuram", "Puyol", "Lahm"]}
+ ],
+ "subs": {
+  "Maldini": "5 C1",
+  "Cannavaro": "Ballon d'Or 2006",
+  "Ramos": "C1 2016-17-18",
+  "Varane": "C1 2016-17-18",
+  "Marcelo": "C1 2016-17-18",
+  "Thuram": "Champion 98",
+  "Puyol": "Champion 2010",
+  "Lahm": "Champion 2014"
+ },
+ "trap": ["Maldini", "Cannavaro"],
+ "pick": ["Varane", "Ramos", "Marcelo"],
+ "pick_title": "La défense du Real",
+ "example": "Maldini · Ramos · Thuram",
+ "end_sub": "Écris ta défense en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/ramos-marcelo-varane-y-modric-en-el-once-mundial-de-fifa-fifpro-2018",
+  "https://www.uefa.com/uefachampionsleague/news/024e-0e99786bb0fa-6f7268847500-1000--champions-league-100-club-paolo-maldini",
+  "https://en.wikipedia.org/wiki/2006_Ballon_d%27Or",
+  "https://www.si.com/soccer/who-was-the-last-defender-to-win-ballon-dor",
+  "https://en.wikipedia.org/wiki/Philipp_Lahm",
+  "https://www.fifa.com/en/tournaments/mens/worldcup/2018russia/news/en/news/lahm-we-will-pass-our-pride-to-winners-2985215"
+ ],
+ "caption": "12M pour ta défense. Thuram à 2M, c'est cadeau ou pas ? 🧱👇\n#defifoot #maldini #cannavaro #ramos #varane #thuram #football #foot #footballtiktok #pourtoi"
+}
