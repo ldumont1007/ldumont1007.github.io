@@ -1,0 +1,48 @@
+{
+ "format": "story",
+ "cover": {
+  "tag": "HISTOIRE DU FOOT",
+  "big": "4e",
+  "big2": "division",
+  "title": "Des amateurs en finale de la Coupe de France ?",
+  "swipe": "L'histoire"
+ },
+ "slides": [
+  {
+   "tag": "SAISON 1999-2000",
+   "big": "Calais joue en CFA.",
+   "body": "Un club amateur de 4e division. Coach : Ladislas Lozano. Personne ne les attend.",
+   "size": 100
+  },
+  {
+   "tag": "QUART DE FINALE",
+   "big": "Strasbourg tombe : 2-1.",
+   "body": "Un club de D1 éliminé par des amateurs. Et ce n'est que le début.",
+   "color": "teal",
+   "size": 100
+  },
+  {
+   "tag": "DEMI-FINALE",
+   "big": "Bordeaux, champion de France, explose : 3-1.",
+   "body": "Après prolongation. Première fois qu'un club de 4e niveau va en finale.",
+   "color": "gold",
+   "size": 80
+  },
+  {
+   "tag": "7 MAI 2000 · STADE DE FRANCE",
+   "big": "Nantes 2-1 Calais.",
+   "body": "Il faut un doublé de Sibierski pour battre les amateurs. Les deux capitaines, Landreau et Becque, reçoivent la Coupe ensemble.",
+   "color": "red",
+   "size": 100
+  }
+ ],
+ "end_title": "Le plus bel exploit de la Coupe ?",
+ "end_sub": "Quel petit club t'a le plus marqué en Coupe de France ? Dis-le en commentaire.",
+ "follow": "une histoire de foot folle chaque jour",
+ "caption": "Des amateurs au Stade de France. Le plus bel exploit de la Coupe ? 🏆\n#coupedefrance #calais #magiedelacoupe #histoiredufoot #football #foot #footballtiktok #pourtoi",
+ "sources": [
+  "https://en.wikipedia.org/wiki/2000_Coupe_de_France_final",
+  "https://fr.wikipedia.org/wiki/Coupe_de_France_de_football_1999-2000",
+  "https://www.memosport.fr/2000-lexploit-de-calais-en-coupe-de-france.html"
+ ]
+}

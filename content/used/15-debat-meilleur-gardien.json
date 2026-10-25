@@ -1,0 +1,52 @@
+{
+ "format": "vote",
+ "cover": {
+  "tag": "DÉBAT",
+  "title": "Le meilleur gardien de l'histoire ?",
+  "sub": "3 légendes. Un seul gagnant. C'est toi qui votes."
+ },
+ "candidates": [
+  {
+   "name": "Yachine",
+   "short": "Yachine",
+   "color": "red",
+   "sub": "Dynamo Moscou · URSS",
+   "facts": [
+    "Le seul gardien Ballon d'Or de l'histoire (1963).",
+    "Champion d'Europe 1960 avec l'URSS."
+   ]
+  },
+  {
+   "name": "Buffon",
+   "short": "Buffon",
+   "color": "blue",
+   "sub": "Parme · Juventus · PSG",
+   "facts": [
+    "Champion du monde 2006 avec l'Italie.",
+    "Même champion de France avec le PSG en 2019."
+   ]
+  },
+  {
+   "name": "Neuer",
+   "short": "Neuer",
+   "color": "teal",
+   "sub": "Schalke · Bayern",
+   "facts": [
+    "Champion du monde 2014 et Gant d'or du Mondial.",
+    "2 Ligues des champions (2013, 2020)."
+   ]
+  }
+ ],
+ "end_sub": "Yachine, Buffon ou Neuer ? Un nom en commentaire.",
+ "end_note": "Casillas, Barthez, Courtois ? Défends ton gardien.",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://foot-africa.com/actualites/ballon-dor-lev-yachine-seul-gardien-a-avoir-remporte-le-trophee-863643/",
+  "https://www.90min.com/posts/who-was-last-goalkeeper-win-ballon-dor",
+  "https://en.psg.fr/teams/first-team/content/paris-saint-germain-thanks-gianluigi-buffon-for-honouring-the-rouge-bleu-shirt",
+  "https://www.eurosport.co.uk/football-news-gianluigi-buffon-to-leave-paris-saint-germain-after-one-season_sto7315379/story.shtml",
+  "https://fcbayern.com/en/teams/professionals/manuel-neuer",
+  "https://en.wikipedia.org/wiki/Manuel_Neuer"
+ ],
+ "caption": "Yachine, Buffon ou Neuer ? Un seul nom 🧤👇\n#gardien #buffon #neuer #yachine #debatfoot #football #foot #footballtiktok #pourtoi"
+}

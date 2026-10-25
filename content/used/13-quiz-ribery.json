@@ -1,0 +1,26 @@
+{
+ "format": "quiz",
+ "cover": {
+  "tag": "QUIZ FOOT",
+  "title": "Devine le joueur en 3 indices",
+  "sub": "Trouvé à l'indice 1 = vrai connaisseur.",
+  "note": "Pas de triche : la réponse est à la fin."
+ },
+ "clues": [
+  "Il commence à Boulogne, passe par Alès et Brest, puis explose à Metz.",
+  "En 2005, il marque en finale de la Coupe de Turquie : 5-1 contre Fenerbahçe.",
+  "Finaliste du Ballon d'Or 2013 face à Messi et Ronaldo. Beaucoup disent qu'on lui a volé."
+ ],
+ "answer": {
+  "first": "Franck",
+  "last": "Ribéry",
+  "note": "12 saisons au Bayern, 9 titres de champion d'Allemagne, meilleur joueur UEFA 2013."
+ },
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Franck_Rib%C3%A9ry",
+  "https://www.seneplus.com/node/17393",
+  "https://www.tntsports.co.uk/football/ballon-d-or/2021/ballon-dor-2013-when-franck-ribery-felt-robbed-as-cristiano-ronaldo-won-award-after-vote-controversy_sto9182668/story.shtml"
+ ],
+ "caption": "Trouvé à quel indice ? Sois honnête 👀\n#quizfoot #devinelejoueur #ligue1 #equipedefrance #football #foot #footballtiktok #pourtoi"
+}
