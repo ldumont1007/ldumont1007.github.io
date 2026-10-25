@@ -1,11 +1,13 @@
 name: Send to TikTok inbox
-# Three times a day, the oldest folder in outbox/ (a .mp4 video, or .jpg photos + caption.txt)
+# Five times a day, the oldest folder in outbox/ (a .mp4 video, or .jpg photos + caption.txt)
 # is sent to the TikTok inbox as a draft. Run it by hand from the Actions tab to send more now.
 on:
   schedule:
-    - cron: "7 10 * * *"   # ~12:07 Paris (summer time) / 11:07 (winter)
-    - cron: "7 16 * * *"   # ~18:07 / 17:07
-    - cron: "7 19 * * *"   # ~21:07 / 20:07
+    - cron: "7 8 * * *"    # ~09:07 Paris (winter time) / 10:07 (summer)
+    - cron: "7 11 * * *"   # ~12:07 / 13:07
+    - cron: "7 14 * * *"   # ~15:07 / 16:07
+    - cron: "7 17 * * *"   # ~18:07 / 19:07
+    - cron: "7 19 * * *"   # ~20:07 / 21:07
   workflow_dispatch:
     inputs:
       count:

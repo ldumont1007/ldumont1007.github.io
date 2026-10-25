@@ -7,10 +7,10 @@ Language: French. Audience: French-speaking football fans.
 1. A post is a JSON spec in `content/specs/` (see formats below).
 2. `python3 tools/render.py content/specs/NAME.json outbox/NAME` renders 1080x1920 JPG slides + `caption.txt`.
 3. Push to `main`. The site serves the photos; the **Send to TikTok inbox** workflow sends **one** post from
-   `outbox/` (oldest name first) to the TikTok inbox as a draft, three times a day. Louis adds a trending sound and publishes.
+   `outbox/` (oldest name first) to the TikTok inbox as a draft, five times a day. Louis adds a trending sound and publishes.
 4. Sent items are removed from `outbox/` and logged in `state/sent.log`. Used specs move to `content/used/`.
 
-Queue rules: keep `outbox/` at **9 posts or fewer** (the daily run adds min(3, 9 - count)). Never dump more than that: TikTok limits unfinished drafts.
+Queue rules: keep `outbox/` at **9 posts or fewer** (the daily run adds min(5, 9 - count)). Never dump more than that: TikTok limits unfinished drafts.
 Folder names start with the date and a number so they send in order: `2026-10-24-01-quiz-zidane`.
 Alternate formats; never two of the same format in a row.
 
