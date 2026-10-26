@@ -1,0 +1,50 @@
+{
+ "format": "story",
+ "cover": {
+  "tag": "HISTOIRE DU FOOT",
+  "big": "10",
+  "big2": "jours",
+  "title": "Repêchés 10 jours avant l'Euro… et champions d'Europe ?",
+  "swipe": "L'histoire"
+ },
+ "slides": [
+  {
+   "tag": "MAI 1992",
+   "big": "Le Danemark n'est même pas qualifié.",
+   "body": "La Yougoslavie est exclue de l'Euro par les sanctions de l'ONU. Les Danois sont repêchés 10 jours avant le début du tournoi.",
+   "size": 90
+  },
+  {
+   "tag": "17 JUIN 1992 · MALMÖ",
+   "big": "Danemark 2-1 France.",
+   "body": "Après un nul et une défaite, ils sortent les Bleus de Platini et Papin dès les poules.",
+   "color": "teal",
+   "size": 100
+  },
+  {
+   "tag": "DEMI-FINALE",
+   "big": "Schmeichel arrête Van Basten.",
+   "body": "2-2 contre les Pays-Bas, champions d'Europe en titre. Puis 5-4 aux tirs au but.",
+   "color": "gold",
+   "size": 90
+  },
+  {
+   "tag": "26 JUIN 1992 · GÖTEBORG",
+   "big": "Danemark 2-0 Allemagne.",
+   "body": "Contre les champions du monde 1990. Buts de John Jensen et Kim Vilfort. Les repêchés soulèvent la Coupe.",
+   "color": "red",
+   "size": 100
+  }
+ ],
+ "end_title": "Le plus gros hold-up de l'histoire ?",
+ "end_sub": "Danemark 92 ou Grèce 2004 ? Dis-le en commentaire.",
+ "follow": "une histoire de foot folle chaque jour",
+ "caption": "Repêchés 10 jours avant l'Euro… et champions d'Europe 🏆 Danemark 92 ou Grèce 2004 ? 👇\n#euro92 #danemark #schmeichel #histoiredufoot #football #foot #footballtiktok #pourtoi",
+ "sources": [
+  "https://en.wikipedia.org/wiki/UEFA_Euro_1992_final",
+  "https://rsssf.org/tables/92e-full.html",
+  "https://www.uefa.com/uefaeuro/history/news/0254-0d7b35924e40-58ab7b84ea3c-1000--soaring-denmark-finish-off-fancied-france-in-euro-1992-gr",
+  "https://it.uefa.com/uefaeuro/history/news/025d-0f6f7eb030e0-bce2162be402-1000--euro-classics-netherlands-vs-denmark/",
+  "https://www.uefa.com/uefaeuro/history/news/0253-0d821de74e10-2260606c4d61-1000--euro-on-this-day-26-june"
+ ]
+}

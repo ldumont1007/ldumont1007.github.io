@@ -1,0 +1,50 @@
+{
+ "format": "vote",
+ "cover": {
+  "tag": "DÉBAT",
+  "title": "Le roi du coup franc ?",
+  "sub": "3 légendes. Un seul roi. C'est toi qui votes."
+ },
+ "candidates": [
+  {
+   "name": "Juninho",
+   "short": "Juninho",
+   "color": "gold",
+   "sub": "Lyon · 7 titres de suite",
+   "facts": [
+    "44 buts sur coup franc avec Lyon.",
+    "Pirlo raconte qu'il l'a étudié pour copier sa frappe."
+   ]
+  },
+  {
+   "name": "Beckham",
+   "short": "Beckham",
+   "color": "red",
+   "sub": "Man United · Real · PSG",
+   "facts": [
+    "Contre la Grèce en 2001, son coup franc dans le temps additionnel envoie l'Angleterre au Mondial."
+   ]
+  },
+  {
+   "name": "Messi",
+   "short": "Messi",
+   "color": "blue",
+   "sub": "Barça · PSG · Argentine",
+   "facts": [
+    "Son coup franc contre Liverpool en demie de C1 2019.",
+    "C'était son 600e but avec le Barça."
+   ]
+  }
+ ],
+ "end_sub": "Juninho, Beckham ou Messi ? Un nom en commentaire.",
+ "end_note": "Roberto Carlos, Pirlo, Ronaldo ? Défends ton tireur.",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://www.uefa.com/uefachampionsleague/news/0224-0e915721f2b6-2e2e7beb8d66-1000--lyon-s-greatest-brazilian-players/",
+  "https://archive.trainingground.guru/articles/juninho-and-assun%C3%A7%C3%A3o-the-federer-and-nadal-of-free-kicks",
+  "https://www.foxnews.com/sports/when-i-attempt-free-kicks-i-think-in-portuguese-andrea-pirlo-reveals-his-brazilian-side",
+  "https://www.fourfourtwo.com/us/news/on-this-day-in-2001-david-beckham-takes-england-to-the-world-cup-1633431649000",
+  "https://www.aljazeera.com/sports/2019/5/2/messi-on-target-as-barcelona-beat-liverpool-in-champions-league"
+ ],
+ "caption": "Juninho, Beckham ou Messi ? Un seul nom 🎯👇\n#coupfranc #juninho #beckham #messi #debatfoot #football #foot #footballtiktok #pourtoi"
+}

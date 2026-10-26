@@ -1,0 +1,28 @@
+{
+ "format": "quiz",
+ "cover": {
+  "tag": "QUIZ FOOT",
+  "title": "Devine le joueur en 3 indices",
+  "sub": "Trouvé à l'indice 1 = vrai connaisseur.",
+  "note": "Pas de triche : la réponse est à la fin."
+ },
+ "clues": [
+  "Il fait ses débuts en D1 en 1989 avec Cannes, puis passe 4 saisons à Bordeaux.",
+  "À la Juventus : 2 titres de champion d'Italie… mais 2 finales de C1 perdues, en 1997 et 1998.",
+  "Ballon d'Or 1998. Cette année-là, il marque 2 buts de la tête en finale de Coupe du monde."
+ ],
+ "answer": {
+  "first": "Zinédine",
+  "last": "Zidane",
+  "note": "La volée de Glasgow en finale de C1 2002, puis 3 Ligues des champions de suite comme coach du Real."
+ },
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://www.maxifoot.fr/football/article-3246.htm",
+  "https://www.maxifoot.fr/football/article-3247.htm",
+  "https://www.britannica.com/print/article/657074",
+  "https://www.uefa.com/uefachampionsleague/news/0185-0e6a414977dc-840dff896fae-1000--madrid-win-ninth-european-crown/",
+  "https://lex.dk/Zinedine_Zidane"
+ ],
+ "caption": "Trouvé dès l'indice 1 ? Sois honnête 👀\n#quizfoot #devinelejoueur #equipedefrance #legendefoot #football #foot #footballtiktok #pourtoi"
+}

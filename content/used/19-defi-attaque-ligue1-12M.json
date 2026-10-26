@@ -1,0 +1,60 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Ton attaque Ligue 1",
+ "tiers": [
+  {
+   "price": 6,
+   "names": [
+    "Ibrahimović",
+    "Mbappé"
+   ]
+  },
+  {
+   "price": 4,
+   "names": [
+    "Papin",
+    "Pauleta",
+    "Cavani"
+   ]
+  },
+  {
+   "price": 2,
+   "names": [
+    "Gignac",
+    "Lacazette",
+    "Falcao"
+   ]
+  }
+ ],
+ "subs": {
+  "Ibrahimović": "4 titres au PSG",
+  "Mbappé": "6 titres de buteur",
+  "Papin": "5 titres de buteur",
+  "Pauleta": "3 titres de buteur",
+  "Cavani": "200 buts au PSG",
+  "Gignac": "Top buteur 2009",
+  "Lacazette": "Top buteur 2015",
+  "Falcao": "Champion 2017"
+ },
+ "trap": [
+  "Ibrahimović",
+  "Mbappé"
+ ],
+ "pick": [
+  "Papin",
+  "Pauleta",
+  "Cavani"
+ ],
+ "pick_title": "Que des tueurs",
+ "example": "Mbappé · Cavani · Gignac",
+ "end_sub": "Écris ton attaque en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/List_of_Ligue_1_top_scorers",
+  "https://en.psg.fr/teams/club/content/came-like-a-king-left-like-a-legend-thanks-zlatan-ibrahimovic-paris-saint-germain-2022-2023",
+  "https://www.goal.com/en-gb/news/paris-saint-germain-all-time-top-scorers-cavani-mbappe/bltd18ad96d63de1edf",
+  "https://en.wikipedia.org/wiki/2016%E2%80%9317_AS_Monaco_FC_season"
+ ],
+ "caption": "12M pour ton attaque. Papin à 4M, c'est du vol ou pas ? ⚽👇\n#defifoot #ligue1 #papin #mbappe #ibrahimovic #cavani #football #foot #footballtiktok #pourtoi"
+}
