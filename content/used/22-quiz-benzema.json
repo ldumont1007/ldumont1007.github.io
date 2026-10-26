@@ -1,0 +1,27 @@
+{
+ "format": "quiz",
+ "cover": {
+  "tag": "QUIZ FOOT",
+  "title": "Devine le joueur en 3 indices",
+  "sub": "Trouvé à l'indice 1 = vrai connaisseur.",
+  "note": "Pas de triche : la réponse est à la fin."
+ },
+ "clues": [
+  "Formé dans son club, il est champion de France 4 fois de suite avec lui, de 2005 à 2008.",
+  "En 2009, il signe en Espagne. Il y reste 14 saisons et gagne 5 Ligues des champions.",
+  "Ballon d'Or 2022. L'année suivante, il part en Arabie saoudite, à Al-Ittihad."
+ ],
+ "answer": {
+  "first": "Karim",
+  "last": "Benzema",
+  "note": "De Lyon au Real Madrid : 354 buts sous le maillot merengue."
+ },
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://www.realmadrid.com/en-US/the-club/history/football-legends/karim-benzema",
+  "https://en.wikipedia.org/wiki/Karim_Benzema",
+  "https://localnews8.com/sports/cnn-sports/2023/06/07/ballon-dor-winner-karim-benzema-signs-for-saudi-arabian-team-al-ittihad-after-leaving-real-madrid/",
+  "https://ligue1.com/fr/articles/l1_article_289-le-palmares-des-champions-de-ligue-1"
+ ],
+ "caption": "Indice 1, 2 ou 3 : t'as trouvé quand ? Sois honnête 👀\n#quizfoot #devinelejoueur #equipedefrance #legendefoot #football #foot #footballtiktok #pourtoi"
+}

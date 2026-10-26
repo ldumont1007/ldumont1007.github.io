@@ -1,0 +1,47 @@
+{
+ "format": "story",
+ "cover": {
+  "tag": "HISTOIRE DU FOOT",
+  "big": "2004",
+  "big_color": "red",
+  "title": "Le jour où Monaco a failli gagner la Ligue des champions",
+  "swipe": "L'histoire"
+ },
+ "slides": [
+  {
+   "tag": "PHASE DE GROUPES",
+   "big": "Monaco 8-3 La Corogne.",
+   "body": "Au Stade Louis-II, Dado Pršo plante 4 buts à lui seul. L'équipe de Didier Deschamps finit 1re de son groupe.",
+   "size": 100
+  },
+  {
+   "tag": "QUART DE FINALE",
+   "big": "Éliminer le Real des Galactiques.",
+   "body": "Battu 4-2 à l'aller, Monaco renverse tout et passe aux buts à l'extérieur. Morientes, prêté… par le Real, marque 2 fois contre son propre club.",
+   "color": "gold",
+   "size": 85
+  },
+  {
+   "tag": "DEMI-FINALE",
+   "big": "Chelsea sorti 5-3.",
+   "body": "Sur les deux matchs. Monaco est en finale de la Ligue des champions pour la première fois de son histoire.",
+   "color": "teal",
+   "size": 100
+  },
+  {
+   "tag": "26 MAI 2004 · GELSENKIRCHEN",
+   "big": "Porto 3-0 Monaco.",
+   "body": "Carlos Alberto, Deco et Alenitchev. Le Porto d'un certain José Mourinho brise le rêve monégasque.",
+   "color": "red",
+   "size": 100
+  }
+ ],
+ "end_title": "Le plus beau parcours français en C1 ?",
+ "end_sub": "Monaco 2004, OM 93 ou PSG 2025 ?",
+ "follow": "une histoire de foot folle chaque jour",
+ "caption": "Ils ont sorti le Real des Galactiques… et Chelsea 🔴⚪ Le plus beau parcours d'un club français ? 👇\n#asmonaco #monaco #liguedeschampions #deschamps #histoiredufoot #football #foot #footballtiktok #pourtoi",
+ "sources": [
+  "https://www.uefa.com/uefachampionsleague/news/0250-0c50f100f076-ecb0d9d85bb1-1000--2003-04-porto-pull-off-biggest-surprise/",
+  "https://asmonaco.com/en/when-as-monaco-played-their-first-champions-league-final"
+ ]
+}

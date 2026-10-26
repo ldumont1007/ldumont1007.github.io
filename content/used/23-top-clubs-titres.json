@@ -1,0 +1,43 @@
+{
+ "format": "top",
+ "cover": {
+  "tag": "TOP 5",
+  "title": "Les clubs les plus titrés de l'histoire du championnat de France",
+  "sub": "Un club a explosé tous les records."
+ },
+ "items": [
+  {
+   "title": "Lyon",
+   "big": "7 titres",
+   "body": "Tous d'affilée, de 2002 à 2008. Un record de série… battu par personne depuis."
+  },
+  {
+   "title": "Nantes et Monaco",
+   "big": "8 titres",
+   "body": "Le dernier pour Nantes en 2001, pour Monaco en 2017 avec Mbappé, Falcao et Bernardo Silva."
+  },
+  {
+   "title": "Marseille",
+   "big": "9 titres",
+   "body": "Dont 4 de suite de 1989 à 1992. Le dernier date de 2010, avec Deschamps sur le banc."
+  },
+  {
+   "title": "Saint-Étienne",
+   "big": "10 titres",
+   "body": "Entre 1957 et 1981. Les Verts ont longtemps été LE club le plus titré de France."
+  },
+  {
+   "title": "Paris Saint-Germain",
+   "big": "14 titres",
+   "body": "Le 14e en 2026, le 5e de suite. Une première dans l'histoire du club."
+  }
+ ],
+ "end_title": "Ton club est dans le top ?",
+ "end_sub": "Écris son nom en commentaire.",
+ "follow": "un nouveau top foot chaque jour",
+ "caption": "14 pour Paris, 10 pour les Verts… et ton club ? 🏆👇\n#ligue1 #psg #om #asse #topfoot #football #foot #footballtiktok #pourtoi",
+ "sources": [
+  "https://ligue1.com/fr/articles/l1_article_289-le-palmares-des-champions-de-ligue-1",
+  "https://news.maxifoot.fr/ligue-1/le-psg-champion-pour-la-14e-fois-foot-455886.htm"
+ ]
+}

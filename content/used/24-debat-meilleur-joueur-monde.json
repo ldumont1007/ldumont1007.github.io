@@ -1,0 +1,49 @@
+{
+ "format": "vote",
+ "cover": {
+  "tag": "DÉBAT",
+  "title": "Le meilleur joueur du monde en ce moment ?",
+  "sub": "3 noms. Un seul trône. C'est toi qui votes."
+ },
+ "candidates": [
+  {
+   "name": "Mbappé",
+   "short": "Mbappé",
+   "color": "violet",
+   "sub": "Real Madrid · France",
+   "facts": [
+    "Doublé au Camp Nou le 25 octobre 2026 : Barça 1-2 Real.",
+    "Le Barça n'avait encore jamais perdu en Liga cette saison."
+   ]
+  },
+  {
+   "name": "Dembélé",
+   "short": "Dembélé",
+   "color": "blue",
+   "sub": "PSG · France",
+   "facts": [
+    "Ballon d'Or 2025."
+   ]
+  },
+  {
+   "name": "Yamal",
+   "short": "Yamal",
+   "color": "red",
+   "sub": "Barça · Espagne",
+   "facts": [
+    "Premier joueur à gagner 2 fois le Trophée Kopa (2024 et 2025)."
+   ]
+  }
+ ],
+ "end_sub": "Mbappé, Dembélé ou Yamal ? Un nom en commentaire.",
+ "end_note": "Kane, Salah, Vitinha ? Défends ton joueur.",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://www.france24.com/fr/%C3%A9missions/sports/20261026-le-real-madrid-remporte-clasico-face-fc-barcelone-gr%C3%A2ce-kylian-mbapp%C3%A9",
+  "https://sports.yahoo.com/articles/kylian-mbappe-clasico-double-condemns-224409969.html",
+  "https://sportnewsafrica.com/en/news/barcelona-real-madrid-1-2-mbappe-clasico-25-october-2026/",
+  "https://www.atalayar.com/en/articulo/sports/dembele-ballon-dor-2025/20250923140055218666.html",
+  "https://gulfnews.com/sport/football/lamine-yamal-makes-history-first-player-to-win-kopa-trophy-twice-1.500279314"
+ ],
+ "caption": "Mbappé, Dembélé ou Yamal ? Un seul nom 👑👇\n#mbappe #dembele #yamal #clasico #debatfoot #football #foot #footballtiktok #pourtoi"
+}
