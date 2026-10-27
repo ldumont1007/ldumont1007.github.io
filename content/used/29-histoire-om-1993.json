@@ -1,0 +1,20 @@
+{
+ "format": "story",
+ "cover": {"tag": "HISTOIRE DU FOOT", "big": "1993", "big_color": "blue", "title": "Le soir où l'OM est devenu champion d'Europe", "swipe": "L'histoire"},
+ "slides": [
+  {"tag": "26 MAI 1993 · MUNICH", "big": "OM – Milan, en finale.", "body": "En face : Baresi, Maldini, Rijkaard, Van Basten. Le Milan de Fabio Capello est le grand favori.", "size": 100},
+  {"tag": "JUSTE AVANT LA PAUSE", "big": "Corner d'Abedi Pelé…", "body": "Basile Boli devance Rijkaard et place une tête que Rossi ne peut pas arrêter. 1-0, le seul but du match.", "color": "gold", "size": 100},
+  {"tag": "LA FIN D'UNE LÉGENDE", "big": "Le dernier match de Van Basten.", "body": "Diminué, il erre sur le terrain. Il ne rejouera plus jamais en match officiel. Il a 28 ans.", "color": "teal", "size": 90},
+  {"tag": "HISTORIQUE", "big": "1er club français champion d'Europe.", "body": "Deschamps capitaine, Raymond Goethals sur le banc. Il faudra attendre le PSG en 2025 pour voir un 2e club français soulever la C1.", "color": "red", "size": 85}
+ ],
+ "end_title": "Le plus grand exploit d'un club français ?",
+ "end_sub": "OM 93 ou PSG 2025 ?",
+ "follow": "une histoire de foot folle chaque jour",
+ "caption": "Une tête de Boli et Marseille entre dans l'histoire 🔵⚪ OM 93 ou PSG 2025, le plus grand exploit ? 👇\n#om #olympiquedemarseille #liguedeschampions #boli #histoiredufoot #football #foot #footballtiktok #pourtoi",
+ "sources": [
+  "https://www.lavenir.net/cnt/dmf20200526_01477769",
+  "https://fr.soccerway.com/actualites/football-ligue-des-champions-flashback-milan-marseille-gloire-et-scandale-dans-la-derniere-finale-europeenne-italo-francaise/r9VW86qH",
+  "https://www.goal.com/fr/news/ligue-des-champions-marseille-milan-ac-la-finale-de-1993/blt6770883cc65da1b5",
+  "https://www.dhnet.be/dernieres-depeches/2025/05/31/ligue-des-champions-le-psg-domine-linter-milan-5-0-en-finale-avec-un-double-de-desire-doue-QD7BHUCHKBBNRGSZ4O2WSA2DM4/"
+ ]
+}

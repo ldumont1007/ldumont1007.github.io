@@ -1,0 +1,61 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Ton trio des Bleus",
+ "tiers": [
+  {
+   "price": 6,
+   "names": [
+    "Zidane",
+    "Mbappé"
+   ]
+  },
+  {
+   "price": 4,
+   "names": [
+    "Platini",
+    "Henry",
+    "Griezmann"
+   ]
+  },
+  {
+   "price": 2,
+   "names": [
+    "Kopa",
+    "Papin",
+    "Giroud"
+   ]
+  }
+ ],
+ "subs": {
+  "Zidane": "Ballon d'Or 98",
+  "Mbappé": "22 buts en CdM",
+  "Platini": "3 Ballons d'Or",
+  "Henry": "51 buts en Bleu",
+  "Griezmann": "Champion 2018",
+  "Kopa": "Ballon d'Or 58",
+  "Papin": "Ballon d'Or 91",
+  "Giroud": "Champion 2018"
+ },
+ "trap": [
+  "Zidane",
+  "Mbappé"
+ ],
+ "pick": [
+  "Platini",
+  "Henry",
+  "Griezmann"
+ ],
+ "pick_title": "Le trio des connaisseurs",
+ "example": "Zidane · Henry · Giroud",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Ballon_d%27Or",
+  "https://www.fff.fr/equipe-nationale/joueur/9809-henry-thierry/fiche.html",
+  "https://www.larousse.fr/encyclopedie/personnage/wd/138415",
+  "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_top_goalscorers",
+  "https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Final"
+ ],
+ "caption": "12M pour 3 légendes des Bleus. Zidane + Mbappé et tu n'as plus un centime 😅 Ton trio ? 👇\n#equipedefrance #lesbleus #zidane #mbappe #defifoot #football #foot #footballtiktok #pourtoi"
+}

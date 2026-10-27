@@ -1,0 +1,13 @@
+{
+ "format": "quiz",
+ "cover": {"tag": "QUIZ LÉGENDE", "title": "Devine le joueur en 3 indices", "sub": "Trouvé à l'indice 1 = vrai connaisseur.", "note": "Pas de triche : la réponse est à la fin."},
+ "clues": [
+  "Il débute pro à Auxerre en 1983 et gagne le championnat de France avec l'OM en 1991.",
+  "Champion d'Angleterre avec Leeds en 1992… puis il file chez Manchester United pour 1 million de livres.",
+  "4 titres de Premier League en 5 ans, le col toujours relevé. À Old Trafford, c'est « The King »."
+ ],
+ "answer": {"first": "Éric", "last": "Cantona", "note": "Il a pris sa retraite en 1997, à seulement 30 ans."},
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": ["https://en.wikipedia.org/wiki/Eric_Cantona", "https://www.fourfourtwo.com/us/features/every-club-eric-cantona-played-for-a-potted-history-of-the-frenchmans-career"],
+ "caption": "Un Français devenu roi en Angleterre 👑 Trouvé à quel indice ? Dis-le en commentaire 👇\n#quizfoot #devinelejoueur #legendefoot #premierleague #football #foot #footballtiktok #pourtoi"
+}
