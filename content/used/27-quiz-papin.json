@@ -1,0 +1,26 @@
+{
+ "format": "quiz",
+ "cover": {
+  "tag": "QUIZ BALLON D'OR",
+  "title": "Devine le Ballon d'Or en 3 indices",
+  "sub": "Trouvé à l'indice 1 = vrai connaisseur.",
+  "note": "Pas de triche : la réponse est à la fin."
+ },
+ "clues": [
+  "Il commence pro à Valenciennes, puis passe une seule saison en Belgique, à Bruges.",
+  "Meilleur buteur du championnat de France 5 saisons de suite, de 1987-88 à 1991-92.",
+  "Ballon d'Or 1991. Ses reprises de volée portent son nom."
+ ],
+ "answer": {
+  "first": "Jean-Pierre",
+  "last": "Papin",
+  "note": "Ballon d'Or 1991 avec l'OM. Les « papinades », c'est lui."
+ },
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Jean-Pierre_Papin",
+  "https://en.wikipedia.org/wiki/1991_Ballon_d%27Or",
+  "https://www.fff.fr/equipe-nationale/joueur/9654-papin-jean-pierre/fiche.html"
+ ],
+ "caption": "Un Ballon d'Or qui a fait vibrer le Vélodrome. Trouvé à quel indice ? 👀👇\n#quizfoot #devinelejoueur #ballondor #legendefoot #football #foot #footballtiktok #pourtoi"
+}

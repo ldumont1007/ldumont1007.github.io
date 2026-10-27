@@ -1,0 +1,43 @@
+{
+ "format": "vote",
+ "cover": {
+  "tag": "BALLON D'OR 2026",
+  "title": "Kane Ballon d'Or : mérité ou pas ?",
+  "sub": "Le podium du 26 octobre 2026. Toi, tu l'aurais donné à qui ?"
+ },
+ "candidates": [
+  {
+   "name": "Kane",
+   "short": "Kane",
+   "color": "gold",
+   "sub": "Bayern · Angleterre",
+   "facts": ["Ballon d'Or 2026, le 1er de sa carrière.", "Champion d'Allemagne avec le Bayern."]
+  },
+  {
+   "name": "Mbappé",
+   "short": "Mbappé",
+   "color": "violet",
+   "sub": "Real Madrid · France",
+   "facts": ["2e du classement 2026.", "Le meilleur Français du classement."]
+  },
+  {
+   "name": "Yamal",
+   "short": "Yamal",
+   "color": "red",
+   "sub": "Barça · Espagne",
+   "facts": ["3e du classement et Trophée Kopa 2026.", "Champion du monde 2026 avec l'Espagne."]
+  }
+ ],
+ "end_sub": "Kane, Mbappé ou Yamal ? Un nom en commentaire.",
+ "end_note": "Messi 5e à 39 ans, Dembélé 7e : t'en penses quoi ?",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://www.eurosport.fr/football/ballon-d-or/2026/le-classement-complet-du-ballon-dor-2026-harry-kane-sacre-kylian-mbappe-et-lamine-yamal-sur-le-podium_sto23349546/story.shtml",
+  "https://www.footmercato.net/a8083755137610716865-harry-kane-remporte-le-ballon-dor-2026",
+  "https://www.allfootballapp.com/articles/5734526-2026-ballon-dor-full-rankings-kane",
+  "https://www.espn.com/soccer/story/_/id/50289067/ballon-dor-2026-results-full-rankings-all-award-winners",
+  "https://www.parismatch.be/videos/2026/05/17/le-bayern-munich-celebre-son-35e-titre-de-champion-d-allemagne-3rv3fxf/",
+  "https://www.afrik.com/mondial-2026-l-espagne-sacree-championne-du-monde-apres-prolongations-face-a-l-argentine-1-0"
+ ],
+ "caption": "Kane Ballon d'Or 2026 devant Mbappé et Yamal. Mérité ? 🏆👇\n#ballondor #ballondor2026 #kane #mbappe #yamal #debatfoot #football #foot #footballtiktok #pourtoi"
+}
