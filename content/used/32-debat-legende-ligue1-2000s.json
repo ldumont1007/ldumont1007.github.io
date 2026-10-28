@@ -1,0 +1,51 @@
+{
+ "format": "vote",
+ "cover": {
+  "tag": "DÉBAT",
+  "title": "Le plus grand joueur de Ligue 1 des années 2000 ?",
+  "sub": "3 légendes. Un seul choix. Pas de « les trois »."
+ },
+ "candidates": [
+  {
+   "name": "Juninho",
+   "short": "Juninho",
+   "color": "blue",
+   "sub": "OL · 2001-2009",
+   "facts": [
+    "7 titres de champion de France de suite avec Lyon (2002 à 2008).",
+    "100 buts avec l'OL, dont des coups francs légendaires."
+   ]
+  },
+  {
+   "name": "Pauleta",
+   "short": "Pauleta",
+   "color": "red",
+   "sub": "Bordeaux · PSG",
+   "facts": [
+    "3 fois meilleur buteur de L1 (2002, 2006, 2007).",
+    "109 buts avec le PSG : record du club jusqu'à Zlatan en 2015."
+   ]
+  },
+  {
+   "name": "Ronaldinho",
+   "short": "Ronaldinho",
+   "color": "gold",
+   "sub": "PSG · 2001-2003",
+   "facts": [
+    "Champion du monde 2002 alors qu'il jouait au PSG.",
+    "17 buts en 55 matchs de L1, puis Ballon d'Or 2005 avec le Barça."
+   ]
+  }
+ ],
+ "end_sub": "Juninho, Pauleta ou Ronaldinho ? Un nom en commentaire.",
+ "end_note": "Drogba, Ben Arfa, Hazard ? Défends ton joueur.",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://www.lyoncapitale.fr/sport/juninho-quitte-lyon",
+  "https://ligue1.com/fr/articles/l1_article_289-le-palmares-des-champions-de-ligue-1",
+  "https://en.wikipedia.org/wiki/Pauleta",
+  "https://senego.com/psg-ibrahimovic-bat-avec-110-buts-le-record-de-pauleta_271017.html",
+  "https://www.ligue1.com/articles/legends/2020/03/26/ronaldinho-the-art-of-joga-bonito"
+ ],
+ "caption": "Juninho, Pauleta ou Ronaldinho : qui était le vrai patron de la L1 ? 👑👇\n#ligue1 #juninho #pauleta #ronaldinho #debatfoot #football #foot #footballtiktok #pourtoi"
+}
