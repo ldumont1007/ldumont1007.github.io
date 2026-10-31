@@ -1,0 +1,19 @@
+{
+ "format": "vote",
+ "cover": {"tag": "DÉBAT", "title": "Le plus gros vol de l'histoire du Ballon d'Or ?", "sub": "3 joueurs qui auraient dû le gagner. C'est toi qui votes."},
+ "candidates": [
+  {"name": "Ribéry", "short": "Ribéry", "color": "red", "sub": "2013 · Bayern", "facts": ["Le Bayern fait le triplé. Lui finit derrière Ronaldo et Messi.", "La FIFA avait prolongé la période de vote."]},
+  {"name": "Sneijder", "short": "Sneijder", "color": "blue", "sub": "2010 · Inter", "facts": ["Triplé avec l'Inter et finale de Coupe du monde.", "Même pas sur le podium : Messi, Iniesta, Xavi."]},
+  {"name": "Lewandowski", "short": "Lewy", "color": "gold", "sub": "2020 · Bayern", "facts": ["55 buts et le triplé avec le Bayern.", "Cette année-là, le Ballon d'Or est annulé à cause du Covid."]}
+ ],
+ "end_sub": "Ribéry, Sneijder ou Lewandowski ? Un nom en commentaire.",
+ "end_note": "Un autre volé ? Défends ton candidat.",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://www.goal.com/fr/listes/les-plus-grands-vols-du-ballon-d-or-robert-lewandowski-franck-ribery-et-les-sept-joueurs-qui-n-ont-pas-recu-le-ballon-d-or-qu-ils-meritaient/blt176851ec2ceac290",
+  "https://bleacherreport.com/articles/535952-ballo-dor-2010-wesley-sneijder-snubbed-by-comic-fifa-in-favour-of-barca-trio",
+  "https://www.goal.com/en-my/news/why-is-the-ballon-dor-cancelled-for-2020-and-who-could-have-won-it/18ltdw02hyjp119bo7qwoxpu4",
+  "https://africa.espn.com/football/story/_/id/37391373/bayern-munich-franck-ribery-2013-ballon-dor-huge-disappointment"
+ ],
+ "caption": "Ribéry, Sneijder ou Lewandowski : qui s'est fait le plus voler ? 🏆 Un nom en commentaire 👇\n#ballondor #ribery #lewandowski #sneijder #debatfoot #football #foot #footballtiktok #pourtoi"
+}

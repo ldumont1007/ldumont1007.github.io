@@ -1,0 +1,19 @@
+{
+ "format": "story",
+ "cover": {"tag": "HISTOIRE DU FOOT", "big": "2012", "big_color": "blue", "title": "Le soir où Chelsea a battu le Bayern… à Munich", "swipe": "L'histoire"},
+ "slides": [
+  {"tag": "19 MAI 2012 · MUNICH", "big": "Une finale chez l'adversaire.", "body": "Finale de C1 dans le stade du Bayern, l'Allianz Arena. Sur le banc de Chelsea : Roberto Di Matteo, simple intérimaire.", "size": 95},
+  {"tag": "83E PUIS 88E MINUTE", "big": "Müller… puis Drogba.", "body": "Tête de Müller, le Bayern se voit champion à domicile. Deux minutes avant la fin, Drogba égalise de la tête. Prolongation.", "color": "gold", "size": 95},
+  {"tag": "PROLONGATION", "big": "Penalty pour le Bayern.", "body": "Drogba fauche Ribéry. Robben s'élance… Petr Čech arrête.", "color": "teal", "size": 95},
+  {"tag": "TIRS AU BUT", "big": "Le dernier tir : Drogba.", "body": "4-3 aux tirs au but. Chelsea est champion d'Europe pour la 1re fois de son histoire.", "color": "red", "size": 95}
+ ],
+ "end_title": "La finale de C1 la plus folle ?",
+ "end_sub": "Chelsea 2012, Liverpool 2005 ou une autre ?",
+ "follow": "une histoire de foot folle chaque jour",
+ "caption": "Le Bayern jouait la finale chez lui… et Drogba a tout gâché 🔵 La finale de C1 la plus folle de l'histoire ? Dis-le en commentaire 👇\n#chelsea #drogba #liguedeschampions #bayern #histoiredufoot #football #foot #footballtiktok #pourtoi",
+ "sources": [
+  "https://www.aljazeera.com/amp/sports/2012/5/20/chelsea-crowned-european-champions",
+  "https://www.goal.com/en/news/drogba-goal-cole-chelsea-champions-league/1mas9d5gc4r211ddjjml0xnzjb",
+  "https://www.nbcsports.com/soccer/news/premier-league-on-this-day-uefa-champions-league-chelsea-bayern-munich-video"
+ ]
+}

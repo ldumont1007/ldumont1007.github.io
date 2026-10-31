@@ -1,0 +1,13 @@
+{
+ "format": "quiz",
+ "cover": {"tag": "QUIZ LÉGENDE", "title": "Devine le joueur en 3 indices", "sub": "Trouvé à l'indice 1 = vrai connaisseur.", "note": "Pas de triche : la réponse est à la fin."},
+ "clues": [
+  "Il débute pro au Grêmio, au Brésil, et gagne la Copa América 1999 avec la Seleção.",
+  "En 2001, il signe au PSG pour 5 millions d'euros. Deux saisons plus tard, il file au Barça.",
+  "Champion du monde 2002, Ballon d'Or 2005… et applaudi par tout le Bernabéu le 19 novembre 2005."
+ ],
+ "answer": {"first": "", "last": "Ronaldinho", "note": "Il a aussi gagné la Ligue des champions avec le Barça en 2006."},
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": ["https://en.wikipedia.org/wiki/Ronaldinho", "https://www.si.com/soccer/2018/01/17/barcelona-pay-tribute-ronaldinho-club-legend-announces-his-retirement-game"],
+ "caption": "Il a fait danser la Ligue 1 avant de conquérir le monde 🪄 Trouvé à quel indice ? Dis-le en commentaire 👇\n#quizfoot #devinelejoueur #legendefoot #ligue1 #football #foot #footballtiktok #pourtoi"
+}

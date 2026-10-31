@@ -1,0 +1,34 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Ton trio du PSG",
+ "tiers": [
+  {"price": 6, "names": ["Mbappé", "Dembélé"]},
+  {"price": 4, "names": ["Ibrahimović", "Cavani", "Weah"]},
+  {"price": 2, "names": ["Pauleta", "Raí", "Ginola"]}
+ ],
+ "subs": {
+  "Mbappé": "Record du club",
+  "Dembélé": "Ballon d'Or 2025",
+  "Ibrahimović": "156 buts à Paris",
+  "Cavani": "200 buts à Paris",
+  "Weah": "Ballon d'Or 95",
+  "Pauleta": "L'Aigle des Açores",
+  "Raí": "Champion 94",
+  "Ginola": "Champion 94"
+ },
+ "trap": ["Mbappé", "Dembélé"],
+ "pick": ["Ibrahimović", "Cavani", "Weah"],
+ "pick_title": "Le trio des connaisseurs",
+ "example": "Mbappé · Weah · Raí",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://www.sortiraparis.com/loisirs/sport/articles/290319-paris-saint-germain-kylian-mbappe-devient-le-meilleur-buteur-du-club",
+  "https://fr.soccerway.com/actualites/l-insatiable-mbappe-a-un-il-sur-son-record-de-buts-au-psg-et-un-autre-sur-le-bayern/KML13PdK",
+  "https://www.si.com/soccer/ousmane-dembele-wins-2025-ballon-dor",
+  "https://en.psg.fr/teams/first-team/content/paris-saint-germain-and-the-ballon-d-or-a-story-that-started-at-the-end-of-1979",
+  "https://www.sportsmole.co.uk/football/man-city/ballon-dor/feature/every-previous-winner-of-the-prestigious-ballon-dor-award_556139.html"
+ ],
+ "caption": "12M pour 3 légendes du PSG. Mbappé + Dembélé et t'as plus un centime 😅 Ton trio ? 👇\n#psg #parissaintgermain #ligue1 #mbappe #defifoot #football #foot #footballtiktok #pourtoi"
+}
