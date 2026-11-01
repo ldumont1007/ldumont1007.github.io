@@ -1,0 +1,34 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Ton trio de l'OM",
+ "tiers": [
+  {"price": 6, "names": ["Papin", "Skoblar"]},
+  {"price": 4, "names": ["Boli", "Abedi Pelé", "Deschamps"]},
+  {"price": 2, "names": ["Drogba", "Waddle", "Payet"]}
+ ],
+ "subs": {
+  "Papin": "Ballon d'Or 91",
+  "Skoblar": "Record 44 buts",
+  "Boli": "Le but de Munich",
+  "Abedi Pelé": "C1 1993",
+  "Deschamps": "Capitaine en 93",
+  "Drogba": "Une seule saison",
+  "Waddle": "Magic Chris"
+ },
+ "trap": ["Papin", "Skoblar"],
+ "pick": ["Boli", "Abedi Pelé", "Deschamps"],
+ "pick_title": "Le trio de Munich 93",
+ "example": "Papin · Boli · Drogba",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Josip_Skoblar",
+  "https://www.guinnessworldrecords.com/world-records/478193-most-goals-scored-by-a-player-in-a-single-season-of-french-top-flight-football",
+  "https://en.wikipedia.org/wiki/1991_Ballon_d%27Or",
+  "https://www.goal.com/fr/news/ligue-des-champions-marseille-milan-ac-la-finale-de-1993/blt6770883cc65da1b5",
+  "https://fr.soccerway.com/actualites/football-ligue-des-champions-flashback-milan-marseille-gloire-et-scandale-dans-la-derniere-finale-europeenne-italo-francaise/r9VW86qH",
+  "https://www.goal.com/en/news/the-season-at-olympique-marseille-that-changed-chelsea/bltacdf8962b6387ed6"
+ ],
+ "caption": "12M pour 3 légendes de l'OM. Papin + Skoblar et t'as plus un centime 😅 Ton trio ? 👇\n#om #olympiquedemarseille #ligue1 #papin #defifoot #football #foot #footballtiktok #pourtoi"
+}

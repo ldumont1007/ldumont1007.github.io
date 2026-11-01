@@ -1,0 +1,16 @@
+{
+ "format": "quiz",
+ "cover": {"tag": "QUIZ LÉGENDE", "title": "Devine le joueur en 3 indices", "sub": "Trouvé à l'indice 1 = vrai connaisseur.", "note": "Pas de triche : la réponse est à la fin."},
+ "clues": [
+  "Il débute pro à Malmö en 1999, puis signe à l'Ajax Amsterdam en 2001.",
+  "En 2009, il quitte l'Inter pour le Barça… où il ne reste qu'une seule saison.",
+  "Arrivé à Paris en juillet 2012, il y marque 156 buts en 4 ans."
+ ],
+ "answer": {"first": "Zlatan", "last": "Ibrahimović", "note": "38 buts en Ligue 1 en 2015-16 : personne n'a fait mieux depuis 2002."},
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://en.psg.fr/teams/club/content/came-like-a-king-left-like-a-legend-thanks-zlatan-ibrahimovic-paris-saint-germain-2022-2023",
+  "https://www.guinnessworldrecords.com/world-records/478193-most-goals-scored-by-a-player-in-a-single-season-of-french-top-flight-football"
+ ],
+ "caption": "Indice 1 = vrai connaisseur. Indice 3 = t'as pas d'excuse 😏 Trouvé à quel indice ? Dis-le en commentaire 👇\n#quizfoot #devinelejoueur #legendefoot #ligue1 #football #foot #footballtiktok #pourtoi"
+}

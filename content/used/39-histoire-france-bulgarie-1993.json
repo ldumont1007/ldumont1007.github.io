@@ -1,0 +1,21 @@
+{
+ "format": "story",
+ "cover": {"tag": "HISTOIRE DU FOOT", "big": "1993", "big_color": "red", "title": "Le soir où la France a perdu sa Coupe du monde… à la dernière seconde", "swipe": "L'histoire"},
+ "slides": [
+  {"tag": "13 OCTOBRE 1993", "big": "France 2-3 Israël.", "body": "Les Bleus de Gérard Houllier mènent 2-1 à la pause… et encaissent deux buts en fin de match. Tout se jouera au dernier match.", "size": 95},
+  {"tag": "17 NOVEMBRE 1993 · PARC DES PRINCES", "big": "Un nul suffit.", "body": "Cantona ouvre le score, Kostadinov égalise sur corner. À 1-1, la France est qualifiée pour la Coupe du monde 1994.", "color": "gold", "size": 95},
+  {"tag": "DERNIÈRE MINUTE", "big": "Le ballon perdu.", "body": "Entré à la place de Papin, Ginola perd le ballon. La Bulgarie part en contre-attaque.", "color": "teal", "size": 95},
+  {"tag": "89E MINUTE ET 58 SECONDES", "big": "Kostadinov. 1-2.", "body": "Une frappe surpuissante, Bernard Lama est battu. La France ne verra pas la Coupe du monde 1994.", "color": "red", "size": 95}
+ ],
+ "end_title": "Le pire souvenir de l'histoire des Bleus ?",
+ "end_sub": "Bulgarie 93 ou une autre défaite ? Dis-le en commentaire.",
+ "follow": "une histoire de foot folle chaque jour",
+ "caption": "1-1 à la dernière minute, il suffisait de garder le ballon… 😶 Le pire souvenir de l'histoire des Bleus ? Dis-le en commentaire 👇\n#equipedefrance #bleus #bulgarie #coupedumonde #histoiredufoot #football #foot #footballtiktok #pourtoi",
+ "sources": [
+  "https://fr.uefa.com/uefaeuro/history/news/0254-0d7eefaac4ec-ba16b1610207-1000--bulgarie-les-20-ans-de-la-victoire-au-parc/",
+  "https://www.slate.fr/story/151130/france-bulgarie-kostadinov",
+  "https://www.goal.com/fr/news/equipe-de-france-djorkaeff-jouer-contre-bulgarie-place-ginola/blt0affcc9446deafe4",
+  "https://www.nbcsports.com/soccer/news/when-one-goal-makes-a-world-cup-of-difference-remembering-frances-last-qualifier-disaster",
+  "https://en.wikipedia.org/wiki/Emil_Kostadinov"
+ ]
+}
