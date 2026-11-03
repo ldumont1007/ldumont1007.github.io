@@ -22,7 +22,7 @@ Alternate formats; never two of the same format in a row.
 - Each post ends on the follow slide (`follow` = what they get by following, e.g. "un nouveau quiz foot chaque jour").
 - Hooks: a number, a question or a challenge on slide 1. End with a question that is easy to answer in one word.
 - No politics, no insults, nothing about players' private lives. Debates stay about football.
-- Caption: one punchy line + 5-8 hashtags, always including `#football #foot #footballtiktok #pourtoi`.
+- Caption: one punchy line + 5-8 hashtags, always including `#football #foot #footballtiktok #pourtoi`. The first line becomes the TikTok title: keep it **<= 85 characters, counting each emoji as 2** (TikTok rejects the post otherwise and blocks the whole queue).
 
 ## Ideas and feedback
 - `content/ideas.md`: Louis's ideas, one per line. Use them first and delete each line you use.
