@@ -1,0 +1,50 @@
+{
+ "format": "vote",
+ "cover": {
+  "tag": "LIGUE DES CHAMPIONS · 3 NOV. 2026",
+  "title": "Villarreal 0-6 PSG : qui est l'homme du match ?",
+  "sub": "4-0 après 17 minutes. C'est toi qui votes."
+ },
+ "candidates": [
+  {
+   "name": "Fabian Ruiz",
+   "short": "Ruiz",
+   "color": "gold",
+   "sub": "Doublé",
+   "facts": [
+    "Buteur à la 17e et à la 50e minute.",
+    "Le seul Parisien à marquer 2 fois ce soir-là."
+   ]
+  },
+  {
+   "name": "João Neves",
+   "short": "Neves",
+   "color": "blue",
+   "sub": "Il lance le carton",
+   "facts": [
+    "Ouvre le score dès la 9e minute.",
+    "Sa frappe repoussée amène le 3e but, signé Mayulu."
+   ]
+  },
+  {
+   "name": "David Boly",
+   "short": "Boly",
+   "color": "red",
+   "sub": "17 ans",
+   "facts": [
+    "Entré en jeu à la 74e minute.",
+    "Il plante le 6e but à la 78e, à seulement 17 ans."
+   ]
+  }
+ ],
+ "end_sub": "Ruiz, Neves ou Boly ? Un nom en commentaire.",
+ "end_note": "Doué ou Mayulu ? Défends ton joueur.",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://news.footeo.com/2026/11/03/ligue-des-champions-le-psg-humilie-villarreal-0-6-et-soffre-un-record-16771",
+  "https://www.foot01.com/ligue-des-champions/ldc-le-psg-choque-leurope-a-villarreal",
+  "https://www.footmercato.net/live/6852966789100614643-villarreal-vs-paris-saint-germain",
+  "https://www.livefoot.fr/direct/ligue-des-champions-de-l-uefa-europe/match-villarreal-vs-paris-saint-germain-205bca2e"
+ ],
+ "caption": "Villarreal 0-6 PSG le 3 novembre : ton homme du match ? 🔥 Un nom en commentaire 👇\n#psg #liguedeschampions #fabianruiz #debatfoot #football #foot #footballtiktok #pourtoi"
+}

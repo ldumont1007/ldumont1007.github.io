@@ -1,0 +1,25 @@
+{
+ "format": "quiz",
+ "cover": {
+  "tag": "QUIZ LÉGENDE",
+  "title": "Devine le joueur en 3 indices",
+  "sub": "Trouvé à l'indice 1 = vrai connaisseur.",
+  "note": "Pas de triche : la réponse est à la fin."
+ },
+ "clues": [
+  "Il fait ses débuts pros au São Paulo FC, puis rejoint l'Europe en 2003 pour environ 8,5 M€.",
+  "Champion du monde en 2002… avec seulement 25 minutes jouées dans tout le tournoi.",
+  "Meilleur buteur de la C1 2007 avec 10 buts, il gagne le Ballon d'Or la même année."
+ ],
+ "answer": {
+  "first": "Ricardo",
+  "last": "Kaká",
+  "note": "Ballon d'Or 2007. Après lui : 10 ans de règne Messi-Ronaldo."
+ },
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Kak%C3%A1",
+  "https://www.uefa.com/news-media/news/01da-0e724730bdd7-0e0f6ea17ec5-1000--kaka-ready-for-madrid-challenge/"
+ ],
+ "caption": "3 indices, 1 légende. Tu le trouves à quel indice ? 🧠 Dis-le en commentaire 👇\n#quizfoot #devinelejoueur #legendefoot #ballondor #football #foot #footballtiktok #pourtoi"
+}

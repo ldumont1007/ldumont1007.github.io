@@ -1,0 +1,47 @@
+{
+ "format": "story",
+ "cover": {
+  "tag": "HISTOIRE DU FOOT",
+  "big": "1976",
+  "big_color": "teal",
+  "title": "Les Verts ont perdu une finale de C1… à cause de poteaux carrés",
+  "swipe": "L'histoire"
+ },
+ "slides": [
+  {
+   "tag": "12 MAI 1976 · GLASGOW",
+   "big": "Saint-Étienne en finale.",
+   "body": "À Hampden Park, les Verts défient le Bayern Munich, vainqueur des deux dernières C1.",
+   "size": 95
+  },
+  {
+   "tag": "34E MINUTE",
+   "big": "La barre.",
+   "body": "Bathenay frappe, le gardien Sepp Maier est battu… et le ballon s'écrase sur la transversale.",
+   "color": "gold",
+   "size": 95
+  },
+  {
+   "tag": "39E MINUTE",
+   "big": "Encore la barre.",
+   "body": "Tête de Jacques Santini : transversale. Les Verts en sont sûrs : avec des poteaux ronds, ça rentrait.",
+   "color": "teal",
+   "size": 95
+  },
+  {
+   "tag": "57E MINUTE",
+   "big": "Roth. 1-0.",
+   "body": "Sur coup franc, Franz Roth offre au Bayern sa 3e C1 de suite. En 2013, Saint-Étienne rachète les poteaux pour son musée.",
+   "color": "red",
+   "size": 95
+  }
+ ],
+ "end_title": "La finale la plus frustrante ?",
+ "end_sub": "Glasgow 76 ou une autre ? Dis-le en commentaire.",
+ "follow": "une histoire de foot folle chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/1976_European_Cup_final",
+  "https://scottishfa.co.uk/news/the-story-of-les-poteaux-carr%C3%A9s"
+ ],
+ "caption": "2 fois la barre, des poteaux carrés et le Bayern gagne 1-0 😩 Pire finale ? 👇\n#asse #lesverts #liguedeschampions #histoiredufoot #football #foot #footballtiktok #pourtoi"
+}

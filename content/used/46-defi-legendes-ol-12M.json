@@ -1,0 +1,56 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Ton trio de l'OL",
+ "tiers": [
+  {
+   "price": 6,
+   "names": [
+    "Juninho",
+    "Benzema"
+   ]
+  },
+  {
+   "price": 4,
+   "names": [
+    "Anderson",
+    "Coupet",
+    "Lacazette"
+   ]
+  },
+  {
+   "price": 2,
+   "names": [
+    "Govou",
+    "Malouda",
+    "Cris"
+   ]
+  }
+ ],
+ "subs": {
+  "Juninho": "7 titres d'affilée",
+  "Coupet": "7 titres d'affilée",
+  "Govou": "7 titres d'affilée",
+  "Anderson": "Top buteur x2"
+ },
+ "trap": [
+  "Juninho",
+  "Benzema"
+ ],
+ "pick": [
+  "Anderson",
+  "Coupet",
+  "Lacazette"
+ ],
+ "pick_title": "Le trio pile à 12M",
+ "example": "Juninho · Coupet · Govou",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://www.uefa.com/news-media/news/01cd-0f84dbf85eeb-49ca26254d04-1000--game-sept-and-match-to-lyon/",
+  "https://www.uefa.com/news-media/news/01cd-0e6f6be24315-1aa42c112ae0-1000--coupet-to-quit-lyon-for-new-challenge",
+  "https://en.wikipedia.org/wiki/Sonny_Anderson",
+  "https://en.wikipedia.org/wiki/2000%E2%80%9301_French_Division_1"
+ ],
+ "caption": "12M pour 3 légendes de l'OL. Juninho + Benzema = plus un centime 😅 Ton trio ? 👇\n#ol #ligue1 #juninho #defifoot #football #foot #footballtiktok #pourtoi"
+}
