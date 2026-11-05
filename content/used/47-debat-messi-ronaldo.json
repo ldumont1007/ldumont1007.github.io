@@ -1,0 +1,18 @@
+{
+ "format": "vote",
+ "cover": {"tag": "DÉBAT", "title": "Messi ou Ronaldo : qui est le vrai GOAT ?", "sub": "20 ans de débat. Ce soir, c'est toi qui tranches."},
+ "candidates": [
+  {"name": "Lionel Messi", "short": "Messi", "color": "blue", "sub": "Argentine", "facts": ["8 Ballons d'Or : le record absolu.", "Champion du monde en 2022, élu meilleur joueur du tournoi."]},
+  {"name": "Cristiano Ronaldo", "short": "Ronaldo", "color": "red", "sub": "Portugal", "facts": ["5 Ligues des champions, une de plus que Messi.", "Meilleur buteur de l'histoire de la C1 et champion d'Europe 2016."]}
+ ],
+ "end_sub": "Messi ou Ronaldo ? Un seul nom en commentaire.",
+ "end_note": "Pas de « les deux ». Choisis ton camp.",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://www.planetfootball.com/quick-reads/lionel-messi-cristiano-ronaldo-more-trophies-prizes-champions-league-ballon-dor",
+  "https://www.espn.com/soccer/story/46843363/",
+  "https://foot-africa.com/actualites/ballon-dor-le-palmares-complet-depuis-1956-857346/",
+  "https://theweek.com/messi-vs-ronaldo-all-time-goals-career-statistics-red-cards"
+ ],
+ "caption": "8 Ballons d'Or contre 5 C1. Messi ou Ronaldo ? Un seul nom 👇\n#messi #ronaldo #goat #cr7 #debatfoot #football #foot #footballtiktok #pourtoi"
+}

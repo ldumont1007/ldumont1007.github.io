@@ -1,0 +1,17 @@
+{
+ "format": "quiz",
+ "cover": {"tag": "QUIZ BLEUS", "title": "Devine le joueur en 3 indices", "sub": "Trouvé à l'indice 1 = vrai connaisseur.", "note": "Pas de triche : la réponse est à la fin."},
+ "clues": [
+  "Ado, plusieurs centres de formation français le recalent : trop petit. Il part tenter sa chance en Espagne.",
+  "Meilleur buteur et meilleur joueur de l'Euro 2016 avec 6 buts… mais la France perd la finale.",
+  "Champion du monde 2018 : en finale contre la Croatie, il transforme un penalty."
+ ],
+ "answer": {"first": "Antoine", "last": "Griezmann", "note": "Le petit recalé de Mâcon devenu champion du monde."},
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://www.90min.com/fr/posts/portrait-qui-est-antoine-griezmann-la-star-des-bleus-qui-aurait-pu-ne-jamais-faire-carriere-a-cause-de-sa-taille",
+  "https://www.dhnet.be/sports/football/euro2016/euro-2016-griezmann-elu-meilleur-joueur-de-la-competition-hazard-meilleur-passeur-578353d93570ec4c43852273",
+  "https://inside.fifa.com/fr/news/des-premiers-pas-d-antoine-aux-derniers-exploits-de-griezmann-2861483"
+ ],
+ "caption": "3 indices, 1 Bleu. Tu le trouves à quel indice ? 🧠 Dis-le en commentaire 👇\n#quizfoot #devinelejoueur #equipedefrance #lesbleus #football #foot #footballtiktok #pourtoi"
+}

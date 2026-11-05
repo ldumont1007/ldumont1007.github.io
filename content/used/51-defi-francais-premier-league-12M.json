@@ -1,0 +1,56 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Ton trio de Bleus en PL",
+ "tiers": [
+  {
+   "price": 6,
+   "names": [
+    "Henry",
+    "Cantona"
+   ]
+  },
+  {
+   "price": 4,
+   "names": [
+    "Vieira",
+    "Kanté",
+    "Pires"
+   ]
+  },
+  {
+   "price": 2,
+   "names": [
+    "Evra",
+    "Makélélé",
+    "Lloris"
+   ]
+  }
+ ],
+ "subs": {
+  "Henry": "Top buteur PL x4",
+  "Cantona": "4 titres Man Utd",
+  "Vieira": "Invincible 2004",
+  "Kanté": "Champion x2"
+ },
+ "trap": [
+  "Henry",
+  "Cantona"
+ ],
+ "pick": [
+  "Vieira",
+  "Kanté",
+  "Pires"
+ ],
+ "pick_title": "Le trio pile à 12M",
+ "example": "Henry · Kanté · Evra",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://www.espn.in/football/story/_/id/37409228/thierry-henry",
+  "https://www.goal.com/en-ng/news/arsenal-invincibles-how-wengers-2003-04-gunners-went-a/1xkm3tgyvsbjj1wzrewhqz0liu",
+  "https://www.guinnessworldrecords.com/world-records/472278-most-consecutive-premier-league-medals-won-by-an-individual-player-at-different-c",
+  "https://en.wikipedia.org/wiki/Eric_Cantona"
+ ],
+ "caption": "12M pour 3 Français de Premier League. Henry + Cantona = 0 € 😅 Ton trio ? 👇\n#premierleague #henry #kante #defifoot #football #foot #footballtiktok #pourtoi"
+}
