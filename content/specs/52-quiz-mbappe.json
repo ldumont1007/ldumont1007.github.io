@@ -1,0 +1,19 @@
+{
+ "format": "quiz",
+ "cover": {"tag": "QUIZ BLEUS", "title": "Devine le joueur en 3 indices", "sub": "Trouvé à l'indice 1 = vrai connaisseur.", "note": "Pas de triche : la réponse est à la fin."},
+ "clues": [
+  "À 17 ans et 62 jours, il efface un record de Thierry Henry : plus jeune buteur de l'histoire de son club.",
+  "En finale de Coupe du monde, il devient le 2e ado de l'histoire à marquer… après Pelé.",
+  "Quatre ans plus tard, triplé en finale du Mondial. Seul Geoff Hurst l'avait fait avant lui, en 1966."
+ ],
+ "answer": {"first": "Kylian", "last": "Mbappé", "note": "Le gamin de Bondy."},
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://www.ligue1.com/Articles/LEGENDS/2021/02/18/kylian-mbappe-the-monaco-years-psg",
+  "https://www.goal.com/en/news/how-kylian-mbappe-followed-in-pele-s-footsteps-twice-during-the-2018-world-cup/blt16ab010733a2cdc3",
+  "https://inside.fifa.com/fr/news/mbappe-plus-vite-que-tout-le-monde",
+  "https://www.dhnet.be/sports/football/mondial-2022/2022/12/19/kylian-mbappe-les-dix-chiffres-completement-fous-de-sa-finale-face-a-largentine-W5RZ5IVTLRBWTDRXTD6PMURVRM/",
+  "https://www.lostiempos.com/deportes/futbol/20221219/mbappe-hurst-unicos-marcar-tres-goles"
+ ],
+ "caption": "3 indices, 1 Bleu. Tu le trouves à quel indice ? 🧠 Réponds en commentaire 👇\n#quizfoot #devinelejoueur #equipedefrance #lesbleus #football #foot #footballtiktok #pourtoi"
+}

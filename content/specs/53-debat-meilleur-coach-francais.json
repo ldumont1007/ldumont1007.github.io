@@ -1,0 +1,18 @@
+{
+ "format": "vote",
+ "cover": {"tag": "DÉBAT", "title": "Le meilleur entraîneur français de l'histoire ?", "sub": "Zidane vient de prendre les Bleus. Mais qui est le vrai n°1 ?"},
+ "candidates": [
+  {"name": "Didier Deschamps", "short": "Deschamps", "color": "blue", "sub": "Équipe de France", "facts": ["Champion du monde 2018, finaliste en 2022.", "Sélectionneur des Bleus de 2012 à 2026."]},
+  {"name": "Zinédine Zidane", "short": "Zidane", "color": "gold", "sub": "Real Madrid", "facts": ["3 Ligues des champions d'affilée : 2016, 2017, 2018.", "Nommé sélectionneur des Bleus en juillet 2026."]},
+  {"name": "Arsène Wenger", "short": "Wenger", "color": "red", "sub": "Arsenal", "facts": ["3 titres de Premier League, dont 2003-04 sans aucune défaite.", "7 FA Cup : record pour un entraîneur."]}
+ ],
+ "end_sub": "Deschamps, Zidane ou Wenger ? Un seul nom en commentaire.",
+ "end_note": "Pas le droit de dire « les trois ».",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://www.parismatch.be/actualites/sport/2026/07/28/zinedine-zidane-officiellement-nomme-selectionneur-de-lequipe-de-france-6VE6PO3UTJFKJPQK4HKRO4N4QM/",
+  "https://www.shropshirestar.com/sport/uk-sports/2018/04/20/arsene-wengers-arsenal-reign-in-numbers/",
+  "https://www.nbcsports.com/soccer/news/stats-behind-wengers-time-at-arsenal"
+ ],
+ "caption": "Deschamps, Zidane ou Wenger : le plus grand coach français ? Un nom 👇\n#deschamps #zidane #wenger #equipedefrance #debatfoot #football #foot #footballtiktok #pourtoi"
+}

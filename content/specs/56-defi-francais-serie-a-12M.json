@@ -1,0 +1,51 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Tes 3 Bleus de Serie A",
+ "tiers": [
+  {
+   "price": 6,
+   "names": [
+    "Platini",
+    "Zidane"
+   ]
+  },
+  {
+   "price": 4,
+   "names": [
+    "Trezeguet",
+    "Desailly",
+    "Pogba"
+   ]
+  },
+  {
+   "price": 2,
+   "names": [
+    "Thuram",
+    "Maignan",
+    "Theo"
+   ]
+  }
+ ],
+ "subs": {
+  "Desailly": "C1 1993 et 1994"
+ },
+ "trap": [
+  "Platini",
+  "Zidane"
+ ],
+ "pick": [
+  "Trezeguet",
+  "Desailly",
+  "Pogba"
+ ],
+ "pick_title": "Le trio pile à 12M",
+ "example": "Zidane · Pogba · Maignan",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://www.goal.com/en/news/from-ligue-1-to-superstardom-marcel-desailly/125m7obl63wtk125w6j5h15qz9",
+  "https://forzaitalianfootball.com/2018/09/desailly-at-50-ac-milans-reluctant-midfielder/"
+ ],
+ "caption": "12M pour 3 Français de Serie A. Platini + Zidane = 0 € 😅 Ton trio ? 👇\n#seriea #platini #zidane #pogba #defifoot #football #foot #footballtiktok #pourtoi"
+}
