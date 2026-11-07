@@ -1,0 +1,21 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Tes 3 Bleus de Liga",
+ "tiers": [
+  {"price": 6, "names": ["Zidane", "Benzema", "Mbappé"]},
+  {"price": 4, "names": ["Griezmann", "Henry", "Varane"]},
+  {"price": 2, "names": ["Makelele", "Dembélé", "Koundé"]}
+ ],
+ "trap": ["Zidane", "Benzema"],
+ "pick": ["Griezmann", "Henry", "Varane"],
+ "pick_title": "Le trio pile à 12M",
+ "example": "Benzema · Griezmann · Koundé",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://realmadrid.com/en-US/the-club/history/football-legends/raphael-varane",
+  "https://www.fff.fr/equipe-nationale/joueur/9809-henry-thierry/fiche.html"
+ ],
+ "caption": "12M pour 3 Français de Liga. Zidane + Benzema = 0 € 😅 Ton trio ? 👇\n#liga #zidane #benzema #griezmann #defifoot #football #foot #footballtiktok #pourtoi"
+}

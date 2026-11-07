@@ -1,12 +1,36 @@
 {
  "format": "top",
- "cover": {"tag": "TOP 5", "title": "Les joueurs les plus capés de l'histoire des Bleus", "sub": "Mbappé a passé la barre des 100 en juin 2026. Le n°1 est encore loin."},
+ "cover": {
+  "tag": "TOP 5",
+  "title": "Les joueurs les plus capés de l'histoire des Bleus",
+  "sub": "Mbappé a passé la barre des 100 en juin 2026. Le n°1 est encore loin."
+ },
  "items": [
-  {"title": "Henry et Desailly", "big": "123", "body": "123 sélections chacun. Ex aequo à la 5e place."},
-  {"title": "Antoine Griezmann", "big": "137", "body": "137 sélections, à égalité avec Giroud."},
-  {"title": "Olivier Giroud", "big": "137", "body": "137 sélections. Champion du monde 2018."},
-  {"title": "Lilian Thuram", "big": "142", "body": "142 sélections. Son record a tenu jusqu'au Mondial 2022."},
-  {"title": "Hugo Lloris", "big": "145", "body": "145 sélections. Le capitaine champion du monde 2018."}
+  {
+   "title": "Thierry Henry",
+   "big": "123",
+   "body": "123 sélections et 51 buts avec les Bleus."
+  },
+  {
+   "title": "Antoine Griezmann",
+   "big": "137",
+   "body": "137 sélections, à égalité avec Giroud."
+  },
+  {
+   "title": "Olivier Giroud",
+   "big": "137",
+   "body": "137 sélections. Champion du monde 2018."
+  },
+  {
+   "title": "Lilian Thuram",
+   "big": "142",
+   "body": "142 sélections. Son record a tenu jusqu'au Mondial 2022."
+  },
+  {
+   "title": "Hugo Lloris",
+   "big": "145",
+   "body": "145 sélections. Le capitaine champion du monde 2018."
+  }
  ],
  "end_title": "Qui battra le record de Lloris ?",
  "end_sub": "Donne un nom en commentaire.",
@@ -14,7 +38,8 @@
  "sources": [
   "https://www.sudradio.fr/sud-radio/les-nouveaux-records-de-selections-de-buts-et-de-precocite-en-equipe-de-france",
   "https://www.goal.com/fr/news/angleterre-france-hugo-lloris-bat-record-selections-lilian-thuram/blte5c3a853d2a1f71d",
-  "https://www.fff.fr/article/17005-mbappe-rejoint-le-club-des-cent.html"
+  "https://www.fff.fr/article/17005-mbappe-rejoint-le-club-des-cent.html",
+  "https://www.fff.fr/equipe-nationale/joueur/9809-henry-thierry/fiche.html"
  ],
  "caption": "145 matchs avec les Bleus 😳 Qui battra le record de Lloris ? Un nom 👇\n#equipedefrance #lesbleus #lloris #record #topfoot #football #foot #footballtiktok #pourtoi"
 }

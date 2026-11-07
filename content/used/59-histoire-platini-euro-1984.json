@@ -1,0 +1,26 @@
+{
+ "format": "story",
+ "cover": {
+  "tag": "HISTOIRE DU FOOT",
+  "big": "9",
+  "big_color": "gold",
+  "title": "9 buts en 5 matchs. Le record de l'Euro qui tient depuis 1984.",
+  "swipe": "L'histoire"
+ },
+ "slides": [
+  {"tag": "EURO 1984 · EN FRANCE", "big": "Ça démarre doucement.", "body": "Premier match : France 1-0 Danemark. Un seul but… signé Michel Platini.", "size": 95},
+  {"tag": "PHASE DE GROUPES", "big": "Deux triplés.", "body": "5-0 contre la Belgique. Puis 3-2 contre la Yougoslavie à Saint-Étienne : pied gauche, tête, pied droit.", "color": "gold", "size": 95},
+  {"tag": "DEMI-FINALE · MARSEILLE", "big": "119e minute.", "body": "Les Bleus sont menés 2-1 par le Portugal en prolongation. Domergue égalise, puis Platini marque à la 119e.", "color": "red", "size": 95},
+  {"tag": "27 JUIN 1984 · PARC DES PRINCES", "big": "Champions d'Europe.", "body": "Finale contre l'Espagne : son coup franc glisse sous Arconada. Bellone fait 2-0. Platini a marqué à chaque match.", "color": "teal", "size": 95}
+ ],
+ "end_title": "Quelqu'un battra ses 9 buts ?",
+ "end_sub": "Oui ou non ? Et si oui, qui ? Dis-le en commentaire.",
+ "follow": "une histoire de foot folle chaque jour",
+ "sources": [
+  "https://fr.uefa.com/uefaeuro/history/news/0253-0d7d76b84312-90cd956185ef-1000--1984-platini-et-la-france-sur-un-nuage/",
+  "https://www.guinnessworldrecords.com/world-records/88675-most-goals-in-a-single-football-soccer-uefa-european-championships",
+  "https://theanalyst.com/2021/06/michel-platini-euro-1984/",
+  "https://fr.soccerway.com/actualites/19-juin-1984-le-coup-du-chapeau-parfait-de-platini-en-son-royaume-contre-la-yougoslavie/KnBq2Qdt"
+ ],
+ "caption": "9 buts en un seul Euro 😳 Le record de Platini tient depuis 1984. Battable ? 👇\n#platini #euro1984 #equipedefrance #histoiredufoot #football #foot #footballtiktok #pourtoi"
+}

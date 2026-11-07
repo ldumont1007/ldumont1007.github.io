@@ -1,0 +1,20 @@
+{
+ "format": "vote",
+ "cover": {"tag": "DÉBAT", "title": "Le meilleur défenseur de l'histoire des Bleus ?", "sub": "Trois monstres. Un seul trône."},
+ "candidates": [
+  {"name": "Lilian Thuram", "short": "Thuram", "color": "teal", "sub": "Parme · Juventus · Barça", "facts": ["142 sélections avec les Bleus.", "2 buts en sélection… les deux en demi-finale du Mondial 98 contre la Croatie."]},
+  {"name": "Marcel Desailly", "short": "Desailly", "color": "blue", "sub": "OM · Milan · Chelsea", "facts": ["C1 1993 avec l'OM, puis C1 1994 avec Milan.", "Champion du monde 1998 et d'Europe 2000."]},
+  {"name": "Raphaël Varane", "short": "Varane", "color": "gold", "sub": "Real Madrid", "facts": ["4 Ligues des champions avec le Real.", "Champion du monde 2018, buteur en quart contre l'Uruguay."]}
+ ],
+ "end_sub": "Thuram, Desailly ou Varane ? Un seul nom en commentaire.",
+ "end_note": "Interdit de répondre « les trois ».",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://www.fff.fr/equipe-nationale/joueur/8540-thuram-lilian/fiche.html",
+  "https://www.fff.fr/equipe-nationale/joueur/8585-desailly-marcel/fiche.html",
+  "https://realmadrid.com/en-US/the-club/history/football-legends/raphael-varane",
+  "https://www.nbcsports.com/soccer/news/video-varane-heads-france-into-the-lead",
+  "https://www.sbs.com.au/news/article/varane-exorcises-ghosts-of-brazil-as-france-look-to-semi-finals/z3q462dqo"
+ ],
+ "caption": "Thuram, Desailly ou Varane : le meilleur défenseur des Bleus ? Un nom 👇\n#thuram #desailly #varane #equipedefrance #debatfoot #football #foot #footballtiktok #pourtoi"
+}

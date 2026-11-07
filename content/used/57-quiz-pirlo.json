@@ -1,0 +1,18 @@
+{
+ "format": "quiz",
+ "cover": {"tag": "QUIZ LÉGENDE", "title": "Devine le joueur en 3 indices", "sub": "Trouvé à l'indice 1 = vrai connaisseur.", "note": "Pas de triche : la réponse est à la fin."},
+ "clues": [
+  "À Brescia, son coach le recule devant la défense : le poste de n°10 est déjà pris par Roberto Baggio.",
+  "Laissé libre par l'AC Milan, il file à la Juventus… et devient champion d'Italie dès sa 1re saison.",
+  "Mondial 2006 : 3 fois homme du match. Euro 2012 : une panenka contre l'Angleterre aux tirs au but."
+ ],
+ "answer": {"first": "Andrea", "last": "Pirlo", "note": "Le Maestro."},
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Carlo_Mazzone",
+  "https://www.italyonthisday.com/2017/05/andrea-pirlo-footballer.html",
+  "https://www.irishtimes.com/sport/soccer/international/euro-moments-pirlo-s-panenka-leaves-joe-hart-floundering-1.2614732",
+  "https://fourfourtwo.com/news/no-pirlo-panenka-pain-england-keeper-hart"
+ ],
+ "caption": "3 indices, 1 légende du Calcio. Tu le trouves à quel indice ? 🧠 Dis-le 👇\n#quizfoot #devinelejoueur #seriea #calcio #legende #football #foot #footballtiktok #pourtoi"
+}
