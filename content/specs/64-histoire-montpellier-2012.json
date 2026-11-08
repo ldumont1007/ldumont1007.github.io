@@ -1,0 +1,25 @@
+{
+ "format": "story",
+ "cover": {
+  "tag": "HISTOIRE DU FOOT",
+  "big": "2012",
+  "big_color": "orange",
+  "title": "L'année où le petit Montpellier a fait tomber le nouveau PSG.",
+  "swipe": "L'histoire"
+ },
+ "slides": [
+  {"tag": "SAISON 2011-2012", "big": "David contre Goliath.", "body": "Le PSG vient d'être racheté par QSI et dépense sans compter. En face, Montpellier n'a jamais été champion de France.", "size": 95},
+  {"tag": "LE BUTEUR", "big": "21 buts.", "body": "Olivier Giroud finit meilleur buteur de Ligue 1, à égalité avec Nenê… mais avec plus de buts dans le jeu.", "color": "gold", "size": 95},
+  {"tag": "20 MAI 2012 · AUXERRE", "big": "Dernière journée.", "body": "Match plusieurs fois arrêté par des incidents en tribunes. John Utaka marque un doublé : victoire 2-1.", "color": "red", "size": 95},
+  {"tag": "CLASSEMENT FINAL", "big": "82 contre 79.", "body": "Montpellier finit 3 points devant Paris. 1er titre de l'histoire du club, avec René Girard sur le banc.", "color": "teal", "size": 95}
+ ],
+ "end_title": "Le plus bel exploit de l'histoire de la Ligue 1 ?",
+ "end_sub": "Oui ou non ? Sinon, lequel ? Dis-le en commentaire.",
+ "follow": "une histoire de foot folle chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/2011%E2%80%9312_Montpellier_HSC_season",
+  "https://www.foxsports.com/stories/soccer/montpellier-claims-first-ligue-1-title",
+  "https://www.indiatvnews.com/amp/sports/soccer/montpellier-wins-french-title-first-time-1693.html"
+ ],
+ "caption": "Montpellier champion devant le PSG de QSI 😳 Le plus bel exploit de la L1 ? 👇\n#montpellier #mhsc #giroud #ligue1 #histoiredufoot #football #foot #footballtiktok #pourtoi"
+}

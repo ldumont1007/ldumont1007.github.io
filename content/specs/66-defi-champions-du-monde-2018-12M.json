@@ -1,0 +1,21 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Tes 3 Bleus de 2018",
+ "tiers": [
+  {"price": 6, "names": ["Mbappé", "Griezmann", "Kanté"]},
+  {"price": 4, "names": ["Pogba", "Varane", "Lloris"]},
+  {"price": 2, "names": ["Pavard", "Giroud", "Umtiti"]}
+ ],
+ "trap": ["Mbappé", "Griezmann"],
+ "pick": ["Pogba", "Varane", "Lloris"],
+ "pick_title": "Le trio pile à 12M",
+ "example": "Mbappé · Pogba · Giroud",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://www.si.com/soccer/2018/05/17/france-world-cup-roster-23-man-russia-2018",
+  "https://www.goal.com/en-gh/news/frances-2018-world-cup-squad-who-made-deschamps-23-man-roster/1jwwmnxh0sxjd10rboprzkx1a8"
+ ],
+ "caption": "12M pour 3 champions du monde 2018. Mbappé + Griezmann = 0 € 😅 Ton trio ? 👇\n#equipedefrance #mondial2018 #mbappe #griezmann #defifoot #football #foot #footballtiktok #pourtoi"
+}

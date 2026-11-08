@@ -1,0 +1,21 @@
+{
+ "format": "vote",
+ "cover": {"tag": "DÉBAT", "title": "Le meilleur Brésilien de l'histoire de la Ligue 1 ?", "sub": "Trois cracks. Un seul trône."},
+ "candidates": [
+  {"name": "Juninho", "short": "Juninho", "color": "teal", "sub": "OL · 2001-2009", "facts": ["7 titres de champion de France d'affilée avec Lyon (2002 à 2008).", "77 coups francs marqués dans sa carrière."]},
+  {"name": "Ronaldinho", "short": "Ronnie", "color": "gold", "sub": "PSG · 2001-2003", "facts": ["Deux saisons de magie à Paris avant de filer au Barça.", "Ballon d'Or 2005."]},
+  {"name": "Thiago Silva", "short": "T. Silva", "color": "blue", "sub": "PSG · 2012-2020", "facts": ["Arrivé de l'AC Milan en 2012.", "7 titres de champion de France avec le PSG."]}
+ ],
+ "end_sub": "Juninho, Ronaldinho ou Thiago Silva ? Un seul nom en commentaire.",
+ "end_note": "Team Neymar ? Défends-le en commentaire.",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/List_of_Ligue_1_records_and_statistics",
+  "https://www.beinsports.com/en/ligue-1/news/great-european-teams-lyon/1452415",
+  "https://www.uefa.com/news-media/news/01d9-0e723c64e05e-e8e1960f1be6-1000--juninho-bids-emotional-goodbye-to-lyon",
+  "https://www.90min.com/posts/unsung-heroes-juninho-pernambucano-the-brazilian-set-piece-wizard-who-scored-77-career-free-kicks-01e6xpq56d4p",
+  "https://abargenteuil.fr/blog/ronaldinho-gaucho-psg/",
+  "https://www.topendsports.com/sport/soccer/awards/ballondor-2005.htm"
+ ],
+ "caption": "Juninho, Ronaldinho ou Thiago Silva : le meilleur Brésilien de L1 ? Un nom 👇\n#juninho #ronaldinho #thiagosilva #ligue1 #debatfoot #football #foot #footballtiktok #pourtoi"
+}

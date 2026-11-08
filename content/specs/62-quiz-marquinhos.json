@@ -1,0 +1,20 @@
+{
+ "format": "quiz",
+ "cover": {"tag": "QUIZ LÉGENDE", "title": "Devine le joueur en 3 indices", "sub": "Trouvé à l'indice 1 = vrai connaisseur.", "note": "Pas de triche : la réponse est à la fin."},
+ "clues": [
+  "Été 2013 : il quitte l'AS Roma pour la Ligue 1. Il n'a que 19 ans.",
+  "11 titres de champion de France. Aucun joueur n'en a gagné plus.",
+  "31 mai 2025 : c'est lui, le capitaine, qui soulève la 1re Ligue des champions du PSG."
+ ],
+ "answer": {"first": "Le capitaine", "last": "Marquinhos", "note": "12 ans à Paris pour enfin toucher la C1."},
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://www.nbcsports.com/soccer/news/psg-announces-signing-of-brazils-marquinhos-from-as-roma",
+  "https://thepeninsulaqatar.com/article/20/07/2013/marquinhos-joins-psg-from-as-roma",
+  "https://en.wikipedia.org/wiki/List_of_Ligue_1_records_and_statistics",
+  "https://m.maxifoot.fr/psg/encore-un-record-pour-marquinhos-foot-456870.htm",
+  "https://fr.soccerway.com/actualites/football-ligue-des-champions-je-la-voulais-tellement-les-larmes-de-marquinhos-apres-la-victoire-du-psg-en-finale-de-ligue-des-champions/nLA3zBEb",
+  "https://www.dailysabah.com/sports/football/psg-crush-inter-milan-5-0-to-lift-maiden-champions-league-crown/amp"
+ ],
+ "caption": "3 indices, 1 recordman de la Ligue 1. Tu le trouves à quel indice ? 🧠 Dis-le 👇\n#quizfoot #devinelejoueur #ligue1 #legende #record #football #foot #footballtiktok #pourtoi"
+}
