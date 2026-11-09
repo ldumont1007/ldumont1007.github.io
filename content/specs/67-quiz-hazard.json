@@ -1,0 +1,17 @@
+{
+ "format": "quiz",
+ "cover": {"tag": "QUIZ LIGUE 1", "title": "Devine le joueur en 3 indices", "sub": "Trouvé à l'indice 1 = vrai connaisseur.", "note": "Pas de triche : la réponse est à la fin."},
+ "clues": [
+  "Élu meilleur espoir de Ligue 1 deux années de suite : 2009 et 2010.",
+  "Saison 2010-2011 : doublé Coupe-Championnat avec son club, le premier depuis 65 ans.",
+  "Élu meilleur joueur de Ligue 1 en 2011 puis en 2012, à 20 et 21 ans. Un Diable rouge."
+ ],
+ "answer": {"first": "Le Belge", "last": "Eden Hazard", "note": "Le dribbleur belge qui a fait rêver le Nord."},
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://www.dhnet.be/sports/football/2012/05/14/eden-hazard-sacre-meilleur-joueur-de-ligue-1-KJQ26NXLQZGWFB2UDU3RMETPTM/",
+  "https://fr.uefa.com/news-media/news/01f1-0e78824bc34b-b417be221d53-1000--hazard-meilleur-joueur-de-la-saison-en-france/",
+  "https://www.maxifoot.fr/football/article-15517.htm"
+ ],
+ "caption": "3 indices, 1 crack passé par la Ligue 1. Tu le trouves à quel indice ? 🧠 👇\n#quizfoot #devinelejoueur #ligue1 #legende #football #foot #footballtiktok #pourtoi"
+}

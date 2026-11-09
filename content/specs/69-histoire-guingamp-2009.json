@@ -1,0 +1,19 @@
+{
+ "format": "story",
+ "cover": {"tag": "HISTOIRE DU FOOT", "big": "2009", "big_color": "red", "title": "Le jour où un club de Ligue 2 a gagné la Coupe de France.", "swipe": "L'histoire"},
+ "slides": [
+  {"tag": "9 MAI 2009 · STADE DE FRANCE", "big": "Finale 100 % bretonne.", "body": "Rennes, club de Ligue 1, contre Guingamp, qui joue en Ligue 2. Plus de 80 000 spectateurs.", "size": 95},
+  {"tag": "À 20 MINUTES DE LA FIN", "big": "Rennes mène 1-0.", "body": "Carlos Bocanegra ouvre le score. Le favori croit tenir la coupe.", "color": "red", "size": 95},
+  {"tag": "LE HÉROS", "big": "Eduardo x2.", "body": "Le Brésilien égalise dans la foulée, puis marque le but de la victoire dix minutes plus tard. 2-1.", "color": "gold", "size": 95},
+  {"tag": "HISTORIQUE", "big": "1re Coupe de France.", "body": "Le premier titre de l'histoire de Guingamp dans la compétition, avec Victor Zvunka sur le banc.", "color": "teal", "size": 95}
+ ],
+ "end_title": "Le plus bel exploit d'un club de Ligue 2 ?",
+ "end_sub": "Oui ou non ? Sinon, lequel ? Dis-le en commentaire.",
+ "follow": "une histoire de foot folle chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/2009_Coupe_de_France_final",
+  "https://www.maxifoot.fr/football/article-7223.htm",
+  "https://www.espn.ph/football/report/_/gameId/266778"
+ ],
+ "caption": "Un club de Ligue 2 qui gagne la Coupe de France 😳 Le plus bel exploit ? 👇\n#guingamp #eag #coupedefrance #rennes #histoiredufoot #football #foot #footballtiktok #pourtoi"
+}

@@ -1,0 +1,22 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Tes 3 Monégasques",
+ "tiers": [
+  {"price": 6, "names": ["Mbappé", "Henry", "Trezeguet"]},
+  {"price": 4, "names": ["Thuram", "B. Silva", "Fabinho"]},
+  {"price": 2, "names": ["Giuly", "Barthez", "Evra"]}
+ ],
+ "trap": ["Mbappé", "Henry"],
+ "pick": ["Thuram", "B. Silva", "Fabinho"],
+ "pick_title": "Le trio pile à 12M",
+ "example": "Henry · Thuram · Giuly",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://www.uefa.com/uefachampionsleague/news/0238-0e96d083eac1-56f2661c7ae9-1000--who-s-played-for-monaco-and-juventus",
+  "https://www.goal.com/tr/galeri-listesi/monaco-nun-ruya-takimi-mbappe-henry-ve-thuram-burada/blt9aa34c322e874bdd",
+  "https://sportsbrief.com/football/22664-as-monaco-legends-top-10-time-greats-monegasques"
+ ],
+ "caption": "12M pour 3 légendes de Monaco. Mbappé + Henry = 0 € 😅 Ton trio ? 👇\n#asmonaco #monaco #mbappe #henry #defifoot #football #foot #footballtiktok #pourtoi"
+}

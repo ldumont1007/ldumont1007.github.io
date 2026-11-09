@@ -1,0 +1,19 @@
+{
+ "format": "vote",
+ "cover": {"tag": "DÉBAT LIGUE 1", "title": "Qui sera champion de France en 2027 ?", "sub": "Après 10 journées, le podium se serre."},
+ "candidates": [
+  {"name": "PSG", "short": "PSG", "color": "blue", "sub": "1er · 23 points", "facts": ["Leader après la 10e journée.", "Victoire 1-0 contre Troyes le 7 novembre 2026."]},
+  {"name": "Lille", "short": "Lille", "color": "red", "sub": "2e · 21 points", "facts": ["Une seule défaite en 10 journées.", "Victoire 2-1 à Rennes le 8 novembre 2026."]},
+  {"name": "OM", "short": "OM", "color": "teal", "sub": "Top 4 · 18 points", "facts": ["5 victoires de suite en Ligue 1.", "Victoire 2-1 à Lens le 8 novembre 2026, but d'Abdallah à la 82e."]}
+ ],
+ "end_sub": "PSG, Lille ou OM ? Un seul nom en commentaire.",
+ "end_note": "Team Paris FC (3e) ? Défends-les en commentaire.",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://www.deux-zero.com/ligue-1/resultats",
+  "https://www.deux-zero.com/ligue-1/classement-general/edition/2026-2027",
+  "https://www.matchendirect.fr/resultat-foot-08-11-2026/",
+  "https://sports.orange.fr/football/ligue-1/debrief/ligue-1-j10-l-om-enfonce-lens-exclu-CNT000002tCtJz.html"
+ ],
+ "caption": "PSG, Lille ou l'OM : qui sera champion de France en 2027 ? Un seul nom 👇\n#ligue1 #psg #losc #om #debatfoot #football #foot #footballtiktok #pourtoi"
+}
