@@ -1,0 +1,16 @@
+{
+ "format": "quiz",
+ "cover": {"tag": "QUIZ LIGUE 1", "title": "Devine le joueur en 3 indices", "sub": "Trouvé à l'indice 1 = vrai connaisseur.", "note": "Pas de triche : la réponse est à la fin."},
+ "clues": [
+  "Né à Recife, il commence sa carrière pro au Sport Recife en 1992.",
+  "Arrivé en France à l'été 2001, il est champion de France 7 fois de suite avec son club.",
+  "100 buts avec ce club, dont 44 sur coup franc direct. Le maître des coups francs."
+ ],
+ "answer": {"first": "Le Brésilien", "last": "Juninho", "note": "Le roi des coups francs de l'OL (2001-2009)."},
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://www.maxifoot.fr/football/article-20875.htm",
+  "https://ligue1.com/fr/articles/l1_article_101-juninho-l-expert-lyonnais"
+ ],
+ "caption": "3 indices, 1 légende de la Ligue 1. Tu le trouves à quel indice ? 🧠 👇\n#quizfoot #devinelejoueur #ligue1 #legende #football #foot #footballtiktok #pourtoi"
+}

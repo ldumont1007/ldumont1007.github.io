@@ -1,0 +1,21 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Bleus de Bundesliga",
+ "tiers": [
+  {"price": 6, "names": ["Ribéry", "Lizarazu", "Micoud"]},
+  {"price": 4, "names": ["Coman", "Sagnol", "Pavard"]},
+  {"price": 2, "names": ["Ismaël", "L. Hernandez", "Dembélé"]}
+ ],
+ "trap": ["Ribéry", "Lizarazu"],
+ "pick": ["Coman", "Sagnol", "Pavard"],
+ "pick_title": "Le trio pile à 12M",
+ "example": "Ribéry · Pavard · Ismaël",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://www.bundesliga.com/fr/bundesliga/actus/meilleurs-joueurs-francais-histoire-bundesliga-lizarazu-coman-ribery-ismael-pavard-micoud-hernandez-23050",
+  "https://www.90min.com/fr/posts/les-13-meilleurs-francais-de-bundesliga-01e879bg38z1"
+ ],
+ "caption": "12M pour 3 Français de Bundesliga. Ribéry + Lizarazu = 0 € 😅 Ton trio ? 👇\n#bundesliga #bayern #ribery #lizarazu #defifoot #football #foot #footballtiktok #pourtoi"
+}

@@ -1,0 +1,19 @@
+{
+ "format": "vote",
+ "cover": {"tag": "DÉBAT PSG", "title": "Le plus grand attaquant de l'histoire du PSG ?", "sub": "Trois monstres, un seul trône."},
+ "candidates": [
+  {"name": "Mbappé", "short": "Mbappé", "color": "blue", "sub": "256 buts", "facts": ["Meilleur buteur de l'histoire du club.", "Il a dépassé Cavani en mars 2023, contre Nantes."]},
+  {"name": "Cavani", "short": "Cavani", "color": "teal", "sub": "200 buts", "facts": ["Le Matador : 7 saisons à Paris.", "Longtemps recordman du club."]},
+  {"name": "Ibrahimović", "short": "Zlatan", "color": "gold", "sub": "156 buts", "facts": ["156 buts en 180 matchs seulement.", "38 buts en Ligue 1 en 2015-2016."]}
+ ],
+ "end_sub": "Mbappé, Cavani ou Zlatan ? Un seul nom en commentaire.",
+ "end_note": "Team Pauleta (109 buts) ? Défends-le en commentaire.",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://ligue1.com/fr/articles/l1_article_4306-cavani-le-matador-aux-200-buts-avec-le-psg",
+  "https://www.90min.com/fr/posts/pourquoi-kylian-mbappe-est-le-plus-grand-joueur-de-l-histoire-du-psg",
+  "https://www.planetfootball.com/quick-reads/comparing-kylian-mbappes-psg-record-to-edison-cavani-and-zlatan-ibrahmiovics",
+  "https://ligue1.com/fr/articles/l1_article_80-historique-et-records-du-classement-des-buteurs-l1"
+ ],
+ "caption": "Mbappé, Cavani ou Zlatan : le plus grand attaquant du PSG ? Un seul nom 👇\n#psg #mbappe #cavani #zlatan #debatfoot #football #foot #footballtiktok #pourtoi"
+}
