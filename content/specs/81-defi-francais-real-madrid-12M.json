@@ -1,0 +1,23 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Bleus du Real",
+ "tiers": [
+  {"price": 6, "names": ["Zidane", "Benzema", "Mbappé"]},
+  {"price": 4, "names": ["Varane", "Makélélé", "Kopa"]},
+  {"price": 2, "names": ["Karembeu", "Anelka", "F. Mendy"]}
+ ],
+ "trap": ["Zidane", "Benzema"],
+ "pick": ["Varane", "Makélélé", "Kopa"],
+ "pick_title": "Le trio pile à 12M",
+ "example": "Zidane · Varane · Anelka",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://www.eldebate.com/deportes/futbol/20220905/real-madrid-mas-frances-historia_58071.html",
+  "https://www.realmadrid.com/en-US/the-club/history/football-legends/karim-benzema",
+  "https://www.realmadrid.com/fr-FR/le-club/histoire/legendes-football/christian-karembeu",
+  "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+ ],
+ "caption": "12M pour 3 Français du Real. Zidane + Benzema = 0 € 😅 Ton trio ? 👇\n#realmadrid #zidane #benzema #mbappe #defifoot #football #foot #footballtiktok #pourtoi"
+}

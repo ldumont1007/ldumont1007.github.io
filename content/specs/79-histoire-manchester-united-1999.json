@@ -1,0 +1,19 @@
+{
+ "format": "story",
+ "cover": {"tag": "HISTOIRE DU FOOT", "big": "2 min.", "big_color": "gold", "title": "Le jour où Manchester United a renversé une finale de C1 en moins de 2 minutes.", "swipe": "L'histoire"},
+ "slides": [
+  {"tag": "26 MAI 1999 · CAMP NOU", "big": "Bayern 1-0.", "body": "Finale de la Ligue des champions. Mario Basler marque sur coup franc dès la 6e minute.", "size": 95},
+  {"tag": "LE BAYERN RATE LE K.-O.", "big": "Poteau. Barre.", "body": "Scholl touche le poteau, Jancker la barre. Matthäus sort à la 80e, la coupe semble déjà munichoise.", "color": "red", "size": 95},
+  {"tag": "90e+1 · 90e+3", "big": "Le chaos.", "body": "Sur deux corners de Beckham, Sheringham égalise puis Solskjær marque. Les deux étaient entrés en cours de match.", "color": "gold", "size": 95},
+  {"tag": "HISTORIQUE", "big": "Le triplé.", "body": "Championnat, FA Cup et Ligue des champions : Manchester United réalise le premier triplé de l'histoire du foot anglais.", "color": "teal", "size": 95}
+ ],
+ "end_title": "La fin de match la plus folle ?",
+ "end_sub": "1999, Istanbul 2005, autre ? Dis-le en commentaire.",
+ "follow": "une histoire de foot folle chaque jour",
+ "sources": [
+  "https://www.manutd.com/en/news/detail/20-years-since-man-utd-2-bayern-munich-1-at-nou-camp-1999",
+  "https://www.fifa.com/en/news/united-stun-bayern-in-camp-nou-comeback-2343860",
+  "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/1999_UEFA_Champions_League_Final"
+ ],
+ "caption": "Mené en finale de C1 à la 90e, champion 2 min après 😳 Tu connaissais ? 👇\n#manchesterunited #bayern #liguedeschampions #histoiredufoot #football #foot #footballtiktok #pourtoi"
+}

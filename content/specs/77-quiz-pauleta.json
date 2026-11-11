@@ -1,0 +1,17 @@
+{
+ "format": "quiz",
+ "cover": {"tag": "QUIZ LIGUE 1", "title": "Devine le joueur en 3 indices", "sub": "Trouvé à l'indice 1 = vrai connaisseur.", "note": "Pas de triche : la réponse est à la fin."},
+ "clues": [
+  "Né en 1973 sur une île au milieu de l'Atlantique, il arrive en France en 2000 en provenance de La Corogne.",
+  "Meilleur buteur de Ligue 1 à 3 reprises : une fois à Bordeaux, puis deux fois de suite à Paris.",
+  "109 buts avec le PSG, 47 avec le Portugal. Son surnom : l'Aigle des Açores."
+ ],
+ "answer": {"first": "Pedro", "last": "Pauleta", "note": "Recordman de buts du PSG jusqu'à Zlatan, en 2015."},
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Pauleta",
+  "https://www.sportsmole.co.uk/football/portugal/news/ronaldo-breaks-portugal-scoring-record_142738.html",
+  "https://wikiwand.com/en/articles/Ligue_1_Player_of_the_Year"
+ ],
+ "caption": "3 indices, 1 légende du PSG et de Bordeaux. Tu le trouves à quel indice ? 🧠👇\n#quizfoot #devinelejoueur #ligue1 #psg #bordeaux #football #foot #footballtiktok #pourtoi"
+}

@@ -1,0 +1,19 @@
+{
+ "format": "vote",
+ "cover": {"tag": "DÉBAT BLEUS", "title": "Le meilleur milieu défensif de l'histoire des Bleus ?", "sub": "Trois récupérateurs, un seul trône."},
+ "candidates": [
+  {"name": "Deschamps", "short": "Deschamps", "color": "blue", "sub": "103 sélections", "facts": ["Capitaine champion du monde 1998 et d'Europe 2000.", "Ligue des champions avec l'OM (1993) et la Juve (1996)."]},
+  {"name": "Makélélé", "short": "Makélélé", "color": "teal", "sub": "71 sélections", "facts": ["Ligue des champions 2002 avec le Real.", "2 Premier League avec Chelsea, finaliste du Mondial 2006."]},
+  {"name": "Kanté", "short": "Kanté", "color": "gold", "sub": "Champion du monde 2018", "facts": ["Champion d'Angleterre avec Leicester (2016) puis Chelsea (2017).", "Homme du match de la finale de C1 2021."]}
+ ],
+ "end_sub": "Deschamps, Makélélé ou Kanté ? Un seul nom en commentaire.",
+ "end_note": "Team Vieira ? Défends-le en commentaire.",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Didier_Deschamps",
+  "https://en.wikipedia.org/wiki/Claude_Mak%C3%A9l%C3%A9l%C3%A9",
+  "https://en.wikipedia.org/wiki/N%27Golo_Kant%C3%A9",
+  "https://www.uefa.com/uefachampionsleague/news/0269-12650d446385-97137fef37d2-1000--player-of-the-match-kante/"
+ ],
+ "caption": "Deschamps, Makélélé ou Kanté : le meilleur milieu défensif des Bleus ? 👇\n#equipedefrance #bleus #kante #makelele #deschamps #debatfoot #football #foot #footballtiktok #pourtoi"
+}
