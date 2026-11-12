@@ -1,0 +1,50 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Bleus de 98",
+ "tiers": [
+  {
+   "price": 6,
+   "names": [
+    "Zidane",
+    "Thuram",
+    "Barthez"
+   ]
+  },
+  {
+   "price": 4,
+   "names": [
+    "Deschamps",
+    "Desailly",
+    "Djorkaeff"
+   ]
+  },
+  {
+   "price": 2,
+   "names": [
+    "Henry",
+    "Trezeguet",
+    "Dugarry"
+   ]
+  }
+ ],
+ "trap": [
+  "Zidane",
+  "Thuram"
+ ],
+ "pick": [
+  "Deschamps",
+  "Desailly",
+  "Djorkaeff"
+ ],
+ "pick_title": "Le trio pile à 12M",
+ "example": "Zidane · Desailly · Henry",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://en.wikipedia-on-ipfs.org/wiki/France_at_the_FIFA_World_Cup",
+  "https://inside.fifa.com/en/tournaments/mens/worldcup/1998france/news/worldcupathome-titanic-thuram-sinks-croatia-3072150",
+  "https://www.si.com/soccer/france-1998-world-cup-winning-squad-where-are-they-now"
+ ],
+ "caption": "12M pour 3 champions du monde 98. Henry à 2M, scandale ? 😅 Ton trio ? 👇\n#france98 #zidane #henry #bleus #defifoot #football #foot #footballtiktok #pourtoi"
+}

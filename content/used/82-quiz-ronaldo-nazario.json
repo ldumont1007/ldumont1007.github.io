@@ -1,0 +1,26 @@
+{
+ "format": "quiz",
+ "cover": {
+  "tag": "QUIZ LÉGENDE",
+  "title": "Devine le joueur en 3 indices",
+  "sub": "Trouvé à l'indice 1 = vrai connaisseur.",
+  "note": "Pas de triche : la réponse est à la fin."
+ },
+ "clues": [
+  "Né en 1976 à Rio, il est champion du monde en 1994… sans jouer une seule minute du tournoi.",
+  "Une seule saison au Barça (1996-97) : 47 buts en 49 matchs. Puis direction l'Inter.",
+  "Ballon d'Or à 21 ans en 1997, 8 buts au Mondial 2002 dont un doublé en finale contre l'Allemagne."
+ ],
+ "answer": {
+  "first": "Ronaldo",
+  "last": "Nazário",
+  "note": "Toujours le plus jeune Ballon d'Or de l'histoire."
+ },
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://en.wikipedia-on-ipfs.org/wiki/Ronaldo_(Brazilian_footballer)",
+  "https://www.si.com/soccer/the-youngest-ballon-dor-winner-ever",
+  "https://www.si.com/soccer/ballon-dor-2026-winners-full-list"
+ ],
+ "caption": "3 indices, 1 légende brésilienne. Tu le trouves à quel indice ? 🧠👇\n#quizfoot #devinelejoueur #bresil #legende #ballondor #football #foot #footballtiktok #pourtoi"
+}

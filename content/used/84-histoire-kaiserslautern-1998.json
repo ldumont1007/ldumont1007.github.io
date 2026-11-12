@@ -1,0 +1,50 @@
+{
+ "format": "story",
+ "cover": {
+  "tag": "HISTOIRE DU FOOT",
+  "big": "Promu.",
+  "big2": "Champion.",
+  "big_color": "gold",
+  "title": "Le club qui a gagné la Bundesliga l'année de sa remontée.",
+  "swipe": "L'histoire"
+ },
+ "slides": [
+  {
+   "tag": "MAI 1996",
+   "big": "Relégué.",
+   "body": "Kaiserslautern descend en 2e division… et gagne la Coupe d'Allemagne la même saison.",
+   "size": 95
+  },
+  {
+   "tag": "2 AOÛT 1997 · MUNICH",
+   "big": "Bayern 0-1.",
+   "body": "Pour son retour en Bundesliga, le promu d'Otto Rehhagel gagne chez le Bayern dès la 1re journée.",
+   "color": "red",
+   "size": 95
+  },
+  {
+   "tag": "2 MAI 1998 · 33e JOURNÉE",
+   "big": "4-0.",
+   "body": "Large victoire contre Wolfsburg : Kaiserslautern est champion avec une journée d'avance.",
+   "color": "gold",
+   "size": 95
+  },
+  {
+   "tag": "HISTORIQUE",
+   "big": "Unique.",
+   "body": "Le seul promu sacré de l'histoire de la Bundesliga. Le Bayern finit 2e, à 2 points. Un jeune Ballack est dans l'effectif.",
+   "color": "teal",
+   "size": 95
+  }
+ ],
+ "end_title": "Le plus grand exploit d'un petit club ?",
+ "end_sub": "Kaiserslautern, Leicester, Montpellier ? Dis-le en commentaire.",
+ "follow": "une histoire de foot folle chaque jour",
+ "sources": [
+  "https://www.bundesliga.com/de/bundesliga/news/1-fc-kaiserslautern-meisterschaft-1998-sensation-rote-teufel-rehhagel-24083",
+  "https://www.uefa.com/news-media/news/0221-0e90cc78a03b-b5748f1a08c6-1000--how-promoted-kaiserslautern-won-the-bundesliga",
+  "https://cliffipedia.org/content/wikipedia_en_all_maxi_2025-08/1997%E2%80%9398_1._FC_Kaiserslautern_season",
+  "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/1996_DFB-Pokal_Final"
+ ],
+ "caption": "Promu en août, champion en mai 😳 Tu connaissais cette histoire ? 👇\n#bundesliga #kaiserslautern #ballack #histoiredufoot #football #foot #footballtiktok #pourtoi"
+}

@@ -1,0 +1,50 @@
+{
+ "format": "vote",
+ "cover": {
+  "tag": "DÉBAT",
+  "title": "Le plus grand joueur africain de l'histoire ?",
+  "sub": "Trois légendes. Un seul nom."
+ },
+ "candidates": [
+  {
+   "name": "Weah",
+   "short": "Weah",
+   "color": "gold",
+   "sub": "Ballon d'Or 1995",
+   "facts": [
+    "Le seul Africain Ballon d'Or, avec le Milan.",
+    "Passé par Monaco et le PSG avant l'Italie."
+   ]
+  },
+  {
+   "name": "Eto'o",
+   "short": "Eto'o",
+   "color": "red",
+   "sub": "3 Ligues des champions",
+   "facts": [
+    "2006 et 2009 avec le Barça, 2010 avec l'Inter.",
+    "Meilleur buteur de l'histoire de la CAN : 18 buts."
+   ]
+  },
+  {
+   "name": "Drogba",
+   "short": "Drogba",
+   "color": "blue",
+   "sub": "OM · Chelsea",
+   "facts": [
+    "Égalise puis marque le dernier tir au but en finale de C1 2012.",
+    "4 fois champion d'Angleterre avec Chelsea."
+   ]
+  }
+ ],
+ "end_sub": "Weah, Eto'o ou Drogba ? Un seul nom en commentaire.",
+ "end_note": "Team Salah ? Défends-le en commentaire.",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://www.90min.com/posts/6546773-george-weah-the-formidable-forward-who-remains-africa-s-only-ballon-d-or-winner",
+  "https://www.cafonline.com/caf-africa-cup-of-nations/news/afcon-records-no-one-scores-like-eto-o/",
+  "https://uefa.com/uefachampionsleague/news/01e5-0e74a1d3af4d-bfe1c185cd9c-1000--eto-o-in-thrall-to-the-power-of-three",
+  "https://www.chelseafc.com/en/news/article/chelseas-team-of-120-centre-forward-didier-drogba"
+ ],
+ "caption": "Weah, Eto'o ou Drogba : le plus grand joueur africain de l'histoire ? 👇\n#weah #etoo #drogba #afrique #debatfoot #football #foot #footballtiktok #pourtoi"
+}
