@@ -1,0 +1,50 @@
+{
+ "format": "vote",
+ "cover": {
+  "tag": "DÉBAT",
+  "title": "Le plus grand club français de l'histoire ?",
+  "sub": "Trois géants. Un seul nom."
+ },
+ "candidates": [
+  {
+   "name": "PSG",
+   "short": "PSG",
+   "color": "red",
+   "sub": "14 titres · 2 C1",
+   "facts": [
+    "Recordman des titres de champion de France.",
+    "Champion d'Europe en 2025 et en 2026."
+   ]
+  },
+  {
+   "name": "OM",
+   "short": "OM",
+   "color": "blue",
+   "sub": "9 titres · 1 C1",
+   "facts": [
+    "Premier club français champion d'Europe, en 1993.",
+    "4 titres de champion de suite, de 1989 à 1992."
+   ]
+  },
+  {
+   "name": "Saint-Étienne",
+   "short": "ASSE",
+   "color": "teal",
+   "sub": "10 titres",
+   "facts": [
+    "10 fois champion entre 1957 et 1981.",
+    "Finaliste de la C1 en 1976 face au Bayern."
+   ]
+  }
+ ],
+ "end_sub": "PSG, OM ou Sainté ? Un seul nom en commentaire.",
+ "end_note": "Team Lyon et ses 7 titres de suite ? Défends-le.",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://ligue1.com/fr/articles/l1_article_289-le-palmares-des-champions-de-ligue-1",
+  "https://news.maxifoot.fr/ligue-1/le-psg-champion-pour-la-14e-fois-foot-455886.htm",
+  "https://en.wikipedia.org/wiki/Paris_Saint-Germain_F.C.",
+  "https://ligue1.com/en/articles/l1_article_5035-30-years-on-psg-s-cup-winners-cup-triumph-remains-a-defining-european-moment"
+ ],
+ "caption": "PSG, OM ou Saint-Étienne : le plus grand club français de l'histoire ? 👇\n#psg #om #asse #ligue1 #debatfoot #football #foot #footballtiktok #pourtoi"
+}

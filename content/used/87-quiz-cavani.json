@@ -1,0 +1,26 @@
+{
+ "format": "quiz",
+ "cover": {
+  "tag": "QUIZ LÉGENDE",
+  "title": "Devine le joueur en 3 indices",
+  "sub": "Trouvé à l'indice 1 = vrai connaisseur.",
+  "note": "Pas de triche : la réponse est à la fin."
+ },
+ "clues": [
+  "Né en 1987 à Salto, en Uruguay. Son premier club en Europe : Palerme, en 2007.",
+  "Meilleur buteur de Serie A en 2012-13 avec Naples : 29 buts.",
+  "35 buts en Ligue 1 en 2016-17, puis 200 buts avec le PSG."
+ ],
+ "answer": {
+  "first": "Edinson",
+  "last": "Cavani",
+  "note": "Il a battu le record de buts de Zlatan au PSG en janvier 2018."
+ },
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Edinson_Cavani",
+  "https://en.psg.fr/teams/first-team/content/cavani-reaches-200-goal-milestone",
+  "https://fourfourtwo.com/news/cavani-overtakes-ibrahimovic-psgs-record-scorer"
+ ],
+ "caption": "3 indices, 1 buteur légendaire de Ligue 1. Tu le trouves à quel indice ? 🧠👇\n#quizfoot #devinelejoueur #ligue1 #legende #buteur #football #foot #footballtiktok #pourtoi"
+}

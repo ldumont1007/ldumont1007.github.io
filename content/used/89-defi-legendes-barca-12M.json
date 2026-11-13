@@ -1,0 +1,49 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Légendes du Barça",
+ "tiers": [
+  {
+   "price": 6,
+   "names": [
+    "Messi",
+    "Xavi",
+    "Iniesta"
+   ]
+  },
+  {
+   "price": 4,
+   "names": [
+    "Ronaldinho",
+    "Puyol",
+    "Cruyff"
+   ]
+  },
+  {
+   "price": 2,
+   "names": [
+    "Eto'o",
+    "Henry",
+    "Neymar"
+   ]
+  }
+ ],
+ "trap": [
+  "Messi",
+  "Iniesta"
+ ],
+ "pick": [
+  "Ronaldinho",
+  "Puyol",
+  "Cruyff"
+ ],
+ "pick_title": "Le trio pile à 12M",
+ "example": "Messi · Puyol · Henry",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://www.fcbarcelona.com/en/club/history",
+  "https://en.wikipedia.org/wiki/List_of_FC_Barcelona_players"
+ ],
+ "caption": "12M pour 3 légendes du Barça. Ronaldinho à 4M, scandale ? 😅 Ton trio ? 👇\n#barca #messi #ronaldinho #henry #defifoot #football #foot #footballtiktok #pourtoi"
+}
