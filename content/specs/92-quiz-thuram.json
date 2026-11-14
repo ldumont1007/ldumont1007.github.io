@@ -1,0 +1,26 @@
+{
+ "format": "quiz",
+ "cover": {
+  "tag": "QUIZ LÉGENDE",
+  "title": "Devine le joueur en 3 indices",
+  "sub": "Trouvé à l'indice 1 = vrai connaisseur.",
+  "note": "Pas de triche : la réponse est à la fin."
+ },
+ "clues": [
+  "Né le 1er janvier 1972 en Guadeloupe. Révélé à Monaco, il part en Italie en 1996 : Parme.",
+  "Il signe à la Juventus en 2001, puis finit sa carrière au Barça entre 2006 et 2008.",
+  "142 sélections en Bleu. Champion du monde 1998 et champion d'Europe 2000."
+ ],
+ "answer": {
+  "first": "Lilian",
+  "last": "Thuram",
+  "note": "Ses 2 seuls buts en Bleu : contre la Croatie, en demie du Mondial 98."
+ },
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Lilian_Thuram",
+  "https://www.parmacalcio1913.com/en/?p=2581",
+  "https://sportskeeda.com/football/5-footballers-scored-all-international-goals-fifa-world-cup/3"
+ ],
+ "caption": "3 indices, 1 légende des Bleus. Tu le trouves à quel indice ? 🧠👇\n#quizfoot #devinelejoueur #equipedefrance #legende #france98 #football #foot #footballtiktok #pourtoi"
+}

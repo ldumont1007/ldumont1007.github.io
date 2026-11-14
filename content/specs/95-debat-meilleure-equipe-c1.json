@@ -1,0 +1,52 @@
+{
+ "format": "vote",
+ "cover": {
+  "tag": "DÉBAT",
+  "title": "La meilleure équipe de l'histoire de la C1 ?",
+  "sub": "Trois dynasties. Un seul vainqueur."
+ },
+ "candidates": [
+  {
+   "name": "Real Madrid",
+   "short": "REAL",
+   "color": "gold",
+   "sub": "4 C1 en 5 ans (2014-2018)",
+   "facts": [
+    "3 Ligues des champions de suite : 2016, 2017, 2018.",
+    "Le seul triplé consécutif depuis le passage à la Ligue des champions."
+   ]
+  },
+  {
+   "name": "Barcelone",
+   "short": "BARÇA",
+   "color": "violet",
+   "sub": "Guardiola · 2 C1 (2009, 2011)",
+   "facts": [
+    "Sextuplé en 2009 : 6 titres sur 6 dans l'année.",
+    "2 finales gagnées contre Manchester United, en 2009 et 2011."
+   ]
+  },
+  {
+   "name": "PSG",
+   "short": "PSG",
+   "color": "red",
+   "sub": "2 C1 de suite (2025, 2026)",
+   "facts": [
+    "5-0 contre l'Inter en 2025 : le plus gros écart de l'histoire en finale.",
+    "Titre conservé en 2026 contre Arsenal, aux tirs au but."
+   ]
+  }
+ ],
+ "end_sub": "Real, Barça ou PSG ? Un seul nom en commentaire.",
+ "end_note": "Team Bayern 2020 et ses 11 victoires sur 11 ? Défends-le.",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/2018_UEFA_Champions_League_final",
+  "https://en.wikipedia.org/wiki/2011_UEFA_Champions_League_final",
+  "https://www.si.com/soccer/psg-set-new-champions-league-final-record-vs-inter-milan",
+  "https://www.dhnet.be/dernieres-depeches/2026/05/30/foot-le-psg-soffre-une-deuxieme-ligue-des-champions-daffilee-en-battant-arsenal-en-finale-WLPIOMSQ2JAADC7B6OK266JJTM/",
+  "https://bleacherreport.com/articles/25432295-psg-makes-history-repeats-ucl-champions-win-vs-arsenal-penalties",
+  "https://fcbayern.com/en/news/2021/08/11-wins-in-11-games---bayerns-record-road-to-the-champions-league-title-2020"
+ ],
+ "caption": "Real, Barça de Guardiola ou PSG : la meilleure équipe de l'histoire de la C1 ? 👇\n#liguedeschampions #psg #realmadrid #barca #debatfoot #football #foot #footballtiktok #pourtoi"
+}

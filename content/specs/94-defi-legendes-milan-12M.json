@@ -1,0 +1,21 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Légendes du Milan AC",
+ "tiers": [
+  {"price": 6, "names": ["Maldini", "Baresi", "Van Basten"]},
+  {"price": 4, "names": ["Kaká", "Shevchenko", "Pirlo"]},
+  {"price": 2, "names": ["Gullit", "Seedorf", "Inzaghi"]}
+ ],
+ "trap": ["Maldini", "Van Basten"],
+ "pick": ["Kaká", "Shevchenko", "Pirlo"],
+ "pick_title": "Le trio pile à 12M",
+ "example": "Maldini · Kaká · Gullit",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://www.acmilan.com/en/club/history",
+  "https://en.wikipedia.org/wiki/List_of_AC_Milan_players"
+ ],
+ "caption": "12M pour 3 légendes du Milan. Gullit à 2M, scandale ? 😅 Ton trio ? 👇\n#milan #acmilan #maldini #kaka #defifoot #football #foot #footballtiktok #pourtoi"
+}

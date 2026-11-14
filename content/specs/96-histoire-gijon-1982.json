@@ -1,0 +1,50 @@
+{
+ "format": "story",
+ "cover": {
+  "tag": "HISTOIRE DU FOOT",
+  "big": "1982.",
+  "big2": "Gijón.",
+  "big_color": "gold",
+  "title": "Le match arrangé qui a changé les règles de la Coupe du monde.",
+  "swipe": "L'histoire"
+ },
+ "slides": [
+  {
+   "tag": "16 JUIN 1982",
+   "big": "2-1.",
+   "body": "Pour son tout premier Mondial, l'Algérie de Madjer et Belloumi bat la RFA, championne d'Europe en titre.",
+   "size": 95
+  },
+  {
+   "tag": "LE PIÈGE",
+   "big": "Un jour d'avance.",
+   "body": "L'Algérie joue son dernier match la veille. RFA-Autriche se joue le lendemain : les deux savent quel score les qualifie.",
+   "color": "red",
+   "size": 80
+  },
+  {
+   "tag": "25 JUIN 1982 · GIJÓN",
+   "big": "10e minute.",
+   "body": "Hrubesch marque. 1-0. Puis plus rien : 80 minutes de passes sans attaquer. Les deux équipes passent, l'Algérie sort.",
+   "color": "gold",
+   "size": 95
+  },
+  {
+   "tag": "L'HÉRITAGE",
+   "big": "Même heure.",
+   "body": "Depuis, les derniers matchs de poule se jouent en même temps. Et cette RFA ? Elle sortira la France en demie à Séville.",
+   "color": "teal",
+   "size": 95
+  }
+ ],
+ "end_title": "Le pire scandale de l'histoire du Mondial ?",
+ "end_sub": "Oui ou non ? Dis-le en commentaire.",
+ "follow": "une histoire de foot folle chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Disgrace_of_Gij%C3%B3n",
+  "https://foxsports.com/stories/soccer/world-cups-101-most-memorable-moments-the-disgrace-of-gijon",
+  "https://www.fourfourtwo.com/competition/why-algeria-hate-austria-as-sides-prepare-for-ironic-world-cup-battle",
+  "https://dfb.de/news/detail/world-cup-rewind-so-close-but-so-far-at-spain-1982-188235"
+ ],
+ "caption": "Le match de la honte : 80 minutes sans attaquer 😳 Tu connaissais ? 👇\n#coupedumonde #algerie #allemagne #histoiredufoot #mondial #football #foot #footballtiktok #pourtoi"
+}
