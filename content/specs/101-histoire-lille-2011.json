@@ -1,0 +1,51 @@
+{
+ "format": "story",
+ "cover": {
+  "tag": "HISTOIRE DU FOOT",
+  "big": "2011.",
+  "big2": "Lille.",
+  "big_color": "red",
+  "title": "57 ans sans être champion. Puis le doublé en une semaine.",
+  "swipe": "L'histoire"
+ },
+ "slides": [
+  {
+   "tag": "LE CONTEXTE",
+   "big": "1954.",
+   "body": "Le dernier titre de champion du LOSC. Et la dernière Coupe de France date de 1955. Plus de 50 ans sans titre majeur.",
+   "size": 95
+  },
+  {
+   "tag": "14 MAI 2011 · STADE DE FRANCE",
+   "big": "89e minute.",
+   "body": "Finale de Coupe contre le PSG, 0-0. Coup franc d'Obraniak, Coupet est surpris. Lille gagne 1-0.",
+   "color": "gold",
+   "size": 85
+  },
+  {
+   "tag": "21 MAI 2011 · PARC DES PRINCES",
+   "big": "2-2.",
+   "body": "Une semaine plus tard, encore à Paris : le nul suffit. Lille est champion de France. Premier doublé depuis 1946.",
+   "color": "red",
+   "size": 95
+  },
+  {
+   "tag": "LES HÉROS",
+   "big": "Garcia.",
+   "body": "Le coach Rudi Garcia. Moussa Sow, meilleur buteur avec 25 buts. Et Eden Hazard, 20 ans, élu meilleur joueur de L1.",
+   "color": "teal",
+   "size": 95
+  }
+ ],
+ "end_title": "Le plus beau titre de Ligue 1 du siècle ?",
+ "end_sub": "Oui ou non ? Dis-le en commentaire.",
+ "follow": "une histoire de foot folle chaque jour",
+ "sources": [
+  "https://www.maxifoot.fr/football/article-12486.htm",
+  "https://www.dhnet.be/sports/football/2011/05/14/victoire-de-lille-en-finale-de-coupe-de-france-KQDAI4JJ75EM3G5UXTUQYNMIYA/",
+  "https://www.aljazeera.com/sports/2011/5/21/lille-win-first-french-title-in-57-years",
+  "https://www.goal.com/fr/news/rudi-garcia-aux-commandes-hazard-gervinho-et-sow-au-casting--le-lille-sacre-champion-de-france-en-2011/tdebgs0ku0q11c7po0ww98310",
+  "https://fr.uefa.com/news-media/news/01f1-0e78824bc34b-b417be221d53-1000--hazard-meilleur-joueur-de-la-saison-en-france/"
+ ],
+ "caption": "57 ans sans être champion, puis le doublé en une semaine 😳 Tu t'en souviens ? 👇\n#losc #lille #ligue1 #hazard #histoiredufoot #football #foot #footballtiktok #pourtoi"
+}

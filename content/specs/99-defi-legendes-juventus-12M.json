@@ -1,0 +1,21 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Légendes de la Juve",
+ "tiers": [
+  {"price": 6, "names": ["Platini", "Zidane", "Del Piero"]},
+  {"price": 4, "names": ["Buffon", "Nedvěd", "Pirlo"]},
+  {"price": 2, "names": ["Trezeguet", "Chiellini", "C. Ronaldo"]}
+ ],
+ "trap": ["Platini", "Zidane"],
+ "pick": ["Buffon", "Nedvěd", "Pirlo"],
+ "pick_title": "Le trio pile à 12M",
+ "example": "Zidane · Pirlo · Trezeguet",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://www.juventus.com/en/club/history",
+  "https://en.wikipedia.org/wiki/List_of_Juventus_FC_players"
+ ],
+ "caption": "12M pour 3 légendes de la Juve. Cristiano à 2M, scandale ? 😅 Ton trio ? 👇\n#juventus #juve #zidane #platini #defifoot #football #foot #footballtiktok #pourtoi"
+}

@@ -1,0 +1,25 @@
+{
+ "format": "quiz",
+ "cover": {
+  "tag": "QUIZ LÉGENDE",
+  "title": "Devine le joueur en 3 indices",
+  "sub": "Trouvé à l'indice 1 = vrai connaisseur.",
+  "note": "Pas de triche : la réponse est à la fin."
+ },
+ "clues": [
+  "Né à Chambéry en 1986. Meilleur buteur de Ligue 2 en 2010 avec Tours : 21 buts.",
+  "Meilleur buteur de Ligue 1 en 2012 et champion de France. Puis Arsenal, Chelsea et le Milan.",
+  "Champion du monde 2018 et 57 buts en Bleu. Ligue des champions 2021, Scudetto 2022."
+ ],
+ "answer": {
+  "first": "Olivier",
+  "last": "Giroud",
+  "note": "Champion avec Montpellier en 2012 : le seul titre de l'histoire du club."
+ },
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Olivier_Giroud",
+  "https://ligue1.com/en/articles/l1_article_2833-olivier-giroud-joins-lille"
+ ],
+ "caption": "3 indices, 1 buteur des Bleus. Tu le trouves à quel indice ? 🧠👇\n#quizfoot #devinelejoueur #equipedefrance #ligue1 #buteur #football #foot #footballtiktok #pourtoi"
+}

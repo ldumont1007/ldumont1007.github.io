@@ -1,0 +1,51 @@
+{
+ "format": "vote",
+ "cover": {
+  "tag": "DÉBAT",
+  "title": "Le meilleur gardien de l'histoire des Bleus ?",
+  "sub": "Trois générations. Un seul numéro 1."
+ },
+ "candidates": [
+  {
+   "name": "Fabien Barthez",
+   "short": "BARTHEZ",
+   "color": "gold",
+   "sub": "87 sélections · gardien de 98",
+   "facts": [
+    "Champion du monde 1998 et champion d'Europe 2000.",
+    "10 matchs sans encaisser en Coupe du monde : record, avec Shilton."
+   ]
+  },
+  {
+   "name": "Hugo Lloris",
+   "short": "LLORIS",
+   "color": "blue",
+   "sub": "145 sélections · record en Bleu",
+   "facts": [
+    "Capitaine des champions du monde 2018.",
+    "Ligue des nations 2021. 121 matchs avec le brassard : record."
+   ]
+  },
+  {
+   "name": "Mike Maignan",
+   "short": "MAIGNAN",
+   "color": "red",
+   "sub": "Lille · Milan · titulaire en Bleu",
+   "facts": [
+    "Champion de France 2021 avec Lille, champion d'Italie 2022 avec Milan.",
+    "Élu meilleur gardien de Serie A en 2022."
+   ]
+  }
+ ],
+ "end_sub": "Barthez, Lloris ou Maignan ? Un seul nom en commentaire.",
+ "end_note": "Team Lama ou Team Coupet ? Défends ton gardien.",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://www.fff.fr/equipe-nationale/joueur/8457-barthez-fabien/fiche.html",
+  "https://inside.fifa.com/fr/news/l-histoire-derriere-les-records-barthez-2900932",
+  "https://www.fff.fr/equipe-nationale/joueur/9696-lloris-hugo/fiche.html",
+  "https://www.fff.fr/article/9254-lloris-tire-sa-reverence.html",
+  "https://www.fff.fr/equipe-nationale/joueur/8500-maignan-mike/fiche.html"
+ ],
+ "caption": "Barthez, Lloris ou Maignan : le meilleur gardien de l'histoire des Bleus ? 🧤👇\n#equipedefrance #barthez #lloris #maignan #debatfoot #football #foot #footballtiktok #pourtoi"
+}
