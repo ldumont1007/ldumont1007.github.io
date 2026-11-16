@@ -1,0 +1,21 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Légendes d'Arsenal",
+ "tiers": [
+  {"price": 6, "names": ["Henry", "Bergkamp", "Vieira"]},
+  {"price": 4, "names": ["Pirès", "Adams", "Wright"]},
+  {"price": 2, "names": ["Ljungberg", "Lehmann", "Saka"]}
+ ],
+ "trap": ["Henry", "Bergkamp"],
+ "pick": ["Pirès", "Adams", "Wright"],
+ "pick_title": "Le trio pile à 12M",
+ "example": "Henry · Pirès · Saka",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://www.arsenal.com/history",
+  "https://en.wikipedia.org/wiki/List_of_Arsenal_F.C._players"
+ ],
+ "caption": "12M pour 3 légendes d'Arsenal. Saka à 2M, scandale ? 😅 Ton trio ? 👇\n#arsenal #henry #vieira #premierleague #defifoot #football #foot #footballtiktok #pourtoi"
+}

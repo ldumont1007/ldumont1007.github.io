@@ -1,0 +1,25 @@
+{
+ "format": "quiz",
+ "cover": {
+  "tag": "QUIZ LÉGENDE",
+  "title": "Devine le joueur en 3 indices",
+  "sub": "Trouvé à l'indice 1 = vrai connaisseur.",
+  "note": "Pas de triche : la réponse est à la fin."
+ },
+ "clues": [
+  "Né à Paris en 1991. Pas de grand centre de formation : 10 ans à Suresnes, puis la réserve de Boulogne.",
+  "Monté en Ligue 1 avec Caen en 2014. Puis champion d'Angleterre 2 saisons de suite, avec 2 clubs différents.",
+  "Champion du monde 2018. Homme du match de la finale de la Ligue des champions 2021."
+ ],
+ "answer": {
+  "first": "N'Golo",
+  "last": "Kanté",
+  "note": "Leicester 2016, Chelsea 2017 : élu joueur de l'année en Premier League par ses pairs."
+ },
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/N%27Golo_Kant%C3%A9",
+  "https://fr.uefa.com/uefachampionsleague/news/0269-124c5486f4b7-e766c84aad18-1000--exclu-n-golo-kante-je-voulais-juste-signer-pro/"
+ ],
+ "caption": "3 indices, 1 champion du monde. Tu le trouves à quel indice ? 🧠👇\n#quizfoot #devinelejoueur #equipedefrance #premierleague #football #foot #footballtiktok #pourtoi"
+}

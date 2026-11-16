@@ -1,0 +1,50 @@
+{
+ "format": "vote",
+ "cover": {
+  "tag": "DÉBAT",
+  "title": "La plus grande légende de l'OM ?",
+  "sub": "Trois époques. Un seul roi du Vélodrome."
+ },
+ "candidates": [
+  {
+   "name": "Papin",
+   "short": "PAPIN",
+   "color": "gold",
+   "sub": "OM 1986-1992",
+   "facts": [
+    "Meilleur buteur de D1 5 saisons de suite, de 1988 à 1992.",
+    "Ballon d'Or 1991 avec l'OM, et 4 titres de champion de suite."
+   ]
+  },
+  {
+   "name": "Drogba",
+   "short": "DROGBA",
+   "color": "orange",
+   "sub": "Une seule saison · 2003-2004",
+   "facts": [
+    "32 buts toutes compétitions, dont 19 en Ligue 1.",
+    "Finale de Coupe UEFA et élu meilleur joueur de L1 2004."
+   ]
+  },
+  {
+   "name": "Payet",
+   "short": "PAYET",
+   "color": "blue",
+   "sub": "OM 2013-15 puis 2017-23",
+   "facts": [
+    "Plus de 320 matchs avec l'OM, environ 78 buts.",
+    "Titulaire en finale de Ligue Europa 2018."
+   ]
+  }
+ ],
+ "end_sub": "Papin, Drogba ou Payet ? Un seul nom en commentaire.",
+ "end_note": "Team Waddle ou Team Mandanda ? Défends-le.",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://ligue1.com/fr/articles/l1_article_80-historique-et-records-du-classement-des-buteurs-l1",
+  "https://www.90min.com/fr/posts/om-quel-est-le-record-de-buts-de-didier-drogba-que-pierre-emerick-aubameyang-pourrait-faire-tomber-cette-saison",
+  "https://fr.uefa.com/news-media/news/01a9-0f8473a59e64-a1fd4f6e5685-1000--essien-n-1-de-ligue-1/",
+  "https://fr.wikipedia.org/wiki/Dimitri_Payet"
+ ],
+ "caption": "Papin, Drogba ou Payet : la plus grande légende de l'OM ? 🔵⚪ Un seul nom 👇\n#om #olympiquedemarseille #papin #drogba #payet #football #foot #footballtiktok #pourtoi"
+}
