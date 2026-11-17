@@ -1,0 +1,49 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Légendes de Liverpool",
+ "tiers": [
+  {
+   "price": 6,
+   "names": [
+    "Gerrard",
+    "Dalglish",
+    "Salah"
+   ]
+  },
+  {
+   "price": 4,
+   "names": [
+    "Rush",
+    "Van Dijk",
+    "Alonso"
+   ]
+  },
+  {
+   "price": 2,
+   "names": [
+    "Torres",
+    "Carragher",
+    "Fowler"
+   ]
+  }
+ ],
+ "trap": [
+  "Gerrard",
+  "Salah"
+ ],
+ "pick": [
+  "Rush",
+  "Van Dijk",
+  "Alonso"
+ ],
+ "pick_title": "Le trio pile à 12M",
+ "example": "Gerrard · Van Dijk · Fowler",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://www.liverpoolfc.com/news/salah-and-van-dijk-included-jamie-carragher-picks-his-all-time-liverpool-xi",
+  "https://www.planetsport.com/soccer/news/all-time-greatest-liverpool-xi-based-on-former-players-selections"
+ ],
+ "caption": "12M pour 3 légendes de Liverpool. Carragher à 2M, ça passe ? 😅 Ton trio ? 👇\n#liverpool #gerrard #salah #premierleague #defifoot #football #foot #footballtiktok #pourtoi"
+}

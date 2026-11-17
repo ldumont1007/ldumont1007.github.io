@@ -1,0 +1,50 @@
+{
+ "format": "vote",
+ "cover": {
+  "tag": "DÉBAT",
+  "title": "Le stade le plus chaud de France ?",
+  "sub": "Trois enceintes mythiques. Une seule ambiance de feu."
+ },
+ "candidates": [
+  {
+   "name": "Vélodrome",
+   "short": "VÉLODROME",
+   "color": "blue",
+   "sub": "Marseille · OM",
+   "facts": [
+    "Inauguré en 1937.",
+    "Plus de 67 000 places, des virages qui ne s'assoient jamais."
+   ]
+  },
+  {
+   "name": "Bollaert",
+   "short": "BOLLAERT",
+   "color": "gold",
+   "sub": "Lens · RC Lens",
+   "facts": [
+    "Environ 38 200 places.",
+    "Plus de places dans le stade que d'habitants à Lens."
+   ]
+  },
+  {
+   "name": "Geoffroy-Guichard",
+   "short": "CHAUDRON",
+   "color": "teal",
+   "sub": "Saint-Étienne · ASSE",
+   "facts": [
+    "Surnommé « le Chaudron ».",
+    "Environ 42 000 places."
+   ]
+  }
+ ],
+ "end_sub": "Vélodrome, Bollaert ou Chaudron ? Un seul nom en commentaire.",
+ "end_note": "Team Parc des Princes ? Défends-le.",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://stadiumdb.com/stadiums/fra/stade_velodrome",
+  "https://stadiumdb.com/stadiums/fra",
+  "https://www.flashscore.fr/actualites/les-18-stades-des-clubs-de-ligue-1-pour-la-saison-2026-27/KC7dQ4fd/",
+  "https://edito.seloger.com/tendances/vacances/plus-7-beaux-stades-de-france-voir-une-vie-article-22817_4.html"
+ ],
+ "caption": "Vélodrome, Bollaert ou Chaudron : le stade le plus chaud de France ? 🔥👇\n#om #rclens #asse #ligue1 #ambiance #football #foot #footballtiktok #pourtoi"
+}

@@ -1,0 +1,25 @@
+{
+ "format": "quiz",
+ "cover": {
+  "tag": "QUIZ LÉGENDE",
+  "title": "Devine le joueur en 3 indices",
+  "sub": "Trouvé à l'indice 1 = vrai connaisseur.",
+  "note": "Pas de triche : la réponse est à la fin."
+ },
+ "clues": [
+  "Né à Kinshasa en 1973. Passé par Brest, Nantes, Marseille puis le Celta Vigo.",
+  "Champion de France avec Nantes en 1995. Vainqueur de la Ligue des champions 2002 avec le Real Madrid.",
+  "71 sélections en Bleu, 0 but. En Angleterre, le poste de milieu défensif porte son nom."
+ ],
+ "answer": {
+  "first": "Claude",
+  "last": "Makélélé",
+  "note": "Chelsea 2003-2008 : 2 titres de Premier League. Fin de carrière au PSG en 2011."
+ },
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Claude_Mak%C3%A9l%C3%A9l%C3%A9",
+  "https://www.fff.fr/equipe-nationale/joueur/9785-makelele-claude/fiche.html"
+ ],
+ "caption": "3 indices, 1 légende du milieu. Tu le trouves à quel indice ? 🧠👇\n#quizfoot #devinelejoueur #equipedefrance #realmadrid #chelsea #football #foot #footballtiktok #pourtoi"
+}
