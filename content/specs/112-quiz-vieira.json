@@ -1,0 +1,25 @@
+{
+ "format": "quiz",
+ "cover": {
+  "tag": "QUIZ LÉGENDE",
+  "title": "Devine le joueur en 3 indices",
+  "sub": "Trouvé à l'indice 1 = vrai connaisseur.",
+  "note": "Pas de triche : la réponse est à la fin."
+ },
+ "clues": [
+  "Né à Dakar en 1976. Capitaine de Cannes à 19 ans, puis une saison quasi sans jouer à l'AC Milan.",
+  "Finale du Mondial 1998 : entré en jeu, c'est lui qui fait la passe pour le 3-0 de Petit.",
+  "Capitaine des Invincibles d'Arsenal. Son dernier ballon pour le club : le tir au but vainqueur de la FA Cup 2005."
+ ],
+ "answer": {
+  "first": "Patrick",
+  "last": "Vieira",
+  "note": "107 sélections en Bleu. Champion du monde 1998 et champion d'Europe 2000."
+ },
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Patrick_Vieira",
+  "https://www.fff.fr/equipe-nationale/joueur/9648-vieira-patrick/fiche.html"
+ ],
+ "caption": "3 indices, 1 patron du milieu. Tu le trouves à quel indice ? 🧠👇\n#quizfoot #devinelejoueur #equipedefrance #premierleague #legende #football #foot #footballtiktok #pourtoi"
+}

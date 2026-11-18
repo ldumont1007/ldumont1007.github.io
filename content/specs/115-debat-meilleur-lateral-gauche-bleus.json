@@ -1,0 +1,49 @@
+{
+ "format": "vote",
+ "cover": {
+  "tag": "DÉBAT",
+  "title": "Le meilleur latéral gauche de l'histoire des Bleus ?",
+  "sub": "Trois couloirs gauches. Un seul patron."
+ },
+ "candidates": [
+  {
+   "name": "Lizarazu",
+   "short": "LIZARAZU",
+   "color": "blue",
+   "sub": "Bordeaux · Bayern",
+   "facts": [
+    "97 sélections. Champion du monde 1998 et d'Europe 2000.",
+    "Ligue des champions 2001 avec le Bayern."
+   ]
+  },
+  {
+   "name": "Evra",
+   "short": "EVRA",
+   "color": "red",
+   "sub": "Monaco · Man United",
+   "facts": [
+    "81 sélections en Bleu.",
+    "Ligue des champions 2008 avec Manchester United."
+   ]
+  },
+  {
+   "name": "Theo Hernández",
+   "short": "THEO",
+   "color": "teal",
+   "sub": "Real · AC Milan",
+   "facts": [
+    "Champion d'Italie 2022 avec le Milan.",
+    "Buteur en demi-finale du Mondial 2022 contre le Maroc."
+   ]
+  }
+ ],
+ "end_sub": "Lizarazu, Evra ou Theo ? Un seul nom en commentaire.",
+ "end_note": "Un autre nom ? Défends-le.",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Bixente_Lizarazu",
+  "https://rsssf.org/miscellaneous/fran-recintlp.html",
+  "https://en.wikipedia.org/wiki/Th%C3%A9o_Hernandez"
+ ],
+ "caption": "Lizarazu, Evra ou Theo : le meilleur latéral gauche des Bleus ? 🇫🇷👇\n#equipedefrance #lizarazu #evra #theohernandez #lesbleus #football #foot #footballtiktok #pourtoi"
+}

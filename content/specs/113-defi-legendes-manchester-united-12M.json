@@ -1,0 +1,49 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Légendes de Man Utd",
+ "tiers": [
+  {
+   "price": 6,
+   "names": [
+    "Cantona",
+    "Ronaldo",
+    "Giggs"
+   ]
+  },
+  {
+   "price": 4,
+   "names": [
+    "Scholes",
+    "Rooney",
+    "Beckham"
+   ]
+  },
+  {
+   "price": 2,
+   "names": [
+    "Evra",
+    "Vidić",
+    "Schmeichel"
+   ]
+  }
+ ],
+ "trap": [
+  "Cantona",
+  "Ronaldo"
+ ],
+ "pick": [
+  "Scholes",
+  "Rooney",
+  "Beckham"
+ ],
+ "pick_title": "Le trio pile à 12M",
+ "example": "Cantona · Rooney · Evra",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://www.fourfourtwo.com/features/best-manchester-united-players-11-greatest-all-time",
+  "https://www.90min.com/posts/man-utd-greatest-players-ever-ranked"
+ ],
+ "caption": "12M pour 3 légendes de Man United. Cantona ou Ronaldo, faut choisir 😅 Ton trio ? 👇\n#manchesterunited #cantona #ronaldo #premierleague #defifoot #football #foot #footballtiktok #pourtoi"
+}

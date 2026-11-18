@@ -1,0 +1,51 @@
+{
+ "format": "story",
+ "cover": {
+  "tag": "HISTOIRE DU FOOT",
+  "big": "330 000",
+  "big2": "habitants.",
+  "big_color": "teal",
+  "title": "Euro 2016 : le petit pays qui a sorti l'Angleterre.",
+  "swipe": "L'histoire"
+ },
+ "slides": [
+  {
+   "tag": "ISLANDE · EURO 2016",
+   "big": "Un dentiste.",
+   "body": "Premier grand tournoi de son histoire. Sur le banc, Lars Lagerbäck et Heimir Hallgrímsson… dentiste à temps partiel.",
+   "size": 90
+  },
+  {
+   "tag": "PHASE DE POULES",
+   "big": "Invaincus.",
+   "body": "Nul contre le Portugal de Ronaldo, nul contre la Hongrie, puis victoire contre l'Autriche dans le temps additionnel.",
+   "color": "teal",
+   "size": 90
+  },
+  {
+   "tag": "27 JUIN 2016 · NICE",
+   "big": "2-1.",
+   "body": "Rooney ouvre le score sur penalty. Sigurdsson égalise dans la foulée, Sigthórsson marque à la 18e. L'Angleterre est éliminée.",
+   "color": "gold",
+   "size": 95
+  },
+  {
+   "tag": "3 JUILLET 2016 · STADE DE FRANCE",
+   "big": "5-2.",
+   "body": "En quart, les Bleus mettent fin au rêve. Mais le clapping viking a fait le tour de l'Europe.",
+   "color": "red",
+   "size": 95
+  }
+ ],
+ "end_title": "Le plus bel exploit d'un petit pays ?",
+ "end_sub": "Oui ou non ? Sinon, lequel ? Dis-le en commentaire.",
+ "follow": "une histoire de foot folle chaque jour",
+ "sources": [
+  "https://www.uefa.com/uefaeuro/history/news/0253-0d8193ba70fb-40c2e7602d67-1000--iceland-into-quarter-finals-after-stunning-england/",
+  "https://www.shoot.co.uk/england-1-2-iceland-euro-2016-round-of-16-report/",
+  "https://thesetpieces.com/latest-posts/iceland-2-england-1-swedish-boss-beating-three-lions-euro-2016/",
+  "https://www.fifa.com/en/tournaments/mens/worldcup/2018russia/news/iceland-s-dentist-coach-defying-convention-and-expectations-2866565",
+  "https://www.shoot.co.uk/france-5-2-iceland-euro-2016-quarter-final-report/"
+ ],
+ "caption": "330 000 habitants, un coach dentiste… et l'Angleterre renvoyée chez elle 🇮🇸👇\n#islande #euro2016 #angleterre #equipedefrance #histoiredufoot #football #foot #footballtiktok #pourtoi"
+}

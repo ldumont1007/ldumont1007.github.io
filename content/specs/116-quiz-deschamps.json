@@ -1,0 +1,25 @@
+{
+ "format": "quiz",
+ "cover": {
+  "tag": "QUIZ LÉGENDE",
+  "title": "Devine le joueur en 3 indices",
+  "sub": "Trouvé à l'indice 1 = vrai connaisseur.",
+  "note": "Pas de triche : la réponse est à la fin."
+ },
+ "clues": [
+  "Né à Bayonne en 1968. Formé à Nantes, puis Marseille, la Juventus, Chelsea et Valence.",
+  "Plus jeune capitaine à soulever la Ligue des champions, en 1993. Il la regagne en 1996 avec un autre club.",
+  "103 sélections. Il gagne la Coupe du monde comme joueur… et comme entraîneur."
+ ],
+ "answer": {
+  "first": "Didier",
+  "last": "Deschamps",
+  "note": "Capitaine en 1998, sélectionneur champion en 2018. Seul vivant à avoir réussi ce doublé."
+ },
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Didier_Deschamps",
+  "https://www.uefa.com/uefaeuro/history/news/0253-0d7cb567b9a0-e1f1cc682776-1000--didier-deschamps"
+ ],
+ "caption": "3 indices, une légende française. Tu le trouves à quel indice ? 🧠👇\n#quizfoot #devinelejoueur #equipedefrance #om #juventus #football #foot #footballtiktok #pourtoi"
+}
