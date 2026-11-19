@@ -1,0 +1,49 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Légendes du Bayern",
+ "tiers": [
+  {
+   "price": 6,
+   "names": [
+    "Beckenbauer",
+    "Müller",
+    "Lewandowski"
+   ]
+  },
+  {
+   "price": 4,
+   "names": [
+    "Ribéry",
+    "Robben",
+    "Neuer"
+   ]
+  },
+  {
+   "price": 2,
+   "names": [
+    "Lahm",
+    "Kahn",
+    "Lizarazu"
+   ]
+  }
+ ],
+ "trap": [
+  "Müller",
+  "Lewandowski"
+ ],
+ "pick": [
+  "Ribéry",
+  "Robben",
+  "Neuer"
+ ],
+ "pick_title": "Le trio pile à 12M",
+ "example": "Lewandowski · Ribéry · Lizarazu",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://www.sportsmole.co.uk/football/bayern-munich/feature/bayern-munichs-greatest-ever-players_572655.html",
+  "https://www.90min.com/posts/6560320-bayern-munich-s-10-best-footballers-of-all-time"
+ ],
+ "caption": "12M pour 3 légendes du Bayern. Ribéry et Robben ensemble, ou Lewy ? Ton trio 👇\n#bayern #bayernmunich #ribery #lewandowski #bundesliga #defifoot #football #foot #footballtiktok #pourtoi"
+}

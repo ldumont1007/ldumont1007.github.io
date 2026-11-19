@@ -1,0 +1,25 @@
+{
+ "format": "quiz",
+ "cover": {
+  "tag": "QUIZ LÉGENDE",
+  "title": "Devine le joueur en 3 indices",
+  "sub": "Trouvé à l'indice 1 = vrai connaisseur.",
+  "note": "Pas de triche : la réponse est à la fin."
+ },
+ "clues": [
+  "Débuts pros à 17 ans, le 19 novembre 1995, contre le Milan AC. Score final : 0-0.",
+  "En 2001, il devient le gardien le plus cher du monde. En 2006, son club descend en Serie B… et il reste.",
+  "Champion du monde 2006, 176 sélections. Une seule saison en Ligue 1, en 2018-19 : titre à la clé."
+ ],
+ "answer": {
+  "first": "Gianluigi",
+  "last": "Buffon",
+  "note": "Premier joueur à 9 Scudetti… mais 3 finales de C1 perdues, et jamais la coupe."
+ },
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://www.uefa.com/uefachampionsleague/news/0247-0e989643410b-35597527c2cc-1000--gianluigi-buffon-what-you-might-not-know-claims-to-fame-",
+  "https://www.eurosport.co.uk/football/factbox-juventus-goalkeeper-gianluigi-buffon-s-career-in-numbers_sto6759214/story.shtml"
+ ],
+ "caption": "3 indices, une légende du foot. Tu le trouves à quel indice ? 🧠👇\n#quizfoot #devinelejoueur #seriea #ligue1 #legende #football #foot #footballtiktok #pourtoi"
+}

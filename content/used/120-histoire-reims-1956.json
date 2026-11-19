@@ -1,0 +1,49 @@
+{
+ "format": "story",
+ "cover": {
+  "tag": "HISTOIRE DU FOOT",
+  "big": "1956.",
+  "big_color": "red",
+  "title": "La toute première finale de C1… avec un club français.",
+  "swipe": "L'histoire"
+ },
+ "slides": [
+  {
+   "tag": "L'IDÉE EST FRANÇAISE",
+   "big": "L'Équipe.",
+   "body": "Fin 1954, le journal L'Équipe et Gabriel Hanot lancent l'idée d'une coupe d'Europe des clubs. Elle démarre en septembre 1955.",
+   "size": 90
+  },
+  {
+   "tag": "13 JUIN 1956 · PARC DES PRINCES",
+   "big": "2-0.",
+   "body": "En finale, le Stade de Reims affronte le Real Madrid à Paris. Leblond (6e) et Templin (10e) : Reims mène 2-0 en 10 minutes.",
+   "color": "red",
+   "size": 95
+  },
+  {
+   "tag": "LE RETOUR DU REAL",
+   "big": "4-3.",
+   "body": "Di Stéfano et Rial égalisent. Hidalgo redonne l'avantage à Reims, puis Marquitos et Rial offrent la coupe au Real.",
+   "color": "gold",
+   "size": 95
+  },
+  {
+   "tag": "ET APRÈS ?",
+   "big": "Kopa part.",
+   "body": "Raymond Kopa, star de Reims, rejoint le Real juste après. Le Real gagne les 5 premières C1 de l'histoire.",
+   "color": "teal",
+   "size": 90
+  }
+ ],
+ "end_title": "Le Stade de Reims mérite plus de respect ?",
+ "end_sub": "Oui ou non ? Dis-le en commentaire.",
+ "follow": "une histoire de foot folle chaque jour",
+ "sources": [
+  "https://fr.uefa.com/uefachampionsleague/news/0258-0e6a035f57a6-f7f09401980b-1000--1955-56-madrid-claim-first-crown/",
+  "https://www.uefa.com/news-media/news/0253-0d04188b97f4-9345281af283-1000--french-ideas-and-spanish-victories/",
+  "https://www.realmadrid.com/en-US/news/club/latest-news/se-cumplen-70-anos-de-la-primera-copa-de-europa-13-06-2026",
+  "https://wikiwand.com/EN/1956_European_Cup_final"
+ ],
+ "caption": "La C1 est une idée française… et Reims menait 2-0 en finale contre le Real 😳👇\n#stadedereims #reims #realmadrid #liguedeschampions #kopa #histoiredufoot #football #foot #footballtiktok #pourtoi"
+}

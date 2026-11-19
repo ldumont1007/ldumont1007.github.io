@@ -1,0 +1,51 @@
+{
+ "format": "vote",
+ "cover": {
+  "tag": "DÉBAT",
+  "title": "Le plus grand derby de France ?",
+  "sub": "Trois rivalités. Une seule peut gagner."
+ },
+ "candidates": [
+  {
+   "name": "OM-PSG",
+   "short": "CLASSIQUE",
+   "color": "blue",
+   "sub": "Le Classique",
+   "facts": [
+    "Les 2 seuls clubs français champions d'Europe.",
+    "OM en 1993, PSG en 2025 et 2026."
+   ]
+  },
+  {
+   "name": "ASSE-OL",
+   "short": "RHÔNE",
+   "color": "teal",
+   "sub": "Le derby du Rhône",
+   "facts": [
+    "Saint-Étienne : 10 titres de champion.",
+    "Lyon : 7 titres de suite, de 2002 à 2008."
+   ]
+  },
+  {
+   "name": "Lens-Lille",
+   "short": "NORD",
+   "color": "gold",
+   "sub": "Le derby du Nord",
+   "facts": [
+    "Environ 40 km entre les deux villes.",
+    "Lille champion en 2011 et 2021, Lens en 1998."
+   ]
+  }
+ ],
+ "end_sub": "Classique, Rhône ou Nord ? Un seul mot en commentaire.",
+ "end_note": "Un autre derby ? Défends-le.",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://www.psg.fr/content/le-paris-saint-germain-remporte-la-ligue-des-champions-pour-la-deuxieme-saison-consecutive-uefa-champions-league-arsenal-2025-2026",
+  "https://ligue1.com/fr/articles/l1_article_289-le-palmares-des-champions-de-ligue-1",
+  "https://www.uefa.com/news-media/news/01cd-0f84dbf85eeb-49ca26254d04-1000--game-sept-and-match-to-lyon/",
+  "https://en.wikipedia.org/wiki/Derby_du_Nord",
+  "https://www.ligue1.com/Articles/LEGENDS/2022/10/05/lille-lens-5-things-on-the-derby-du-nord"
+ ],
+ "caption": "Classique, derby du Rhône ou derby du Nord : le plus grand derby de France ? 🔥👇\n#om #psg #asse #ol #rclens #losc #football #foot #footballtiktok #pourtoi"
+}
