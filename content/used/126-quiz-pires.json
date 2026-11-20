@@ -1,0 +1,26 @@
+{
+ "format": "quiz",
+ "cover": {
+  "tag": "QUIZ LÉGENDE",
+  "title": "Devine le joueur en 3 indices",
+  "sub": "Trouvé à l'indice 1 = vrai connaisseur.",
+  "note": "Pas de triche : la réponse est à la fin."
+ },
+ "clues": [
+  "Né à Reims en 1973. Il gagne la Coupe de la Ligue avec Metz, puis signe à l'OM en 1998.",
+  "Il signe à Arsenal en 2000. En 2002, il est élu joueur de l'année en Angleterre.",
+  "Champion du monde 1998. En finale de l'Euro 2000, c'est lui qui offre le but en or à Trezeguet."
+ ],
+ "answer": {
+  "first": "Robert",
+  "last": "Pirès",
+  "note": "Invaincu en Premier League en 2003-04 avec Arsenal. 79 sélections, 14 buts en Bleu."
+ },
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Robert_Pires",
+  "https://www.11v11.com/players/robert-pires-2147/",
+  "https://en.wikipedia.org/wiki/1996_Coupe_de_la_Ligue_final"
+ ],
+ "caption": "3 indices, un champion du monde 98. Tu le trouves à quel indice ? 🧠👇\n#quizfoot #devinelejoueur #equipedefrance #premierleague #ligue1 #football #foot #footballtiktok #pourtoi"
+}

@@ -1,0 +1,51 @@
+{
+ "format": "vote",
+ "cover": {
+  "tag": "DÉBAT",
+  "title": "La meilleure génération de l'histoire des Bleus ?",
+  "sub": "Trois équipes. Une seule peut gagner."
+ },
+ "candidates": [
+  {
+   "name": "Les Bleus de 1984",
+   "short": "1984",
+   "color": "blue",
+   "sub": "La France de Platini",
+   "facts": [
+    "Championne d'Europe 1984, à la maison.",
+    "Platini : 9 buts en 5 matchs, record d'un Euro."
+   ]
+  },
+  {
+   "name": "Les Bleus de 1998-2000",
+   "short": "98-2000",
+   "color": "gold",
+   "sub": "La France de Zidane",
+   "facts": [
+    "Championne du monde 1998.",
+    "Puis championne d'Europe 2000 sur un but en or."
+   ]
+  },
+  {
+   "name": "Les Bleus de 2018",
+   "short": "2018",
+   "color": "teal",
+   "sub": "La France de Mbappé",
+   "facts": [
+    "Championne du monde 2018 en Russie.",
+    "Puis finaliste en 2022, battue aux tirs au but."
+   ]
+  }
+ ],
+ "end_sub": "1984, 98-2000 ou 2018 ? Un seul choix en commentaire.",
+ "end_note": "Tu changerais quoi dans le classement ?",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://fr.uefa.com/uefaeuro/history/news/025b-0edd81a08b0e-6a2b468a96cd-1000--euro-1984-tout-savoir/",
+  "https://www.guinnessworldrecords.com/world-records/88675-most-goals-in-a-single-football-soccer-uefa-european-championships",
+  "https://www.maxifoot.fr/mondial-2026/palmares-coupe-du-monde.htm",
+  "https://en.wikipedia.org/wiki/Robert_Pires",
+  "https://www.maxifoot.fr/football/article-52821.htm"
+ ],
+ "caption": "1984, 98-2000 ou 2018 : la meilleure génération de l'histoire des Bleus ? 🇫🇷👇\n#equipedefrance #lesbleus #platini #zidane #mbappe #debatfoot #football #foot #footballtiktok #pourtoi"
+}

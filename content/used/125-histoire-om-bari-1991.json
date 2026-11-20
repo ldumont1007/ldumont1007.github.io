@@ -1,0 +1,49 @@
+{
+ "format": "story",
+ "cover": {
+  "tag": "HISTOIRE DU FOOT",
+  "big": "1991.",
+  "big_color": "red",
+  "title": "L'OM à quelques tirs au but de sa première Coupe d'Europe.",
+  "swipe": "L'histoire"
+ },
+ "slides": [
+  {
+   "tag": "QUART DE FINALE · VÉLODROME",
+   "big": "Black-out.",
+   "body": "L'OM mène 1-0 contre le grand Milan, but de Waddle. Les projecteurs lâchent en fin de match, Milan refuse de revenir : l'UEFA donne 3-0 à l'OM.",
+   "size": 90
+  },
+  {
+   "tag": "29 MAI 1991 · BARI",
+   "big": "0-0.",
+   "body": "Première finale de C1 pour les deux clubs. L'OM de Goethals et Papin contre l'Étoile Rouge de Belgrade. 120 minutes, aucun but.",
+   "color": "red",
+   "size": 95
+  },
+  {
+   "tag": "LES TIRS AU BUT",
+   "big": "5-3.",
+   "body": "Amoros tire le premier pour l'OM : arrêté par Stojanović. Belgrade marque ses 5 tirs, Pančev donne la coupe.",
+   "color": "gold",
+   "size": 95
+  },
+  {
+   "tag": "ET APRÈS ?",
+   "big": "1993.",
+   "body": "Deux ans plus tard, l'OM bat Milan en finale à Munich. Premier club français champion d'Europe.",
+   "color": "teal",
+   "size": 90
+  }
+ ],
+ "end_title": "Bari 1991 : la pire soirée de l'OM ?",
+ "end_sub": "Oui ou non ? Dis-le en commentaire.",
+ "follow": "une histoire de foot folle chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/1991_European_Cup_final",
+  "https://www.crvenazvezdafk.com/en/istorija/medjunarodni-trofeji/bari",
+  "https://fflose.com/c1-1991-om-belgrade-le-sublime-plat-du-pied-securite-damoros/",
+  "https://breakingthelines.com/historical/the-rise-and-fall-of-bernard-tapies-marseille-part-2-la-nuit-les-projecteurs-se-sont-eteints/"
+ ],
+ "caption": "Projecteurs éteints, Milan qui quitte le terrain… et la finale maudite de l'OM 😳👇\n#om #olympiquedemarseille #papin #liguedeschampions #histoiredufoot #football #foot #footballtiktok #pourtoi"
+}

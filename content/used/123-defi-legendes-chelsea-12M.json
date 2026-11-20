@@ -1,0 +1,21 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Légendes de Chelsea",
+ "tiers": [
+  {"price": 6, "names": ["Drogba", "Lampard", "Terry"]},
+  {"price": 4, "names": ["Hazard", "Čech", "Makélélé"]},
+  {"price": 2, "names": ["Kanté", "Desailly", "Zola"]}
+ ],
+ "trap": ["Drogba", "Lampard"],
+ "pick": ["Drogba", "Hazard", "Kanté"],
+ "pick_title": "Le trio pile à 12M",
+ "example": "Terry · Čech · Zola",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://www.fourfourtwo.com/features/ranked-the-10-best-chelsea-players-of-all-time",
+  "https://www.90min.com/posts/chelsea-legends-best-players-all-time"
+ ],
+ "caption": "12M pour 3 légendes de Chelsea. Drogba, Lampard ou Hazard ? Ton trio 👇\n#chelsea #drogba #lampard #hazard #kante #premierleague #defifoot #football #foot #footballtiktok #pourtoi"
+}
