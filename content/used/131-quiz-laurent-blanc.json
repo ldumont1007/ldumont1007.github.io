@@ -1,0 +1,25 @@
+{
+ "format": "quiz",
+ "cover": {
+  "tag": "QUIZ LÉGENDE",
+  "title": "Devine le joueur en 3 indices",
+  "sub": "Trouvé à l'indice 1 = vrai connaisseur.",
+  "note": "Pas de triche : la réponse est à la fin."
+ },
+ "clues": [
+  "Né à Alès en 1965. Il passe par Naples, le Barça et l'Inter, puis finit champion d'Angleterre en 2003.",
+  "Entraîneur, il est champion de France avec Bordeaux, puis trois fois de suite avec le PSG.",
+  "En 1998, il marque le tout premier but en or de l'histoire de la Coupe du monde, contre le Paraguay."
+ ],
+ "answer": {
+  "first": "Laurent",
+  "last": "Blanc",
+  "note": "« Le Président ». Expulsé en demie contre la Croatie, il rate la finale 98. 97 sélections, 16 buts."
+ },
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Laurent_Blanc",
+  "https://www.fff.fr/equipe-nationale/joueur/9776-blanc-laurent/fiche.html"
+ ],
+ "caption": "3 indices, un champion du monde 98 devenu coach. Trouvé à quel indice ? 🧠👇\n#quizfoot #devinelejoueur #equipedefrance #ligue1 #coupedumonde #football #foot #footballtiktok #pourtoi"
+}

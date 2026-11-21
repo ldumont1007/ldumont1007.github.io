@@ -1,0 +1,21 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Légendes du Real",
+ "tiers": [
+  {"price": 6, "names": ["CR7", "Zidane", "Di Stéfano"]},
+  {"price": 4, "names": ["Raúl", "Ramos", "Casillas"]},
+  {"price": 2, "names": ["Benzema", "Modrić", "Roberto Carlos"]}
+ ],
+ "trap": ["CR7", "Zidane"],
+ "pick": ["Zidane", "Raúl", "Benzema"],
+ "pick_title": "Le trio pile à 12M",
+ "example": "CR7 · Casillas · Modrić",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://www.fourfourtwo.com/features/best-real-madrid-players-ever",
+  "https://www.si.com/soccer/best-real-madrid-players-of-all-time-ranked"
+ ],
+ "caption": "12M pour 3 légendes du Real. Zidane, Cristiano ou Benzema ? Ton trio 👇\n#realmadrid #zidane #benzema #cristianoronaldo #laliga #defifoot #football #foot #footballtiktok #pourtoi"
+}

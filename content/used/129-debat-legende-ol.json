@@ -1,0 +1,51 @@
+{
+ "format": "vote",
+ "cover": {
+  "tag": "DÉBAT",
+  "title": "Le plus grand joueur de l'histoire de l'OL ?",
+  "sub": "Trois légendes. Une seule couronne."
+ },
+ "candidates": [
+  {
+   "name": "Juninho",
+   "short": "Juninho",
+   "color": "gold",
+   "sub": "Le roi du coup franc",
+   "facts": [
+    "7 titres de champion de suite avec l'OL, de 2002 à 2008.",
+    "44 buts sur coup franc avec Lyon, toutes compétitions."
+   ]
+  },
+  {
+   "name": "Karim Benzema",
+   "short": "Benzema",
+   "color": "blue",
+   "sub": "Formé au club",
+   "facts": [
+    "Meilleur buteur de Ligue 1 en 2007-08 avec 20 buts.",
+    "Élu meilleur joueur de Ligue 1 la même saison."
+   ]
+  },
+  {
+   "name": "Alexandre Lacazette",
+   "short": "Lacazette",
+   "color": "red",
+   "sub": "Le buteur du coin",
+   "facts": [
+    "Meilleur buteur de Ligue 1 en 2014-15 avec 27 buts.",
+    "Élu meilleur joueur de Ligue 1 en 2015."
+   ]
+  }
+ ],
+ "end_sub": "Juninho, Benzema ou Lacazette ? Un seul nom en commentaire.",
+ "end_note": "Il en manque un ? Dis qui.",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://ligue1.com/fr/articles/l1_article_101-",
+  "https://m.maxifoot.fr/football/article-5135.htm",
+  "https://www.lyonmag.com/article/7703/karim-benzema-joueur-de-l-annee",
+  "https://www.rtbf.be/article/lacazette-sacre-meilleur-joueur-du-championnat-de-france-8982908",
+  "https://www.maxifoot.fr/football/article-25236.htm"
+ ],
+ "caption": "Juninho, Benzema ou Lacazette : la plus grande légende de l'OL ? 🦁👇\n#ol #olympiquelyonnais #juninho #benzema #lacazette #ligue1 #debatfoot #football #foot #footballtiktok #pourtoi"
+}
