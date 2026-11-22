@@ -1,0 +1,25 @@
+{
+ "format": "quiz",
+ "cover": {
+  "tag": "QUIZ LÉGENDE",
+  "title": "Devine le joueur en 3 indices",
+  "sub": "Trouvé à l'indice 1 = vrai connaisseur.",
+  "note": "Pas de triche : la réponse est à la fin."
+ },
+ "clues": [
+  "Né en 1971 en Ariège. Il gagne la Ligue des champions à seulement 21 ans, en 1993.",
+  "Champion de France avec Monaco en 1997 et 2000, puis deux fois champion d'Angleterre avec Manchester United.",
+  "En 1998, avant chaque match des Bleus, Laurent Blanc lui embrassait le crâne. Porte-bonheur."
+ ],
+ "answer": {
+  "first": "Fabien",
+  "last": "Barthez",
+  "note": "87 sélections. 10 clean sheets en Coupe du monde : le record, à égalité avec Peter Shilton."
+ },
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Fabien_Barthez",
+  "https://www.fff.fr/equipe-nationale/joueur/8457-barthez-fabien/fiche.html"
+ ],
+ "caption": "3 indices, un champion du monde 98. Trouvé à quel indice ? 🧠👇\n#quizfoot #devinelejoueur #equipedefrance #coupedumonde #ligue1 #football #foot #footballtiktok #pourtoi"
+}

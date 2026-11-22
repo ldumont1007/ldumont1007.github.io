@@ -1,0 +1,48 @@
+{
+ "format": "story",
+ "cover": {
+  "tag": "HISTOIRE DU FOOT",
+  "big": "3-0.",
+  "big_color": "gold",
+  "title": "1996 : battu 2-0 à Milan, Bordeaux renverse tout au retour… avec un certain Zidane.",
+  "swipe": "L'histoire"
+ },
+ "slides": [
+  {
+   "tag": "ÉTÉ 1995",
+   "big": "Intertoto.",
+   "body": "Pour jouer la Coupe UEFA, Bordeaux doit passer par l'Intertoto. Sa campagne européenne démarre le 1er juillet 1995. Dans l'équipe : Zidane, Dugarry, Lizarazu.",
+   "size": 90
+  },
+  {
+   "tag": "QUART DE FINALE · ALLER",
+   "big": "2-0.",
+   "body": "En Italie, le Milan de Capello s'impose tranquillement 2-0. Baggio marque sur coup franc. Tout le monde pense que c'est fini.",
+   "color": "red",
+   "size": 95
+  },
+  {
+   "tag": "QUART DE FINALE · RETOUR",
+   "big": "3-0 !",
+   "body": "Au Parc Lescure, Tholot ouvre le score. Puis Dugarry marque deux fois en six minutes, la deuxième sur une passe de Zidane. Milan est éliminé.",
+   "color": "teal",
+   "size": 95
+  },
+  {
+   "tag": "MAI 1996 · FINALE",
+   "big": "5-1.",
+   "body": "En finale, le Bayern de Klinsmann est trop fort : 2-0 à Munich, puis 3-1 à Bordeaux le 15 mai. Mais l'épopée est entrée dans l'histoire.",
+   "color": "gold",
+   "size": 95
+  }
+ ],
+ "end_title": "Plus bel exploit d'un club français ?",
+ "end_sub": "Oui ou non en commentaire.",
+ "follow": "une histoire de foot folle chaque jour",
+ "sources": [
+  "https://thesefootballtimes.co/2020/06/05/how-the-bordeaux-of-zidane-lizarazu-and-dugarry-ended-ac-milans-european-dominance-in-1996/",
+  "https://fr.uefa.com/uefaeuropaleague/news/013e-0e6a17a5ce6d-5aec62386c62-1000--le-bayern-stoppe-bordeaux/",
+  "https://fbref.com/en/partidas/cd72dad1/Bordeaux-Bayern-Munich-1996Maio15-UEFA-Cup"
+ ],
+ "caption": "Battu 2-0 à Milan, Bordeaux renverse tout au retour avec Zidane 😳👇\n#bordeaux #girondins #zidane #dugarry #milan #histoiredufoot #football #foot #footballtiktok #pourtoi"
+}

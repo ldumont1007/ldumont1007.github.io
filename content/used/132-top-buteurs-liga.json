@@ -1,0 +1,24 @@
+{
+ "format": "top",
+ "cover": {
+  "tag": "TOP 5",
+  "title": "Les meilleurs buteurs de l'histoire de la Liga",
+  "sub": "Un Français est dedans. Et il passe devant Raúl."
+ },
+ "items": [
+  {"title": "Hugo Sánchez", "big": "234", "body": "Le Mexicain des retournés. Atlético, Real puis Rayo : 234 buts en Liga."},
+  {"title": "Karim Benzema", "big": "238", "body": "Le Français ! 14 saisons au Real, 238 buts. Devant Raúl (228) et Di Stéfano (227)."},
+  {"title": "Telmo Zarra", "big": "251", "body": "La légende de l'Athletic Bilbao, dans les années 40-50. 251 buts en 277 matchs."},
+  {"title": "Cristiano Ronaldo", "big": "311", "body": "Seulement 9 saisons au Real… et 311 buts en 292 matchs. Plus d'un but par match."},
+  {"title": "Lionel Messi", "big": "474", "body": "Intouchable. 474 buts en 520 matchs avec le Barça, dont 50 sur la seule saison 2011-12."}
+ ],
+ "end_title": "Benzema mérite mieux que la 4e place ?",
+ "end_sub": "Oui ou non en commentaire.",
+ "follow": "un nouveau top foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/List_of_La_Liga_top_scorers",
+  "https://www.90min.com/fr/posts/qui-est-le-meilleur-buteur-de-l-histoire-de-la-liga",
+  "https://www.sportskeeda.com/football/ranking-5-players-goals-la-liga-history-benzema-ronaldo-messi"
+ ],
+ "caption": "Un Français dans le top 5 des buteurs de l'histoire de la Liga 🇫🇷👇\n#liga #benzema #messi #cristianoronaldo #realmadrid #football #foot #footballtiktok #pourtoi"
+}

@@ -1,0 +1,22 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Légendes de l'Inter",
+ "tiers": [
+  {"price": 6, "names": ["Ronaldo", "Zanetti", "Eto'o"]},
+  {"price": 4, "names": ["Sneijder", "Milito", "Materazzi"]},
+  {"price": 2, "names": ["Djorkaeff", "Júlio César", "Recoba"]}
+ ],
+ "trap": ["Ronaldo", "Zanetti"],
+ "pick": ["Ronaldo", "Sneijder", "Djorkaeff"],
+ "pick_title": "Le trio pile à 12M",
+ "example": "Zanetti · Milito · Júlio César",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://www.inter.it/en/club/hall-of-fame",
+  "https://bleacherreport.com/articles/1438691-inter-milans-20-best-players-of-all-time",
+  "https://wikipedia.com/wiki/List_of_Inter_Milan_players"
+ ],
+ "caption": "12M pour 3 légendes de l'Inter. Ronaldo, Zanetti ou Djorkaeff ? Ton trio 👇\n#inter #intermilan #ronaldo #djorkaeff #seriea #defifoot #football #foot #footballtiktok #pourtoi"
+}

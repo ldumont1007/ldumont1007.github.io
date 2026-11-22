@@ -1,0 +1,50 @@
+{
+ "format": "vote",
+ "cover": {
+  "tag": "DÉBAT",
+  "title": "La plus grande recrue de l'histoire du PSG ?",
+  "sub": "Trois stars. Une seule a vraiment marqué Paris."
+ },
+ "candidates": [
+  {
+   "name": "Zlatan Ibrahimović",
+   "short": "Zlatan",
+   "color": "gold",
+   "sub": "Arrivé de Milan en 2012",
+   "facts": [
+    "4 titres de champion de France de suite, de 2013 à 2016.",
+    "156 buts en 180 matchs avec Paris."
+   ]
+  },
+  {
+   "name": "Neymar",
+   "short": "Neymar",
+   "color": "blue",
+   "sub": "222 M€ en 2017, record mondial",
+   "facts": [
+    "118 buts en 173 matchs avec le PSG.",
+    "Le transfert le plus cher de l'histoire du foot."
+   ]
+  },
+  {
+   "name": "Lionel Messi",
+   "short": "Messi",
+   "color": "red",
+   "sub": "Arrivé libre du Barça en 2021",
+   "facts": [
+    "2 titres de champion de France en 2 saisons (2022, 2023).",
+    "Champion du monde en décembre 2022, en plein milieu de son passage à Paris."
+   ]
+  }
+ ],
+ "end_sub": "Zlatan, Neymar ou Messi ? Un seul nom en commentaire.",
+ "end_note": "Tu en mettrais un autre ? Dis qui.",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://ligue1.com/fr/articles/l1_article_283-ibrahimovic-un-passage-marquant-au-psg",
+  "https://www.goal.com/en-gb/news/paris-saint-germain-all-time-top-scorers-cavani-mbappe/bltd18ad96d63de1edf",
+  "https://www.goal.com/fr/news/mercato-les-10-plus-gros-transferts-de-l-histoire-du-psg/bltdaf71680f963fcf4",
+  "https://www.ligue1.com/Articles/Legends/2023/06/01/messi-in-paris-the-defining-moments-psg"
+ ],
+ "caption": "Zlatan, Neymar ou Messi : la plus grande recrue de l'histoire du PSG ? 🔴🔵👇\n#psg #zlatan #neymar #messi #ligue1 #debatfoot #football #foot #footballtiktok #pourtoi"
+}
