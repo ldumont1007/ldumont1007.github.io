@@ -1,0 +1,47 @@
+{
+ "format": "story",
+ "cover": {
+  "tag": "HISTOIRE DU FOOT",
+  "big": "2-1.",
+  "big_color": "gold",
+  "title": "1950 : le Brésil n'a besoin que d'un nul pour être champion du monde chez lui. L'Uruguay fait taire le Maracanã.",
+  "swipe": "L'histoire"
+ },
+ "slides": [
+  {
+   "tag": "16 JUILLET 1950 · RIO",
+   "big": "1 nul.",
+   "body": "Pas de vraie finale cette année-là : un groupe final. Avant le dernier match, le Brésil n'a besoin que d'un nul contre l'Uruguay. Plus de 170 000 personnes au Maracanã.",
+   "size": 90
+  },
+  {
+   "tag": "47e MINUTE",
+   "big": "1-0.",
+   "body": "Friaça ouvre le score juste après la pause. Le stade explose. Le titre est à portée de main.",
+   "color": "teal",
+   "size": 95
+  },
+  {
+   "tag": "66e MINUTE",
+   "big": "1-1.",
+   "body": "Schiaffino égalise. Le Brésil est encore champion avec ce score… mais le doute s'installe.",
+   "color": "gold",
+   "size": 95
+  },
+  {
+   "tag": "79e MINUTE",
+   "big": "1-2.",
+   "body": "Ghiggia file côté droit et frappe au premier poteau. Le Maracanã devient muet. L'Uruguay est champion du monde.",
+   "color": "red",
+   "size": 95
+  }
+ ],
+ "end_title": "Plus grosse surprise de l'histoire de la Coupe du monde ?",
+ "end_sub": "Oui ou non en commentaire.",
+ "follow": "une histoire de foot folle chaque jour",
+ "sources": [
+  "https://datencenter.dfb.de/en/data-center/fifa-world-cup/1950-in-brasil/final-round/uruguay-brazil-136851",
+  "https://www.history.com/articles/the-maracana-blow-brazils-stunning-world-cup-defeat"
+ ],
+ "caption": "Le Brésil n'avait besoin que d'un nul… l'Uruguay fait taire le Maracanã 😶👇\n#maracanazo #bresil #uruguay #coupedumonde #histoiredufoot #football #foot #footballtiktok #pourtoi"
+}

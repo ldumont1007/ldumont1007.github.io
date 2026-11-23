@@ -1,0 +1,20 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Légendes de l'Atlético",
+ "tiers": [
+  {"price": 6, "names": ["Griezmann", "Torres", "Agüero"]},
+  {"price": 4, "names": ["Falcao", "Forlán", "Oblak"]},
+  {"price": 2, "names": ["Godín", "Koke", "Diego Costa"]}
+ ],
+ "trap": ["Griezmann", "Torres"],
+ "pick": ["Griezmann", "Oblak", "Godín"],
+ "pick_title": "Le trio pile à 12M",
+ "example": "Agüero · Falcao · Koke",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/List_of_Atl%C3%A9tico_Madrid_players"
+ ],
+ "caption": "12M pour 3 légendes de l'Atlético. Griezmann, Torres ou Agüero ? Ton trio 👇\n#atletico #atleticodemadrid #griezmann #torres #liga #defifoot #football #foot #footballtiktok #pourtoi"
+}

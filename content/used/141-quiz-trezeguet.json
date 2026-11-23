@@ -1,0 +1,26 @@
+{
+ "format": "quiz",
+ "cover": {
+  "tag": "QUIZ LÉGENDE",
+  "title": "Devine le joueur en 3 indices",
+  "sub": "Trouvé à l'indice 1 = vrai connaisseur.",
+  "note": "Pas de triche : la réponse est à la fin."
+ },
+ "clues": [
+  "Né à Rouen en 1977, il grandit en Argentine et joue son premier match pro là-bas à seulement 16 ans.",
+  "Champion de France avec Monaco, puis meilleur buteur étranger de l'histoire de la Juventus : 171 buts.",
+  "Il offre l'Euro 2000 aux Bleus sur un but en or en finale contre l'Italie."
+ ],
+ "answer": {
+  "first": "David",
+  "last": "Trezeguet",
+  "note": "34 buts en 71 sélections. Champion du monde 1998 et champion d'Europe 2000."
+ },
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/David_Trezeguet",
+  "https://www.fff.fr/equipe-nationale/joueur/8630-trezeguet-david/fiche.html",
+  "https://fr.uefa.com/news-media/news/01df-0e734f24e06e-90b6d4bbef72-1000--trezeguet-heureux-de-rejoindre-sivori/"
+ ],
+ "caption": "3 indices, un champion d'Europe 2000. Trouvé à quel indice ? 🧠👇\n#quizfoot #devinelejoueur #equipedefrance #euro2000 #juventus #football #foot #footballtiktok #pourtoi"
+}

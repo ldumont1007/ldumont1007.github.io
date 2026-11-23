@@ -1,0 +1,50 @@
+{
+ "format": "vote",
+ "cover": {
+  "tag": "DÉBAT",
+  "title": "Le plus grand coach de l'histoire de la C1 ?",
+  "sub": "Luis Enrique est-il déjà à leur niveau ?"
+ },
+ "candidates": [
+  {
+   "name": "Carlo Ancelotti",
+   "short": "Ancelotti",
+   "color": "gold",
+   "sub": "Milan, Real Madrid",
+   "facts": [
+    "5 Ligues des champions : le record (2003, 2007, 2014, 2022, 2024).",
+    "Le seul coach champion dans les 5 grands championnats."
+   ]
+  },
+  {
+   "name": "Pep Guardiola",
+   "short": "Guardiola",
+   "color": "teal",
+   "sub": "Barça, Manchester City",
+   "facts": [
+    "3 Ligues des champions (2009, 2011, 2023).",
+    "2 triplés : avec le Barça en 2009 et City en 2023."
+   ]
+  },
+  {
+   "name": "Luis Enrique",
+   "short": "Luis Enrique",
+   "color": "blue",
+   "sub": "Barça, PSG",
+   "facts": [
+    "3 Ligues des champions (2015, 2025, 2026), dont 2 avec Paris.",
+    "2 triplés lui aussi : Barça 2015 et PSG 2025."
+   ]
+  }
+ ],
+ "end_sub": "Ancelotti, Guardiola ou Luis Enrique ? Un seul nom en commentaire.",
+ "end_note": "Et Ferguson dans tout ça ? Dis-le.",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://www.uefa.com/uefachampionsleague/news/0275-15407684c988-5b733e851bf5-1000--which-coach-has-won-most-titles",
+  "https://global.espn.com/football/story/_/id/37627973/real-madrid-carlo-ancelotti-wins-laliga-become-first-coach-win-titles-all-europe-top-five-leagues",
+  "https://www.clarosports.com/futbol-internacional/champions-league/luis-enrique-en-la-cima-iguala-a-guardiola-con-dos-tripletes-epicos/",
+  "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles/luis-enrique-immortalized-after-leading-paris-saint-germain-to-back-to-back-champions-league-titles-2026-05-30"
+ ],
+ "caption": "Ancelotti, Guardiola ou Luis Enrique : le plus grand coach de la C1 ? 🏆👇\n#liguedeschampions #ancelotti #guardiola #luisenrique #psg #debatfoot #football #foot #footballtiktok #pourtoi"
+}
