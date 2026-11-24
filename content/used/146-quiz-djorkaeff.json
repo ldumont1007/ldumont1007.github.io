@@ -1,0 +1,25 @@
+{
+ "format": "quiz",
+ "cover": {
+  "tag": "QUIZ LÉGENDE",
+  "title": "Devine le joueur en 3 indices",
+  "sub": "Trouvé à l'indice 1 = vrai connaisseur.",
+  "note": "Pas de triche : la réponse est à la fin."
+ },
+ "clues": [
+  "Né à Lyon en 1968, il termine co-meilleur buteur de D1 en 1994 avec Monaco : 20 buts.",
+  "Coupe des coupes 1996 avec le PSG, Coupe UEFA 1998 avec l'Inter. Son père était aussi footballeur.",
+  "Surnommé « le Snake », il est champion du monde 1998 et champion d'Europe 2000 avec les Bleus."
+ ],
+ "answer": {
+  "first": "Youri",
+  "last": "Djorkaeff",
+  "note": "82 sélections, 28 buts. Et ce retourné légendaire avec l'Inter contre la Roma en 1997."
+ },
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Youri_Djorkaeff",
+  "https://www.fff.fr/equipe-nationale/joueur/8601-djorkaeff-youri/fiche.html"
+ ],
+ "caption": "3 indices, un champion du monde 98. Trouvé à quel indice ? 🧠👇\n#quizfoot #devinelejoueur #equipedefrance #france98 #monaco #football #foot #footballtiktok #pourtoi"
+}

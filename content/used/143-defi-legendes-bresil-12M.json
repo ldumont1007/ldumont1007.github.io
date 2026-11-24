@@ -1,0 +1,20 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Légendes du Brésil",
+ "tiers": [
+  {"price": 6, "names": ["Pelé", "Ronaldo", "Ronaldinho"]},
+  {"price": 4, "names": ["Romário", "Kaká", "Neymar"]},
+  {"price": 2, "names": ["Roberto Carlos", "Cafu", "Rivaldo"]}
+ ],
+ "trap": ["Pelé", "Ronaldo"],
+ "pick": ["Ronaldo", "Kaká", "Roberto Carlos"],
+ "pick_title": "Le trio pile à 12M",
+ "example": "Ronaldinho · Neymar · Cafu",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Brazil_national_football_team"
+ ],
+ "caption": "12M pour 3 légendes du Brésil. Pelé, Ronaldo ou Ronaldinho ? Ton trio 👇\n#bresil #selecao #ronaldo #ronaldinho #pele #defifoot #football #foot #footballtiktok #pourtoi"
+}

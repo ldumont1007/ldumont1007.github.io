@@ -1,0 +1,51 @@
+{
+ "format": "vote",
+ "cover": {
+  "tag": "DÉBAT",
+  "title": "Le meilleur défenseur de l'histoire ?",
+  "sub": "Un seul nom. Pas deux."
+ },
+ "candidates": [
+  {
+   "name": "Paolo Maldini",
+   "short": "Maldini",
+   "color": "red",
+   "sub": "AC Milan",
+   "facts": [
+    "902 matchs avec Milan, le seul club de sa carrière.",
+    "5 Coupes d'Europe / Ligues des champions."
+   ]
+  },
+  {
+   "name": "Fabio Cannavaro",
+   "short": "Cannavaro",
+   "color": "blue",
+   "sub": "Parme, Juventus, Real Madrid",
+   "facts": [
+    "Capitaine de l'Italie championne du monde 2006… contre la France.",
+    "Ballon d'Or 2006 en tant que défenseur central."
+   ]
+  },
+  {
+   "name": "Sergio Ramos",
+   "short": "Ramos",
+   "color": "gold",
+   "sub": "Séville, Real Madrid, PSG",
+   "facts": [
+    "4 Ligues des champions, dont la tête de la 93e en finale 2014.",
+    "Champion du monde 2010, Euro 2008 et 2012. 180 sélections."
+   ]
+  }
+ ],
+ "end_sub": "Maldini, Cannavaro ou Ramos ? Un seul nom en commentaire.",
+ "end_note": "Et Beckenbauer dans tout ça ? Dis-le.",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://www.acmilan.com/en/club/legends/players/paolo-maldini",
+  "https://www.sportskeeda.com/football/champions-league-players-won-most-titles-trophies-cristiano-ronaldo-paolo-maldini-sstl/4",
+  "https://www.uefa.com/news-media/news/01ed-0ea28499bbcb-ecf590e93e22-1000--fabio-cannavaro",
+  "https://www.fourfourtwo.com/features/fabio-cannavaro-opens-up-about-being-the-last-defender-to-ever-win-the-ballon-dor",
+  "https://en.psg.fr/teams/first-team/content/sergio-ramos-the-incredible-cv-psg-paris-saint-germain-mercato"
+ ],
+ "caption": "Maldini, Cannavaro ou Ramos : le meilleur défenseur de l'histoire ? 🛡️👇\n#maldini #cannavaro #sergioramos #defenseur #debatfoot #football #foot #footballtiktok #pourtoi"
+}
