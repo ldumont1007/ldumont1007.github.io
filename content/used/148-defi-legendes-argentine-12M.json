@@ -1,0 +1,18 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Légendes d'Argentine",
+ "tiers": [
+  {"price": 6, "names": ["Messi", "Maradona", "Di Stéfano"]},
+  {"price": 4, "names": ["Batistuta", "Riquelme", "Agüero"]},
+  {"price": 2, "names": ["Zanetti", "Crespo", "Di María"]}
+ ],
+ "trap": ["Messi", "Maradona"],
+ "pick": ["Maradona", "Batistuta", "Di María"],
+ "pick_title": "Le trio pile à 12M",
+ "example": "Messi · Riquelme · Zanetti",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": ["https://en.wikipedia.org/wiki/Argentina_national_football_team"],
+ "caption": "12M pour 3 légendes d'Argentine. Messi ou Maradona ? Ton trio 👇\n#argentine #messi #maradona #albiceleste #defifoot #football #foot #footballtiktok #pourtoi"
+}

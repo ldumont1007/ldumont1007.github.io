@@ -1,0 +1,24 @@
+{
+ "format": "vote",
+ "cover": {"tag": "DÉBAT", "title": "Le plus grand numéro 10 de l'histoire ?", "sub": "Un seul nom. Pas deux."},
+ "candidates": [
+  {"name": "Zinédine Zidane", "short": "Zidane", "color": "blue", "sub": "Bordeaux, Juve, Real",
+   "facts": ["Doublé en finale de la Coupe du monde 1998. Ballon d'Or la même année.", "La volée de Glasgow en finale de C1 2002."]},
+  {"name": "Michel Platini", "short": "Platini", "color": "gold", "sub": "Nancy, Sainté, Juve",
+   "facts": ["3 Ballons d'Or d'affilée : 1983, 1984, 1985.", "9 buts à l'Euro 1984, gagné par la France."]},
+  {"name": "Diego Maradona", "short": "Maradona", "color": "teal", "sub": "Boca, Barcelone, Naples",
+   "facts": ["Champion du monde 1986, capitaine de l'Argentine.", "2 Scudetti avec Naples : 1987 et 1990."]}
+ ],
+ "end_sub": "Zidane, Platini ou Maradona ? Un seul nom en commentaire.",
+ "end_note": "Et Messi, il porte le 10 aussi… Dis-le.",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://inside.fifa.com/fr/news/15-mai-2002-le-coup-de-genie-de-zizou",
+  "https://www.uefa.com/uefachampionsleague/news/0217-0e8b7c4e6f51-2b9e4864423f-1000--marvel-at-zidane-s-breathtaking-volley",
+  "https://www.goal.com/fr/listes/hall-of-fame-michel-platini-le-roi-qui-a-mene-la-france-au-sommet/blt38ee7a3f13e17ba1",
+  "https://www.fff.fr/article/14960-bon-anniversaire-m-platini.html",
+  "https://inside.fifa.com/fr/news/mai-1987-maradona-naples-paradis-1628885",
+  "https://sport.sky.it/calcio/maradona-napoli-storia"
+ ],
+ "caption": "Zidane, Platini ou Maradona : le plus grand numéro 10 de l'histoire ? 🔟👇\n#zidane #platini #maradona #numero10 #debatfoot #football #foot #footballtiktok #pourtoi"
+}
