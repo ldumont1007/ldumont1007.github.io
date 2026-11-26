@@ -1,0 +1,53 @@
+{
+ "format": "story",
+ "cover": {
+  "tag": "HISTOIRE DU FOOT",
+  "big": "1978",
+  "big_color": "teal",
+  "title": "Bastia, petit club corse, en finale de Coupe d'Europe face au PSV.",
+  "swipe": "L'histoire"
+ },
+ "slides": [
+  {
+   "tag": "1977-78 · COUPE UEFA",
+   "big": "Johnny Rep.",
+   "body": "Bastia recrute l'attaquant néerlandais de Valence. Avec Claude Papi au milieu, la machine est lancée.",
+   "size": 95
+  },
+  {
+   "tag": "LE PARCOURS",
+   "big": "Tous tombent.",
+   "points": [
+    "Sporting Portugal : 5-3",
+    "Newcastle : 5-2",
+    "Torino : 5-3",
+    "Carl Zeiss Iéna : 7-2 à l'aller"
+   ],
+   "color": "gold",
+   "size": 95
+  },
+  {
+   "tag": "DEMI-FINALE · GRASSHOPPERS",
+   "big": "3-3.",
+   "body": "Qualifié aux buts à l'extérieur. Bastia est en finale de la Coupe UEFA.",
+   "color": "teal",
+   "size": 95
+  },
+  {
+   "tag": "26 AVRIL & 9 MAI 1978",
+   "big": "0-0, 0-3.",
+   "body": "Nul à Furiani, puis défaite à Eindhoven. Le PSV soulève la coupe, mais la Corse a fait trembler l'Europe.",
+   "color": "red",
+   "size": 95
+  }
+ ],
+ "end_title": "Plus beau parcours européen d'un club français ?",
+ "end_sub": "Oui ou non en commentaire.",
+ "follow": "une histoire de foot folle chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/1978_UEFA_Cup_final",
+  "https://en.wikipedia.org/wiki/1977%E2%80%9378_SEC_Bastia_season",
+  "https://www.uefa.com/uefaeuropaleague/news/005a-0e6a08310d6c-cb6042e2aa1f-1000--1977-78-free-scoring-psv-prevail"
+ ],
+ "caption": "Un petit club corse en finale de Coupe d'Europe face au PSV. Tu connaissais ? 🤯👇\n#bastia #corse #coupeuefa #histoiredufoot #nostalgiefoot #football #foot #footballtiktok #pourtoi"
+}

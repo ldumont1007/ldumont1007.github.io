@@ -1,0 +1,25 @@
+{
+ "format": "quiz",
+ "cover": {
+  "tag": "QUIZ LÉGENDE",
+  "title": "Devine le joueur en 3 indices",
+  "sub": "Trouvé à l'indice 1 = vrai connaisseur.",
+  "note": "Pas de triche : la réponse est à la fin."
+ },
+ "clues": [
+  "Né au Brésil en 1970, il passe par Vasco de Gama puis le Servette de Genève avant d'arriver en France.",
+  "Marseille, Monaco, Barcelone, Lyon : 138 buts en Ligue 1, et seulement 6 sélections avec le Brésil.",
+  "3 fois meilleur buteur de D1 (Monaco 1996, Lyon 2000 et 2001), il offre à l'OL ses premiers titres de champion."
+ ],
+ "answer": {
+  "first": "Sonny",
+  "last": "Anderson",
+  "note": "Champion de France avec Monaco en 1997, puis avec Lyon en 2002 et 2003."
+ },
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Sonny_Anderson",
+  "https://ligue1.com/en/articles/l1_article_820-happy-birthday-sonny-anderson"
+ ],
+ "caption": "3 indices, une légende de la Ligue 1. Trouvé à quel indice ? 🧠👇\n#quizfoot #devinelejoueur #ligue1 #nostalgiefoot #football #foot #footballtiktok #pourtoi"
+}

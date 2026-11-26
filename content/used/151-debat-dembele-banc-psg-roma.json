@@ -1,0 +1,39 @@
+{
+ "format": "vote",
+ "cover": {
+  "tag": "DÉBAT · PSG 2-2 ROME",
+  "title": "Dembélé sur le banc contre la Roma : bon choix de Luis Enrique ?",
+  "sub": "C1, 25 novembre 2026, au Parc des Princes."
+ },
+ "candidates": [
+  {
+   "name": "Bon choix",
+   "short": "Bon choix",
+   "color": "teal",
+   "sub": "Le coach a eu raison",
+   "facts": [
+    "Entré peu avant l'heure de jeu, Dembélé transforme le penalty du 2-1 à la 62e.",
+    "Gérer les minutes de son Ballon d'Or, c'est penser à toute la saison."
+   ]
+  },
+  {
+   "name": "Erreur",
+   "short": "Erreur",
+   "color": "red",
+   "sub": "Il fallait le titulariser",
+   "facts": [
+    "Menés dès la 5e minute, les Parisiens n'ont pris l'avantage qu'à la 62e.",
+    "Rome égalise sur penalty à la 78e : premiers points perdus du PSG en C1 cette saison."
+   ]
+  }
+ ],
+ "end_sub": "Bon choix ou erreur ? Un mot en commentaire.",
+ "end_note": "Et toi, tu fais tourner contre la Roma ?",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://www.espn.com/soccer/report/_/gameId/401915374",
+  "https://www.footmercato.net/live/3716701755207444517-paris-saint-germain-vs-rome",
+  "https://www.kickfootball.fr/ligue-des-champions/ligue-des-champions-lille-renverse-le-bayern-le-psg-freine-liverpool-et-le-barca-assurent-204238"
+ ],
+ "caption": "Dembélé remplaçant contre la Roma : génie ou erreur de Luis Enrique ? 🤔👇\n#psg #dembele #luisenrique #liguedeschampions #debatfoot #football #foot #footballtiktok #pourtoi"
+}

@@ -1,0 +1,49 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Légendes du Portugal",
+ "tiers": [
+  {
+   "price": 6,
+   "names": [
+    "Ronaldo",
+    "Eusébio",
+    "Figo"
+   ]
+  },
+  {
+   "price": 4,
+   "names": [
+    "Rui Costa",
+    "Deco",
+    "Pepe"
+   ]
+  },
+  {
+   "price": 2,
+   "names": [
+    "Pauleta",
+    "Carvalho",
+    "Nani"
+   ]
+  }
+ ],
+ "trap": [
+  "Ronaldo",
+  "Eusébio"
+ ],
+ "pick": [
+  "Figo",
+  "Deco",
+  "Pauleta"
+ ],
+ "pick_title": "Le trio pile à 12M",
+ "example": "Ronaldo · Rui Costa · Carvalho",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Portugal_national_football_team",
+  "https://en.wikipedia.org/wiki/Pedro_Pauleta"
+ ],
+ "caption": "12M pour 3 légendes du Portugal. Ronaldo ou Eusébio ? Ton trio 👇\n#portugal #cristianoronaldo #eusebio #figo #defifoot #football #foot #footballtiktok #pourtoi"
+}
