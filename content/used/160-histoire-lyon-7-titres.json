@@ -1,0 +1,54 @@
+{
+ "format": "story",
+ "cover": {
+  "tag": "HISTOIRE DU FOOT",
+  "big": "7",
+  "big_color": "gold",
+  "title": "L'OL, champion de France 7 fois d'affilée. Personne n'a fait mieux.",
+  "swipe": "L'histoire"
+ },
+ "slides": [
+  {
+   "tag": "4 MAI 2002 · DERNIÈRE JOURNÉE",
+   "big": "3-1.",
+   "body": "Lens est leader et un nul lui suffit. À Gerland, Lyon gagne 3-1 et décroche son tout premier titre de champion.",
+   "size": 95
+  },
+  {
+   "tag": "2002 → 2008",
+   "big": "4 coachs.",
+   "points": [
+    "Santini : 2002",
+    "Le Guen : 2003, 2004, 2005",
+    "Houllier : 2006, 2007",
+    "Perrin : 2008"
+   ],
+   "color": "gold",
+   "size": 95
+  },
+  {
+   "tag": "2006 · RECORD BATTU",
+   "big": "5e titre.",
+   "body": "Lyon dépasse les 4 titres d'affilée de Saint-Étienne et de l'OM. Et l'OL ne s'arrête pas là.",
+   "color": "teal",
+   "size": 95
+  },
+  {
+   "tag": "2008 · LE BOUQUET FINAL",
+   "big": "Le doublé.",
+   "body": "7e titre de suite, et la Coupe de France en plus : le premier doublé de l'histoire du club.",
+   "color": "red",
+   "size": 95
+  }
+ ],
+ "end_title": "Le PSG battra-t-il ce record ?",
+ "end_sub": "Oui ou non en commentaire.",
+ "follow": "une histoire de foot folle chaque jour",
+ "sources": [
+  "https://uefa.com/news-media/news/0185-0e1089e4e1c0-567ffd54f5b9-1000--france-round-up-lyon-clinch-first-championship",
+  "https://www.uefa.com/news-media/news/01b4-0f8487c03cc9-d6d89063bb42-1000--lyon-rewrite-the-record-books",
+  "https://thesefootballtimes.co/the-magnificent-seven-remembering-lyons-star-studded-dominance-of-french-football/",
+  "https://ligue1.com/en/articles/l1_article_4875-lyon-how-a-dynasty-was-made"
+ ],
+ "caption": "7 titres d'affilée, record de France. L'OL 2002-2008 🔥 Tu t'en souviens ? 👇\n#ol #lyon #ligue1 #histoiredufoot #football #foot #footballtiktok #pourtoi"
+}

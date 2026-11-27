@@ -1,0 +1,32 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Ballons d'Or",
+ "tiers": [
+  {"price": 6, "names": ["Messi", "C. Ronaldo", "Zidane"]},
+  {"price": 4, "names": ["Ronaldinho", "Kaká", "Benzema"]},
+  {"price": 2, "names": ["Modrić", "Owen", "Papin"]}
+ ],
+ "subs": {
+  "Messi": "8 Ballons d'Or",
+  "C. Ronaldo": "5 Ballons d'Or",
+  "Zidane": "1998",
+  "Ronaldinho": "2005",
+  "Kaká": "2007",
+  "Benzema": "2022",
+  "Modrić": "2018",
+  "Owen": "2001",
+  "Papin": "1991"
+ },
+ "trap": ["Messi", "Zidane"],
+ "pick": ["Ronaldinho", "Kaká", "Benzema"],
+ "pick_title": "Le trio pile à 12M",
+ "example": "Zidane · Benzema · Papin",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://www.nbcsports.com/soccer/news/ballon-dor-mens-winners-all-time-history-messi-ronaldo-dembele",
+  "https://www.uefa.com/ballondor/news/0292-1c27056169a7-bc88d1fdba43-1000--ballon-d-or-laureates-who-has-won-football-s-most-prestig"
+ ],
+ "caption": "12M pour 3 Ballons d'Or. Papin à 2M, scandale ? 😅 Ton trio ? 👇\n#ballondor #zidane #messi #benzema #defifoot #football #foot #footballtiktok #pourtoi"
+}

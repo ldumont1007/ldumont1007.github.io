@@ -1,0 +1,25 @@
+{
+ "format": "quiz",
+ "cover": {
+  "tag": "QUIZ LÉGENDE",
+  "title": "Devine le joueur en 3 indices",
+  "sub": "Trouvé à l'indice 1 = vrai connaisseur.",
+  "note": "Pas de triche : la réponse est à la fin."
+ },
+ "clues": [
+  "Surfeur et fan de jiu-jitsu brésilien, il a même été champion d'Europe de la discipline en 2009.",
+  "Premier Français de l'histoire de l'Athletic Bilbao, il passe ensuite 8 saisons au Bayern et gagne la C1 en 2001.",
+  "Latéral gauche des Bleus : 97 sélections, champion du monde 1998 et champion d'Europe 2000."
+ ],
+ "answer": {
+  "first": "Bixente",
+  "last": "Lizarazu",
+  "note": "Formé à Bordeaux, 6 titres de Bundesliga, et une saison à l'OM en 2004-05."
+ },
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Bixente_Lizarazu",
+  "https://fcbayern.com/en/club/hall-of-fame/bixente-lizarazu"
+ ],
+ "caption": "3 indices, un champion du monde 98. Trouvé à quel indice ? 🧠👇\n#quizfoot #devinelejoueur #equipedefrance #nostalgiefoot #football #foot #footballtiktok #pourtoi"
+}

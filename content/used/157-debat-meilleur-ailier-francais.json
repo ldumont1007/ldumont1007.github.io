@@ -1,0 +1,50 @@
+{
+ "format": "vote",
+ "cover": {
+  "tag": "DÉBAT BLEUS",
+  "title": "Le meilleur ailier français de l'histoire ?",
+  "sub": "Ribéry, Dembélé ou Pirès. Un seul nom."
+ },
+ "candidates": [
+  {
+   "name": "Franck Ribéry",
+   "short": "Ribéry",
+   "color": "red",
+   "sub": "La légende du Bayern",
+   "facts": [
+    "9 titres de Bundesliga et la C1 2013, avec la passe décisive pour Robben en finale.",
+    "3e du Ballon d'Or 2013, derrière Ronaldo et Messi."
+   ]
+  },
+  {
+   "name": "Ousmane Dembélé",
+   "short": "Dembélé",
+   "color": "blue",
+   "sub": "Le Ballon d'Or",
+   "facts": [
+    "Ballon d'Or 2025, le premier Français depuis Benzema.",
+    "Champion du monde 2018 et champion d'Europe avec le PSG en 2025."
+   ]
+  },
+  {
+   "name": "Robert Pirès",
+   "short": "Pirès",
+   "color": "gold",
+   "sub": "Le génie d'Arsenal",
+   "facts": [
+    "Champion du monde 1998 et champion d'Europe 2000 avec les Bleus.",
+    "Élu meilleur joueur d'Angleterre par les journalistes (FWA) en 2002, l'année du doublé."
+   ]
+  }
+ ],
+ "end_sub": "Ribéry, Dembélé ou Pirès ? Un nom en commentaire.",
+ "end_note": "Et si tu en vois un autre, balance-le.",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://www.bundesliga.com/en/bundesliga/news/9-titles-franck-ribery-becomes-all-time-record-champion-bayern-munich-4615",
+  "https://en.wikipedia.org/wiki/Franck_Rib%C3%A9ry",
+  "https://www.nbcsports.com/soccer/news/ballon-dor-mens-winners-all-time-history-messi-ronaldo-dembele",
+  "https://arsenal.com/node/7594"
+ ],
+ "caption": "Ribéry, Dembélé ou Pirès : le meilleur ailier français de l'histoire ? 🔥👇\n#ribery #dembele #pires #equipedefrance #debatfoot #football #foot #footballtiktok #pourtoi"
+}
