@@ -1,0 +1,21 @@
+{
+ "format": "budget",
+ "budget": 12,
+ "title": "Légendes de l'Ajax",
+ "tiers": [
+  {"price": 6, "names": ["Cruyff", "Van Basten", "Bergkamp"]},
+  {"price": 4, "names": ["Rijkaard", "Litmanen", "Seedorf"]},
+  {"price": 2, "names": ["Kluivert", "Davids", "Overmars"]}
+ ],
+ "trap": ["Cruyff", "Van Basten"],
+ "pick": ["Bergkamp", "Litmanen", "Kluivert"],
+ "pick_title": "Le trio pile à 12M",
+ "example": "Cruyff · Seedorf · Davids",
+ "end_sub": "Écris ton trio en commentaire",
+ "follow": "un nouveau défi foot chaque jour",
+ "sources": [
+  "https://en.wikipedia.org/wiki/AFC_Ajax",
+  "https://en.wikipedia.org/wiki/List_of_AFC_Ajax_players"
+ ],
+ "caption": "12M pour 3 légendes de l'Ajax. Cruyff ou Van Basten ? Ton trio 👇\n#ajax #cruyff #vanbasten #bergkamp #defifoot #football #foot #footballtiktok #pourtoi"
+}

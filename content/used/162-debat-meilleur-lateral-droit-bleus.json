@@ -1,0 +1,51 @@
+{
+ "format": "vote",
+ "cover": {
+  "tag": "DÉBAT",
+  "title": "Le meilleur latéral droit de l'histoire des Bleus ?",
+  "sub": "Trois couloirs droits. Un seul patron."
+ },
+ "candidates": [
+  {
+   "name": "Thuram",
+   "short": "THURAM",
+   "color": "blue",
+   "sub": "Parme · Juventus · Barça",
+   "facts": [
+    "142 sélections. Champion du monde 1998 et d'Europe 2000.",
+    "Ses 2 seuls buts en Bleu : contre la Croatie, en demie du Mondial 98."
+   ]
+  },
+  {
+   "name": "Sagnol",
+   "short": "SAGNOL",
+   "color": "red",
+   "sub": "Monaco · Bayern",
+   "facts": [
+    "58 sélections, finaliste du Mondial 2006.",
+    "Ligue des champions 2001 avec le Bayern."
+   ]
+  },
+  {
+   "name": "Pavard",
+   "short": "PAVARD",
+   "color": "teal",
+   "sub": "Stuttgart · Bayern",
+   "facts": [
+    "Champion du monde 2018.",
+    "Sa volée contre l'Argentine : élue plus beau but du Mondial 2018."
+   ]
+  }
+ ],
+ "end_sub": "Thuram, Sagnol ou Pavard ? Un seul nom en commentaire.",
+ "end_note": "Un autre nom ? Défends-le.",
+ "follow": "un nouveau débat foot chaque jour",
+ "sources": [
+  "https://www.fff.fr/equipe-nationale/joueur/8540-thuram-lilian/fiche.html",
+  "https://inside.fifa.com/en/news/worldcupathome-titanic-thuram-sinks-croatia-3072150",
+  "https://en.wikipedia.org/wiki/Willy_Sagnol",
+  "https://www.fifa.com/tournaments/mens/worldcup/2018russia/news/pavard-s-stunner-voted-hyundai-goal-of-the-tournament",
+  "https://www.si.com/soccer/2018/07/25/benjamin-pavards-stunning-world-cup-volley-officially-voted-goal-tournament"
+ ],
+ "caption": "Thuram, Sagnol ou Pavard : le meilleur latéral droit des Bleus ? 🇫🇷👇\n#equipedefrance #thuram #sagnol #pavard #lesbleus #football #foot #footballtiktok #pourtoi"
+}

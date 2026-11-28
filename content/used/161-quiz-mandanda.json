@@ -1,0 +1,26 @@
+{
+ "format": "quiz",
+ "cover": {
+  "tag": "QUIZ LÉGENDE",
+  "title": "Devine le joueur en 3 indices",
+  "sub": "Trouvé à l'indice 1 = vrai connaisseur.",
+  "note": "Pas de triche : la réponse est à la fin."
+ },
+ "clues": [
+  "Il n'a joué qu'une seule saison en Premier League : à Crystal Palace, en 2016-17.",
+  "Arrivé du Havre en 2007, il a disputé 613 matchs avec le même club. Personne n'a fait mieux là-bas.",
+  "Gardien, 34 sélections en Bleu, doublure de Lloris au Mondial 2018 gagné par la France."
+ ],
+ "answer": {
+  "first": "Steve",
+  "last": "Mandanda",
+  "note": "613 matchs avec l'OM : le record absolu du club, tous postes confondus."
+ },
+ "follow": "un nouveau quiz foot chaque jour",
+ "sources": [
+  "https://www.fotmob.com/fi/news/196p63lrzty7g13mh2gd5v31w5/Marseille-legend-Mandanda-departs-after-record-613-games-for-Ligue-1-giants",
+  "https://foudelom.fr/encyclopedie/records-om/",
+  "https://fourfourtwo.com/news/mandanda-breaks-marseille-appearance-record"
+ ],
+ "caption": "3 indices, une légende du Vélodrome. Trouvé à quel indice ? 🧠👇\n#quizfoot #devinelejoueur #ligue1 #nostalgiefoot #football #foot #footballtiktok #pourtoi"
+}

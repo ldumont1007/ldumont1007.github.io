@@ -1,0 +1,52 @@
+{
+ "format": "story",
+ "cover": {
+  "tag": "HISTOIRE DU FOOT",
+  "big": "3-3",
+  "big_color": "gold",
+  "title": "France-Argentine 2022 : la finale la plus folle de l'histoire ?",
+  "swipe": "L'histoire"
+ },
+ "slides": [
+  {
+   "tag": "18 DÉCEMBRE 2022 · LUSAIL",
+   "big": "2-0.",
+   "body": "Penalty de Messi, puis Di María. À la pause, les Bleus n'ont pas existé. L'Argentine se voit déjà championne.",
+   "size": 95
+  },
+  {
+   "tag": "80e MINUTE",
+   "big": "Mbappé.",
+   "body": "Penalty : 2-1. Moins de deux minutes plus tard, une volée : 2-2. Lusail est sous le choc.",
+   "color": "gold",
+   "size": 95
+  },
+  {
+   "tag": "PROLONGATION",
+   "big": "Triplé.",
+   "points": [
+    "Messi redonne l'avantage : 3-2",
+    "Mbappé égalise sur penalty : 3-3",
+    "1er triplé en finale depuis Geoff Hurst en 1966"
+   ],
+   "color": "teal",
+   "size": 95
+  },
+  {
+   "tag": "TIRS AU BUT",
+   "big": "4-2.",
+   "body": "Coman arrêté par Emiliano Martínez, Tchouaméni à côté. Messi soulève la Coupe, Mbappé finit meilleur buteur avec 8 buts.",
+   "color": "red",
+   "size": 95
+  }
+ ],
+ "end_title": "Plus belle finale de Coupe du monde de l'histoire ?",
+ "end_sub": "Oui ou non en commentaire.",
+ "follow": "une histoire de foot folle chaque jour",
+ "sources": [
+  "https://olympics.com/en/news/lionel-messi-world-cup-final-trophy-argentina-france-2022-penalties",
+  "https://www.skysports.com/football/news/12098/12768573/argentina-3-3-france-4-2-on-pens-lionel-messi-leads-argentina-to-world-cup-glory-despite-kylian-mbappe-hat-trick",
+  "https://fourfourtwo.com/news/watch-kylian-mbappe-seals-first-world-cup-final-hat-trick-since-geoff-hurst-with-dramatic-extra-time-penalty"
+ ],
+ "caption": "Menés 2-0, un triplé de Mbappé, et les tirs au but. Tu t'en remets ? 💔👇\n#mbappe #equipedefrance #coupedumonde #histoiredufoot #messi #football #foot #footballtiktok #pourtoi"
+}
